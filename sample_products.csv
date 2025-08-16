@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,unit_price,cost_price,stock_quantity,weight_kg,supplier_id
+1,Beauty Product 1,Beauty,Beauty Sub1,BrandD,216.07,125.71,798,4.8,16
+2,Clothing Product 2,Clothing,Clothing Sub3,BrandD,331.37,142.66,521,3.25,2
+3,Electronics Product 3,Electronics,Electronics Sub1,BrandD,85.06,51.32,558,4.7,13
+4,Sports Product 4,Sports,Sports Sub1,BrandA,296.01,196.0,801,0.48,20
+5,Books Product 5,Books,Books Sub1,BrandC,85.46,53.2,586,3.21,9
+6,Home & Garden Product 6,Home & Garden,Home & Garden Sub3,BrandD,36.55,23.15,683,0.88,5
+7,Beauty Product 7,Beauty,Beauty Sub3,BrandA,257.21,95.67,962,1.76,18
+8,Beauty Product 8,Beauty,Beauty Sub1,BrandB,308.34,187.18,467,2.57,5
+9,Clothing Product 9,Clothing,Clothing Sub4,BrandA,327.92,121.5,158,1.32,12
+10,Clothing Product 10,Clothing,Clothing Sub4,BrandA,358.77,127.96,698,1.63,1
+11,Home & Garden Product 11,Home & Garden,Home & Garden Sub4,BrandB,62.26,39.62,145,0.87,10
+12,Home & Garden Product 12,Home & Garden,Home & Garden Sub2,BrandC,88.09,52.01,808,0.17,13
+13,Clothing Product 13,Clothing,Clothing Sub3,BrandD,119.12,90.02,789,3.86,13
+14,Clothing Product 14,Clothing,Clothing Sub2,BrandA,151.98,94.73,869,1.39,14
+15,Beauty Product 15,Beauty,Beauty Sub4,BrandC,190.07,104.57,652,4.56,4
+16,Books Product 16,Books,Books Sub1,BrandE,110.97,53.29,846,4.09,19
+17,Sports Product 17,Sports,Sports Sub1,BrandE,123.87,49.02,343,2.08,11
+18,Home & Garden Product 18,Home & Garden,Home & Garden Sub2,BrandB,540.65,196.71,632,4.62,15
+19,Home & Garden Product 19,Home & Garden,Home & Garden Sub3,BrandC,213.02,84.03,786,3.02,17
+20,Home & Garden Product 20,Home & Garden,Home & Garden Sub4,BrandE,581.33,198.96,321,0.62,11
+21,Books Product 21,Books,Books Sub3,BrandE,100.3,64.37,425,2.25,18
+22,Home & Garden Product 22,Home & Garden,Home & Garden Sub2,BrandB,214.15,101.88,683,2.59,2
+23,Books Product 23,Books,Books Sub1,BrandE,240.53,89.11,52,2.71,1
+24,Sports Product 24,Sports,Sports Sub1,BrandB,92.06,57.37,174,4.73,7
+25,Clothing Product 25,Clothing,Clothing Sub1,BrandB,315.14,186.83,35,1.39,9
+26,Beauty Product 26,Beauty,Beauty Sub4,BrandC,42.2,32.43,928,3.56,19
+27,Home & Garden Product 27,Home & Garden,Home & Garden Sub3,BrandB,262.58,107.87,469,2.05,2
+28,Sports Product 28,Sports,Sports Sub2,BrandE,48.74,23.06,336,0.47,14
+29,Sports Product 29,Sports,Sports Sub2,BrandB,40.82,13.92,223,1.56,3
+30,Electronics Product 30,Electronics,Electronics Sub2,BrandC,496.32,168.76,396,1.66,14
+31,Books Product 31,Books,Books Sub4,BrandD,139.09,49.31,818,2.71,8
+32,Electronics Product 32,Electronics,Electronics Sub4,BrandC,101.22,47.94,922,1.8,16
+33,Beauty Product 33,Beauty,Beauty Sub4,BrandE,520.85,188.91,529,1.17,17
+34,Beauty Product 34,Beauty,Beauty Sub2,BrandE,131.98,90.13,5,1.15,4
+35,Sports Product 35,Sports,Sports Sub1,BrandE,340.33,129.53,329,3.6,5
+36,Beauty Product 36,Beauty,Beauty Sub4,BrandA,73.97,40.95,537,1.01,4
+37,Sports Product 37,Sports,Sports Sub4,BrandE,165.58,60.97,901,2.2,16
+38,Home & Garden Product 38,Home & Garden,Home & Garden Sub2,BrandD,23.75,13.49,203,4.27,16
+39,Clothing Product 39,Clothing,Clothing Sub3,BrandE,183.72,76.34,872,4.67,5
+40,Clothing Product 40,Clothing,Clothing Sub4,BrandC,63.04,30.23,195,4.93,19
+41,Clothing Product 41,Clothing,Clothing Sub1,BrandA,33.32,25.13,948,4.63,9
+42,Sports Product 42,Sports,Sports Sub3,BrandC,339.55,134.84,519,3.21,6
+43,Books Product 43,Books,Books Sub2,BrandA,300.9,197.35,106,1.43,19
+44,Clothing Product 44,Clothing,Clothing Sub1,BrandD,335.41,112.13,890,0.62,5
+45,Sports Product 45,Sports,Sports Sub1,BrandD,35.26,17.84,49,3.87,4
+46,Books Product 46,Books,Books Sub1,BrandA,105.44,50.12,648,3.84,2
+47,Books Product 47,Books,Books Sub4,BrandA,254.96,102.74,760,1.7,3
+48,Sports Product 48,Sports,Sports Sub4,BrandD,142.88,55.02,625,3.41,4
+49,Electronics Product 49,Electronics,Electronics Sub2,BrandE,404.87,160.04,707,0.18,4
+50,Beauty Product 50,Beauty,Beauty Sub4,BrandB,21.72,16.09,164,3.51,12
+51,Electronics Product 51,Electronics,Electronics Sub4,BrandE,180.9,97.47,841,4.33,16
+52,Home & Garden Product 52,Home & Garden,Home & Garden Sub2,BrandD,546.98,196.2,15,1.89,2
+53,Sports Product 53,Sports,Sports Sub1,BrandD,122.33,40.89,749,0.86,16
+54,Electronics Product 54,Electronics,Electronics Sub3,BrandB,395.36,148.64,173,1.54,12
+55,Sports Product 55,Sports,Sports Sub4,BrandC,237.99,87.29,696,2.57,7
+56,Electronics Product 56,Electronics,Electronics Sub3,BrandE,253.37,194.85,909,2.47,13
+57,Beauty Product 57,Beauty,Beauty Sub4,BrandA,160.05,86.06,773,4.05,7
+58,Electronics Product 58,Electronics,Electronics Sub3,BrandE,238.58,132.31,396,0.96,18
+59,Electronics Product 59,Electronics,Electronics Sub2,BrandD,94.73,60.04,460,2.53,11
+60,Electronics Product 60,Electronics,Electronics Sub4,BrandB,334.1,149.54,101,1.89,5
+61,Home & Garden Product 61,Home & Garden,Home & Garden Sub4,BrandE,386.84,137.94,395,0.51,18
+62,Home & Garden Product 62,Home & Garden,Home & Garden Sub4,BrandE,368.43,146.59,953,2.91,9
+63,Books Product 63,Books,Books Sub2,BrandC,294.04,151.12,587,2.84,6
+64,Home & Garden Product 64,Home & Garden,Home & Garden Sub4,BrandD,204.72,170.54,991,1.71,17
+65,Beauty Product 65,Beauty,Beauty Sub2,BrandB,314.08,153.3,77,0.7,17
+66,Sports Product 66,Sports,Sports Sub4,BrandE,30.93,15.61,980,0.2,1
+67,Books Product 67,Books,Books Sub4,BrandD,212.48,131.02,353,5.0,9
+68,Sports Product 68,Sports,Sports Sub4,BrandB,230.56,166.41,150,4.77,15
+69,Clothing Product 69,Clothing,Clothing Sub3,BrandE,241.47,99.83,589,4.7,20
+70,Books Product 70,Books,Books Sub1,BrandD,107.62,64.98,693,4.58,18
+71,Clothing Product 71,Clothing,Clothing Sub3,BrandB,339.13,118.14,851,4.01,20
+72,Home & Garden Product 72,Home & Garden,Home & Garden Sub1,BrandA,386.73,150.94,307,4.89,18
+73,Electronics Product 73,Electronics,Electronics Sub4,BrandD,428.77,156.29,923,3.71,18
+74,Clothing Product 74,Clothing,Clothing Sub3,BrandB,220.2,152.43,938,4.17,15
+75,Electronics Product 75,Electronics,Electronics Sub3,BrandB,144.65,94.22,756,2.02,19
+76,Sports Product 76,Sports,Sports Sub2,BrandA,287.92,120.1,146,3.08,3
+77,Beauty Product 77,Beauty,Beauty Sub3,BrandA,246.57,138.33,418,1.69,10
+78,Books Product 78,Books,Books Sub2,BrandA,492.39,182.16,817,2.23,8
+79,Sports Product 79,Sports,Sports Sub3,BrandC,125.74,44.18,594,4.34,9
+80,Beauty Product 80,Beauty,Beauty Sub4,BrandA,340.54,132.33,586,3.55,17
+81,Beauty Product 81,Beauty,Beauty Sub3,BrandE,154.15,73.2,20,4.83,10
+82,Clothing Product 82,Clothing,Clothing Sub4,BrandB,439.61,152.35,762,0.85,9
+83,Books Product 83,Books,Books Sub2,BrandA,426.99,179.63,752,4.88,2
+84,Books Product 84,Books,Books Sub3,BrandC,549.87,187.87,580,1.53,13
+85,Beauty Product 85,Beauty,Beauty Sub3,BrandB,269.13,185.17,862,3.84,14
+86,Books Product 86,Books,Books Sub4,BrandA,26.09,10.18,847,4.44,19
+87,Books Product 87,Books,Books Sub4,BrandB,208.98,98.5,377,2.29,16
+88,Beauty Product 88,Beauty,Beauty Sub1,BrandB,194.86,110.09,763,0.7,18
+89,Home & Garden Product 89,Home & Garden,Home & Garden Sub2,BrandD,90.67,38.15,268,3.74,3
+90,Home & Garden Product 90,Home & Garden,Home & Garden Sub2,BrandD,306.35,198.17,853,0.73,7
+91,Sports Product 91,Sports,Sports Sub3,BrandA,291.94,130.28,257,2.98,15
+92,Beauty Product 92,Beauty,Beauty Sub1,BrandB,109.59,89.06,275,3.81,17
+93,Sports Product 93,Sports,Sports Sub3,BrandD,158.06,76.13,96,2.14,17
+94,Electronics Product 94,Electronics,Electronics Sub4,BrandB,83.89,55.83,327,4.91,20
+95,Beauty Product 95,Beauty,Beauty Sub3,BrandC,162.7,74.81,801,0.92,17
+96,Books Product 96,Books,Books Sub3,BrandA,41.44,16.79,77,1.34,17
+97,Clothing Product 97,Clothing,Clothing Sub1,BrandD,432.8,151.93,26,4.95,16
+98,Beauty Product 98,Beauty,Beauty Sub1,BrandB,195.07,146.52,461,0.18,9
+99,Sports Product 99,Sports,Sports Sub4,BrandA,144.6,92.61,374,2.36,4
+100,Sports Product 100,Sports,Sports Sub4,BrandB,18.04,12.75,844,2.4,5
+101,Sports Product 101,Sports,Sports Sub4,BrandD,106.68,80.33,689,2.64,20
+102,Sports Product 102,Sports,Sports Sub1,BrandD,153.83,101.25,727,4.0,16
+103,Sports Product 103,Sports,Sports Sub1,BrandA,157.7,79.59,610,2.81,7
+104,Clothing Product 104,Clothing,Clothing Sub3,BrandA,190.73,100.12,51,2.08,2
+105,Beauty Product 105,Beauty,Beauty Sub1,BrandA,121.03,97.75,460,1.29,15
+106,Home & Garden Product 106,Home & Garden,Home & Garden Sub2,BrandC,57.42,22.32,103,2.25,2
+107,Home & Garden Product 107,Home & Garden,Home & Garden Sub1,BrandD,191.07,88.08,802,4.26,4
+108,Electronics Product 108,Electronics,Electronics Sub4,BrandA,83.78,35.88,227,3.43,20
+109,Books Product 109,Books,Books Sub1,BrandC,464.8,186.56,786,1.3,18
+110,Home & Garden Product 110,Home & Garden,Home & Garden Sub3,BrandB,195.45,123.61,111,0.88,9
+111,Home & Garden Product 111,Home & Garden,Home & Garden Sub1,BrandE,332.63,132.47,435,4.88,6
+112,Clothing Product 112,Clothing,Clothing Sub1,BrandE,530.19,179.26,740,0.91,18
+113,Clothing Product 113,Clothing,Clothing Sub1,BrandE,434.0,147.77,796,2.42,17
+114,Home & Garden Product 114,Home & Garden,Home & Garden Sub4,BrandD,244.27,125.37,724,1.72,15
+115,Home & Garden Product 115,Home & Garden,Home & Garden Sub4,BrandC,282.09,95.83,764,1.73,1
+116,Electronics Product 116,Electronics,Electronics Sub1,BrandD,135.71,62.17,106,1.66,6
+117,Electronics Product 117,Electronics,Electronics Sub1,BrandC,288.29,193.73,12,4.21,2
+118,Clothing Product 118,Clothing,Clothing Sub4,BrandB,204.32,71.26,353,4.68,2
+119,Beauty Product 119,Beauty,Beauty Sub3,BrandA,291.81,105.27,355,1.59,16
+120,Electronics Product 120,Electronics,Electronics Sub4,BrandC,417.34,145.56,235,2.41,9
+121,Clothing Product 121,Clothing,Clothing Sub4,BrandC,138.71,68.93,809,3.92,5
+122,Electronics Product 122,Electronics,Electronics Sub4,BrandA,382.38,185.22,745,3.06,16
+123,Clothing Product 123,Clothing,Clothing Sub2,BrandD,402.97,199.43,408,0.63,8
+124,Books Product 124,Books,Books Sub2,BrandC,120.2,41.17,414,0.14,13
+125,Sports Product 125,Sports,Sports Sub3,BrandD,206.88,77.26,400,1.86,6
+126,Home & Garden Product 126,Home & Garden,Home & Garden Sub2,BrandB,237.32,165.92,833,3.6,9
+127,Clothing Product 127,Clothing,Clothing Sub1,BrandB,22.76,18.84,491,4.88,9
+128,Electronics Product 128,Electronics,Electronics Sub4,BrandC,247.81,191.15,791,2.44,12
+129,Books Product 129,Books,Books Sub2,BrandE,222.36,144.06,48,1.34,16
+130,Electronics Product 130,Electronics,Electronics Sub2,BrandB,470.84,159.44,192,1.24,15
+131,Sports Product 131,Sports,Sports Sub2,BrandE,436.21,175.77,407,1.73,19
+132,Sports Product 132,Sports,Sports Sub2,BrandD,263.04,159.41,595,1.51,6
+133,Clothing Product 133,Clothing,Clothing Sub2,BrandD,171.01,117.47,831,4.88,16
+134,Beauty Product 134,Beauty,Beauty Sub2,BrandD,398.08,186.21,192,3.48,14
+135,Electronics Product 135,Electronics,Electronics Sub2,BrandB,123.37,92.75,807,0.59,4
+136,Beauty Product 136,Beauty,Beauty Sub3,BrandA,161.51,123.89,672,1.72,10
+137,Electronics Product 137,Electronics,Electronics Sub4,BrandD,137.07,75.77,916,1.89,1
+138,Beauty Product 138,Beauty,Beauty Sub3,BrandC,215.09,105.61,558,3.2,2
+139,Books Product 139,Books,Books Sub2,BrandA,147.83,56.17,802,3.57,16
+140,Beauty Product 140,Beauty,Beauty Sub3,BrandE,488.05,173.8,852,1.62,12
+141,Books Product 141,Books,Books Sub1,BrandD,277.52,104.46,225,3.75,9
+142,Electronics Product 142,Electronics,Electronics Sub4,BrandA,280.07,133.06,549,1.47,19
+143,Home & Garden Product 143,Home & Garden,Home & Garden Sub2,BrandD,253.4,132.55,597,0.31,8
+144,Electronics Product 144,Electronics,Electronics Sub1,BrandA,420.25,160.81,243,1.55,4
+145,Sports Product 145,Sports,Sports Sub3,BrandD,217.67,115.23,90,2.73,7
+146,Beauty Product 146,Beauty,Beauty Sub1,BrandA,257.17,101.16,765,4.22,20
+147,Home & Garden Product 147,Home & Garden,Home & Garden Sub1,BrandD,234.79,169.34,739,4.46,16
+148,Electronics Product 148,Electronics,Electronics Sub2,BrandC,409.62,137.37,422,2.22,4
+149,Books Product 149,Books,Books Sub4,BrandB,364.06,141.81,311,1.41,7
+150,Home & Garden Product 150,Home & Garden,Home & Garden Sub3,BrandA,367.19,126.57,853,3.67,19
+151,Books Product 151,Books,Books Sub2,BrandB,317.21,177.3,493,1.33,6
+152,Electronics Product 152,Electronics,Electronics Sub1,BrandE,82.42,41.96,72,0.18,8
+153,Beauty Product 153,Beauty,Beauty Sub4,BrandA,411.93,142.25,863,4.01,2
+154,Beauty Product 154,Beauty,Beauty Sub4,BrandA,324.69,118.7,338,1.12,17
+155,Beauty Product 155,Beauty,Beauty Sub4,BrandA,40.51,19.5,146,3.76,7
+156,Books Product 156,Books,Books Sub1,BrandC,119.71,88.79,887,0.15,10
+157,Sports Product 157,Sports,Sports Sub2,BrandC,229.97,129.25,499,4.0,16
+158,Books Product 158,Books,Books Sub2,BrandB,253.43,145.08,684,2.37,17
+159,Sports Product 159,Sports,Sports Sub3,BrandD,37.97,15.01,328,2.22,9
+160,Beauty Product 160,Beauty,Beauty Sub4,BrandA,266.84,107.45,537,0.92,13
+161,Electronics Product 161,Electronics,Electronics Sub1,BrandA,283.93,158.25,235,4.32,13
+162,Clothing Product 162,Clothing,Clothing Sub3,BrandD,430.25,188.84,202,0.72,18
+163,Home & Garden Product 163,Home & Garden,Home & Garden Sub1,BrandE,160.25,120.69,37,3.77,6
+164,Clothing Product 164,Clothing,Clothing Sub4,BrandE,46.14,20.29,144,0.12,18
+165,Electronics Product 165,Electronics,Electronics Sub4,BrandC,327.71,122.5,495,3.72,20
+166,Electronics Product 166,Electronics,Electronics Sub3,BrandE,352.58,182.02,22,2.52,19
+167,Books Product 167,Books,Books Sub3,BrandC,179.89,82.58,474,3.77,12
+168,Home & Garden Product 168,Home & Garden,Home & Garden Sub3,BrandB,179.11,144.91,147,0.14,6
+169,Beauty Product 169,Beauty,Beauty Sub1,BrandE,46.54,18.85,895,1.62,2
+170,Clothing Product 170,Clothing,Clothing Sub4,BrandD,295.91,170.63,788,1.43,11
+171,Sports Product 171,Sports,Sports Sub4,BrandA,259.2,181.35,427,4.95,9
+172,Clothing Product 172,Clothing,Clothing Sub2,BrandD,248.16,115.23,464,1.67,3
+173,Sports Product 173,Sports,Sports Sub4,BrandC,365.49,176.79,356,2.1,9
+174,Beauty Product 174,Beauty,Beauty Sub2,BrandD,24.15,13.4,867,0.55,4
+175,Books Product 175,Books,Books Sub1,BrandE,145.45,50.02,561,2.08,2
+176,Home & Garden Product 176,Home & Garden,Home & Garden Sub3,BrandE,368.89,133.26,942,3.78,9
+177,Books Product 177,Books,Books Sub1,BrandD,324.63,122.88,547,4.57,18
+178,Electronics Product 178,Electronics,Electronics Sub2,BrandD,126.67,104.54,270,2.04,17
+179,Beauty Product 179,Beauty,Beauty Sub2,BrandE,172.92,109.79,15,1.9,20
+180,Sports Product 180,Sports,Sports Sub3,BrandA,408.03,141.79,419,1.4,1
+181,Clothing Product 181,Clothing,Clothing Sub4,BrandB,369.79,179.92,27,1.52,9
+182,Sports Product 182,Sports,Sports Sub1,BrandC,510.9,171.06,929,1.88,10
+183,Electronics Product 183,Electronics,Electronics Sub4,BrandD,223.07,118.14,819,2.75,14
+184,Clothing Product 184,Clothing,Clothing Sub2,BrandB,366.64,145.81,623,2.99,9
+185,Clothing Product 185,Clothing,Clothing Sub3,BrandA,139.72,56.61,26,3.67,17
+186,Sports Product 186,Sports,Sports Sub4,BrandC,133.29,52.32,958,3.11,7
+187,Beauty Product 187,Beauty,Beauty Sub3,BrandA,293.03,100.43,464,0.61,2
+188,Beauty Product 188,Beauty,Beauty Sub4,BrandD,144.27,52.96,827,0.43,2
+189,Home & Garden Product 189,Home & Garden,Home & Garden Sub1,BrandD,130.17,46.67,735,2.44,14
+190,Electronics Product 190,Electronics,Electronics Sub3,BrandA,43.74,35.27,16,4.91,16
+191,Beauty Product 191,Beauty,Beauty Sub2,BrandC,283.86,121.95,944,0.56,18
+192,Home & Garden Product 192,Home & Garden,Home & Garden Sub1,BrandB,220.33,152.45,567,0.28,14
+193,Electronics Product 193,Electronics,Electronics Sub4,BrandB,57.5,47.13,845,1.71,10
+194,Books Product 194,Books,Books Sub4,BrandB,335.42,199.4,444,1.93,8
+195,Electronics Product 195,Electronics,Electronics Sub1,BrandE,102.17,43.64,865,3.81,11
+196,Clothing Product 196,Clothing,Clothing Sub4,BrandC,124.97,79.2,563,1.2,5
+197,Books Product 197,Books,Books Sub2,BrandE,107.66,41.43,103,2.94,12
+198,Sports Product 198,Sports,Sports Sub1,BrandB,351.83,174.87,201,2.83,16
+199,Electronics Product 199,Electronics,Electronics Sub1,BrandC,191.99,152.97,564,0.32,14
+200,Books Product 200,Books,Books Sub1,BrandA,216.03,87.49,658,1.38,17
+201,Electronics Product 201,Electronics,Electronics Sub2,BrandC,94.02,32.34,735,2.42,5
+202,Books Product 202,Books,Books Sub4,BrandE,29.16,10.41,271,0.9,12
+203,Clothing Product 203,Clothing,Clothing Sub1,BrandC,182.93,103.83,8,3.56,10
+204,Clothing Product 204,Clothing,Clothing Sub1,BrandB,62.98,51.8,917,2.59,9
+205,Books Product 205,Books,Books Sub1,BrandE,201.81,81.6,105,1.77,7
+206,Sports Product 206,Sports,Sports Sub2,BrandE,213.18,155.09,69,2.68,11
+207,Clothing Product 207,Clothing,Clothing Sub3,BrandD,293.47,123.09,242,1.92,6
+208,Home & Garden Product 208,Home & Garden,Home & Garden Sub2,BrandA,290.8,123.23,802,1.36,5
+209,Beauty Product 209,Beauty,Beauty Sub3,BrandE,445.99,190.28,116,1.09,20
+210,Clothing Product 210,Clothing,Clothing Sub4,BrandD,134.97,103.87,121,4.1,6
+211,Electronics Product 211,Electronics,Electronics Sub1,BrandE,42.6,14.87,786,1.22,15
+212,Home & Garden Product 212,Home & Garden,Home & Garden Sub4,BrandA,421.69,192.72,750,2.88,6
+213,Books Product 213,Books,Books Sub4,BrandA,198.84,156.67,863,4.36,19
+214,Books Product 214,Books,Books Sub3,BrandB,94.45,34.47,753,4.7,14
+215,Clothing Product 215,Clothing,Clothing Sub3,BrandE,284.51,103.72,703,1.51,5
+216,Electronics Product 216,Electronics,Electronics Sub3,BrandB,328.65,155.07,311,1.76,17
+217,Clothing Product 217,Clothing,Clothing Sub3,BrandB,77.47,26.3,428,3.26,16
+218,Clothing Product 218,Clothing,Clothing Sub1,BrandD,52.22,22.51,993,4.56,3
+219,Home & Garden Product 219,Home & Garden,Home & Garden Sub2,BrandD,324.82,168.37,492,1.94,3
+220,Sports Product 220,Sports,Sports Sub3,BrandD,137.34,86.98,562,0.37,4
+221,Electronics Product 221,Electronics,Electronics Sub1,BrandE,222.61,165.65,157,3.48,19
+222,Beauty Product 222,Beauty,Beauty Sub1,BrandA,218.87,101.49,329,1.16,19
+223,Electronics Product 223,Electronics,Electronics Sub2,BrandD,389.35,162.07,627,2.52,4
+224,Books Product 224,Books,Books Sub1,BrandE,95.74,40.47,956,1.23,11
+225,Books Product 225,Books,Books Sub3,BrandB,209.24,133.75,114,0.48,18
+226,Clothing Product 226,Clothing,Clothing Sub2,BrandB,239.04,104.08,669,3.42,12
+227,Books Product 227,Books,Books Sub3,BrandB,123.54,88.75,96,2.93,19
+228,Sports Product 228,Sports,Sports Sub4,BrandC,325.33,174.09,127,2.22,7
+229,Clothing Product 229,Clothing,Clothing Sub2,BrandD,283.05,181.84,415,0.11,14
+230,Electronics Product 230,Electronics,Electronics Sub1,BrandB,122.72,69.1,706,4.15,3
+231,Clothing Product 231,Clothing,Clothing Sub4,BrandD,156.81,52.28,223,1.19,11
+232,Home & Garden Product 232,Home & Garden,Home & Garden Sub2,BrandB,333.59,173.16,877,4.17,2
+233,Clothing Product 233,Clothing,Clothing Sub2,BrandC,215.88,85.01,573,1.96,18
+234,Beauty Product 234,Beauty,Beauty Sub2,BrandA,68.94,27.59,533,2.12,17
+235,Sports Product 235,Sports,Sports Sub2,BrandC,302.26,150.63,307,1.65,14
+236,Clothing Product 236,Clothing,Clothing Sub1,BrandD,148.9,58.03,572,2.06,8
+237,Sports Product 237,Sports,Sports Sub1,BrandE,77.64,34.84,837,3.34,8
+238,Electronics Product 238,Electronics,Electronics Sub3,BrandC,98.31,43.24,782,2.64,7
+239,Beauty Product 239,Beauty,Beauty Sub1,BrandB,347.15,121.74,402,1.64,11
+240,Clothing Product 240,Clothing,Clothing Sub3,BrandB,366.43,131.88,152,0.55,18
+241,Electronics Product 241,Electronics,Electronics Sub3,BrandD,161.49,58.2,540,4.66,10
+242,Books Product 242,Books,Books Sub3,BrandD,471.0,191.07,371,0.45,3
+243,Books Product 243,Books,Books Sub3,BrandA,44.7,16.45,96,4.17,19
+244,Sports Product 244,Sports,Sports Sub1,BrandB,74.5,61.85,683,0.52,13
+245,Sports Product 245,Sports,Sports Sub4,BrandD,141.94,60.79,747,3.9,10
+246,Sports Product 246,Sports,Sports Sub1,BrandB,84.15,59.25,806,3.59,12
+247,Books Product 247,Books,Books Sub4,BrandA,161.11,83.42,529,3.77,1
+248,Books Product 248,Books,Books Sub2,BrandD,483.86,162.43,480,4.69,5
+249,Clothing Product 249,Clothing,Clothing Sub1,BrandD,374.51,146.35,741,3.63,15
+250,Books Product 250,Books,Books Sub1,BrandE,213.77,133.73,502,2.6,17
+251,Books Product 251,Books,Books Sub2,BrandB,341.28,183.2,781,4.0,2
+252,Sports Product 252,Sports,Sports Sub1,BrandC,289.54,114.08,958,4.98,13
+253,Beauty Product 253,Beauty,Beauty Sub2,BrandD,200.27,106.21,372,4.53,2
+254,Home & Garden Product 254,Home & Garden,Home & Garden Sub1,BrandA,225.94,95.57,715,0.3,14
+255,Home & Garden Product 255,Home & Garden,Home & Garden Sub2,BrandE,327.41,111.96,701,0.39,4
+256,Beauty Product 256,Beauty,Beauty Sub3,BrandA,30.37,23.67,30,3.7,15
+257,Books Product 257,Books,Books Sub2,BrandB,345.25,159.97,352,2.65,10
+258,Electronics Product 258,Electronics,Electronics Sub1,BrandD,31.24,15.78,12,4.1,16
+259,Books Product 259,Books,Books Sub3,BrandD,237.68,93.47,306,3.27,19
+260,Books Product 260,Books,Books Sub1,BrandA,421.26,178.89,75,2.29,6
+261,Electronics Product 261,Electronics,Electronics Sub3,BrandB,270.47,157.37,701,4.71,20
+262,Books Product 262,Books,Books Sub4,BrandB,194.26,68.89,86,3.86,17
+263,Beauty Product 263,Beauty,Beauty Sub4,BrandA,193.6,156.58,545,0.88,19
+264,Beauty Product 264,Beauty,Beauty Sub4,BrandD,422.21,158.6,298,1.9,18
+265,Home & Garden Product 265,Home & Garden,Home & Garden Sub3,BrandE,295.45,168.09,753,3.35,17
+266,Sports Product 266,Sports,Sports Sub4,BrandC,103.36,57.92,863,2.54,6
+267,Beauty Product 267,Beauty,Beauty Sub3,BrandB,193.12,120.26,270,3.15,12
+268,Clothing Product 268,Clothing,Clothing Sub1,BrandC,264.67,116.72,629,1.44,9
+269,Beauty Product 269,Beauty,Beauty Sub1,BrandB,417.47,147.52,7,1.7,19
+270,Beauty Product 270,Beauty,Beauty Sub2,BrandB,449.34,184.59,445,0.85,16
+271,Sports Product 271,Sports,Sports Sub2,BrandD,183.3,128.11,756,1.7,18
+272,Clothing Product 272,Clothing,Clothing Sub2,BrandA,101.07,53.16,85,4.94,5
+273,Beauty Product 273,Beauty,Beauty Sub3,BrandD,253.83,157.56,527,4.99,12
+274,Sports Product 274,Sports,Sports Sub4,BrandE,29.33,17.3,922,0.38,16
+275,Books Product 275,Books,Books Sub3,BrandA,262.44,91.21,188,2.07,6
+276,Sports Product 276,Sports,Sports Sub1,BrandC,173.8,88.56,613,1.41,15
+277,Clothing Product 277,Clothing,Clothing Sub1,BrandC,158.97,66.69,300,1.02,15
+278,Books Product 278,Books,Books Sub2,BrandC,306.96,110.53,261,1.23,5
+279,Electronics Product 279,Electronics,Electronics Sub3,BrandE,83.56,42.49,252,1.66,14
+280,Beauty Product 280,Beauty,Beauty Sub1,BrandE,363.1,123.18,720,4.52,7
+281,Beauty Product 281,Beauty,Beauty Sub3,BrandA,219.98,118.35,903,1.45,19
+282,Electronics Product 282,Electronics,Electronics Sub2,BrandD,205.67,113.71,310,1.12,13
+283,Beauty Product 283,Beauty,Beauty Sub3,BrandE,364.9,130.94,121,3.84,7
+284,Home & Garden Product 284,Home & Garden,Home & Garden Sub3,BrandD,114.38,67.01,994,3.85,18
+285,Beauty Product 285,Beauty,Beauty Sub4,BrandE,93.08,38.0,359,1.19,7
+286,Sports Product 286,Sports,Sports Sub2,BrandC,149.52,75.04,661,4.53,2
+287,Books Product 287,Books,Books Sub4,BrandA,189.94,148.83,136,0.75,9
+288,Beauty Product 288,Beauty,Beauty Sub4,BrandD,100.28,50.67,897,3.65,19
+289,Beauty Product 289,Beauty,Beauty Sub4,BrandD,57.52,19.72,190,2.42,8
+290,Books Product 290,Books,Books Sub4,BrandA,286.41,98.33,657,3.68,20
+291,Books Product 291,Books,Books Sub1,BrandB,340.79,131.59,30,1.24,5
+292,Electronics Product 292,Electronics,Electronics Sub3,BrandC,334.57,189.59,770,3.85,14
+293,Beauty Product 293,Beauty,Beauty Sub4,BrandE,279.16,167.02,899,3.68,17
+294,Sports Product 294,Sports,Sports Sub3,BrandB,207.14,117.51,350,3.74,16
+295,Clothing Product 295,Clothing,Clothing Sub4,BrandD,363.57,171.65,74,1.88,1
+296,Home & Garden Product 296,Home & Garden,Home & Garden Sub1,BrandE,277.26,189.8,309,3.65,10
+297,Electronics Product 297,Electronics,Electronics Sub3,BrandD,372.41,193.22,443,0.72,7
+298,Beauty Product 298,Beauty,Beauty Sub4,BrandC,31.56,17.06,789,3.79,3
+299,Beauty Product 299,Beauty,Beauty Sub1,BrandA,266.21,89.74,25,1.17,16
+300,Beauty Product 300,Beauty,Beauty Sub4,BrandD,44.34,22.38,467,2.31,14
+301,Home & Garden Product 301,Home & Garden,Home & Garden Sub4,BrandB,158.95,98.72,769,1.64,10
+302,Clothing Product 302,Clothing,Clothing Sub1,BrandE,33.87,13.52,227,3.03,2
+303,Home & Garden Product 303,Home & Garden,Home & Garden Sub1,BrandE,223.01,126.64,149,3.21,15
+304,Clothing Product 304,Clothing,Clothing Sub1,BrandA,250.63,140.72,294,2.32,18
+305,Electronics Product 305,Electronics,Electronics Sub1,BrandB,244.08,90.03,260,2.49,9
+306,Electronics Product 306,Electronics,Electronics Sub4,BrandA,121.35,85.74,192,2.14,7
+307,Electronics Product 307,Electronics,Electronics Sub1,BrandC,208.68,81.38,334,3.84,1
+308,Beauty Product 308,Beauty,Beauty Sub1,BrandA,232.29,94.79,700,3.4,4
+309,Books Product 309,Books,Books Sub4,BrandA,155.18,100.31,726,0.74,17
+310,Electronics Product 310,Electronics,Electronics Sub3,BrandB,365.27,130.62,431,4.46,5
+311,Home & Garden Product 311,Home & Garden,Home & Garden Sub3,BrandC,56.08,32.25,208,2.47,3
+312,Books Product 312,Books,Books Sub3,BrandE,229.06,89.32,433,0.95,7
+313,Electronics Product 313,Electronics,Electronics Sub4,BrandD,255.55,85.91,539,1.61,2
+314,Books Product 314,Books,Books Sub4,BrandA,285.16,175.17,543,1.75,17
+315,Books Product 315,Books,Books Sub4,BrandC,86.08,35.35,115,1.16,9
+316,Sports Product 316,Sports,Sports Sub1,BrandA,219.48,143.56,582,3.94,13
+317,Sports Product 317,Sports,Sports Sub3,BrandE,62.23,31.88,330,2.76,4
+318,Home & Garden Product 318,Home & Garden,Home & Garden Sub2,BrandE,228.22,138.36,339,2.46,18
+319,Books Product 319,Books,Books Sub4,BrandE,348.21,159.52,306,2.05,14
+320,Beauty Product 320,Beauty,Beauty Sub3,BrandD,350.79,199.87,891,2.62,15
+321,Beauty Product 321,Beauty,Beauty Sub2,BrandA,108.24,77.5,249,1.76,7
+322,Home & Garden Product 322,Home & Garden,Home & Garden Sub3,BrandC,30.69,10.67,924,3.73,3
+323,Sports Product 323,Sports,Sports Sub2,BrandD,467.27,162.0,470,0.19,16
+324,Clothing Product 324,Clothing,Clothing Sub2,BrandC,270.74,145.38,695,2.92,16
+325,Electronics Product 325,Electronics,Electronics Sub2,BrandE,65.85,48.01,33,1.82,19
+326,Beauty Product 326,Beauty,Beauty Sub3,BrandD,181.94,77.04,23,3.57,4
+327,Clothing Product 327,Clothing,Clothing Sub4,BrandB,48.53,23.88,920,2.6,19
+328,Sports Product 328,Sports,Sports Sub4,BrandA,332.85,114.16,556,2.37,16
+329,Electronics Product 329,Electronics,Electronics Sub1,BrandD,322.58,117.31,71,1.65,9
+330,Home & Garden Product 330,Home & Garden,Home & Garden Sub2,BrandD,45.09,33.34,298,1.39,3
+331,Electronics Product 331,Electronics,Electronics Sub1,BrandB,143.75,104.14,990,2.27,19
+332,Sports Product 332,Sports,Sports Sub1,BrandE,233.42,158.48,945,2.9,14
+333,Home & Garden Product 333,Home & Garden,Home & Garden Sub3,BrandE,50.7,30.7,162,2.6,20
+334,Beauty Product 334,Beauty,Beauty Sub4,BrandE,48.23,18.47,820,4.51,8
+335,Electronics Product 335,Electronics,Electronics Sub3,BrandB,421.41,164.23,809,0.74,15
+336,Beauty Product 336,Beauty,Beauty Sub4,BrandA,254.97,134.68,106,0.37,13
+337,Sports Product 337,Sports,Sports Sub2,BrandC,292.94,159.85,797,1.99,6
+338,Sports Product 338,Sports,Sports Sub1,BrandC,87.09,55.41,85,3.95,18
+339,Electronics Product 339,Electronics,Electronics Sub3,BrandB,81.77,62.07,934,2.91,10
+340,Clothing Product 340,Clothing,Clothing Sub4,BrandB,185.82,102.26,135,4.56,11
+341,Beauty Product 341,Beauty,Beauty Sub4,BrandA,133.4,70.73,805,3.86,17
+342,Electronics Product 342,Electronics,Electronics Sub4,BrandC,528.57,197.37,749,1.42,15
+343,Clothing Product 343,Clothing,Clothing Sub3,BrandA,106.45,86.56,329,1.97,13
+344,Clothing Product 344,Clothing,Clothing Sub1,BrandA,305.39,154.8,265,2.33,9
+345,Sports Product 345,Sports,Sports Sub3,BrandB,518.83,173.09,936,1.16,6
+346,Home & Garden Product 346,Home & Garden,Home & Garden Sub3,BrandE,414.09,142.2,781,1.75,9
+347,Home & Garden Product 347,Home & Garden,Home & Garden Sub2,BrandB,153.56,54.26,13,0.94,17
+348,Home & Garden Product 348,Home & Garden,Home & Garden Sub2,BrandB,177.57,111.48,985,1.07,20
+349,Books Product 349,Books,Books Sub2,BrandD,386.73,190.04,24,0.58,12
+350,Clothing Product 350,Clothing,Clothing Sub4,BrandB,140.6,63.12,531,1.38,7
+351,Books Product 351,Books,Books Sub3,BrandC,281.76,98.21,861,2.8,3
+352,Electronics Product 352,Electronics,Electronics Sub3,BrandB,434.0,197.05,908,4.75,18
+353,Electronics Product 353,Electronics,Electronics Sub1,BrandD,339.4,123.81,781,2.85,11
+354,Electronics Product 354,Electronics,Electronics Sub2,BrandB,144.93,61.06,116,1.34,4
+355,Sports Product 355,Sports,Sports Sub3,BrandD,90.98,33.01,969,0.19,10
+356,Electronics Product 356,Electronics,Electronics Sub4,BrandE,73.69,29.74,724,2.43,19
+357,Sports Product 357,Sports,Sports Sub1,BrandE,172.89,62.15,765,2.35,19
+358,Electronics Product 358,Electronics,Electronics Sub1,BrandA,203.4,68.42,532,0.13,18
+359,Electronics Product 359,Electronics,Electronics Sub4,BrandE,305.54,111.33,960,2.96,9
+360,Electronics Product 360,Electronics,Electronics Sub3,BrandB,314.52,174.85,392,2.63,11
+361,Books Product 361,Books,Books Sub1,BrandC,411.46,175.02,144,3.56,15
+362,Sports Product 362,Sports,Sports Sub3,BrandB,17.27,14.21,493,0.84,19
+363,Clothing Product 363,Clothing,Clothing Sub1,BrandB,60.12,47.1,725,3.42,13
+364,Electronics Product 364,Electronics,Electronics Sub4,BrandA,482.0,195.31,228,4.37,1
+365,Sports Product 365,Sports,Sports Sub4,BrandA,236.84,120.0,876,4.25,4
+366,Beauty Product 366,Beauty,Beauty Sub1,BrandD,336.84,149.23,927,1.2,10
+367,Clothing Product 367,Clothing,Clothing Sub1,BrandD,67.25,35.19,349,1.46,14
+368,Books Product 368,Books,Books Sub3,BrandC,279.94,199.01,284,3.61,3
+369,Sports Product 369,Sports,Sports Sub2,BrandD,337.14,193.72,943,2.84,2
+370,Books Product 370,Books,Books Sub4,BrandD,189.06,118.24,828,4.62,6
+371,Home & Garden Product 371,Home & Garden,Home & Garden Sub1,BrandE,243.59,92.91,164,0.74,8
+372,Beauty Product 372,Beauty,Beauty Sub2,BrandB,52.69,41.3,617,5.0,10
+373,Beauty Product 373,Beauty,Beauty Sub1,BrandB,65.56,29.01,396,0.95,8
+374,Clothing Product 374,Clothing,Clothing Sub3,BrandA,343.35,122.79,687,1.87,19
+375,Sports Product 375,Sports,Sports Sub1,BrandE,46.57,15.81,377,4.52,18
+376,Books Product 376,Books,Books Sub3,BrandA,193.65,87.39,700,4.16,2
+377,Beauty Product 377,Beauty,Beauty Sub4,BrandC,227.71,101.1,259,3.95,2
+378,Books Product 378,Books,Books Sub3,BrandA,385.86,129.64,868,2.39,12
+379,Electronics Product 379,Electronics,Electronics Sub1,BrandA,82.49,55.8,481,4.3,9
+380,Sports Product 380,Sports,Sports Sub2,BrandC,22.85,11.16,520,0.64,1
+381,Sports Product 381,Sports,Sports Sub2,BrandC,147.09,66.6,852,1.82,3
+382,Electronics Product 382,Electronics,Electronics Sub4,BrandE,189.42,104.85,130,2.46,11
+383,Sports Product 383,Sports,Sports Sub3,BrandB,404.46,165.4,740,3.44,12
+384,Clothing Product 384,Clothing,Clothing Sub4,BrandD,367.12,143.33,725,1.21,14
+385,Sports Product 385,Sports,Sports Sub1,BrandB,431.76,172.75,785,4.95,5
+386,Sports Product 386,Sports,Sports Sub2,BrandE,141.6,56.15,24,0.97,13
+387,Clothing Product 387,Clothing,Clothing Sub3,BrandB,170.36,95.58,34,3.74,7
+388,Books Product 388,Books,Books Sub4,BrandB,128.45,83.73,41,3.55,10
+389,Beauty Product 389,Beauty,Beauty Sub3,BrandA,312.81,184.02,636,4.31,20
+390,Sports Product 390,Sports,Sports Sub1,BrandD,300.8,166.99,615,3.64,18
+391,Books Product 391,Books,Books Sub1,BrandB,19.41,13.75,514,4.25,5
+392,Clothing Product 392,Clothing,Clothing Sub2,BrandD,405.44,191.26,346,0.87,1
+393,Sports Product 393,Sports,Sports Sub4,BrandD,474.64,180.64,239,3.13,10
+394,Electronics Product 394,Electronics,Electronics Sub3,BrandA,49.85,28.05,643,4.22,17
+395,Sports Product 395,Sports,Sports Sub4,BrandE,107.9,86.25,84,1.45,8
+396,Sports Product 396,Sports,Sports Sub1,BrandD,228.5,118.84,470,1.45,5
+397,Electronics Product 397,Electronics,Electronics Sub1,BrandC,456.54,157.2,124,4.2,2
+398,Books Product 398,Books,Books Sub2,BrandB,109.42,87.12,29,0.45,20
+399,Home & Garden Product 399,Home & Garden,Home & Garden Sub3,BrandA,145.3,56.04,488,2.2,2
+400,Sports Product 400,Sports,Sports Sub3,BrandA,282.34,95.3,405,4.12,18
+401,Electronics Product 401,Electronics,Electronics Sub3,BrandC,94.26,60.05,172,0.96,14
+402,Beauty Product 402,Beauty,Beauty Sub3,BrandE,192.6,86.04,348,1.55,6
+403,Home & Garden Product 403,Home & Garden,Home & Garden Sub3,BrandC,170.7,136.86,341,1.62,1
+404,Beauty Product 404,Beauty,Beauty Sub1,BrandC,46.01,15.73,485,2.76,12
+405,Sports Product 405,Sports,Sports Sub2,BrandB,378.27,171.71,543,1.85,11
+406,Home & Garden Product 406,Home & Garden,Home & Garden Sub3,BrandD,33.53,14.59,336,4.92,10
+407,Books Product 407,Books,Books Sub3,BrandB,71.92,30.56,947,3.77,14
+408,Home & Garden Product 408,Home & Garden,Home & Garden Sub3,BrandB,139.57,86.83,981,3.99,2
+409,Home & Garden Product 409,Home & Garden,Home & Garden Sub2,BrandC,382.07,132.89,779,2.07,6
+410,Electronics Product 410,Electronics,Electronics Sub2,BrandC,257.66,194.77,678,4.79,3
+411,Sports Product 411,Sports,Sports Sub4,BrandA,352.88,147.56,844,3.84,10
+412,Electronics Product 412,Electronics,Electronics Sub2,BrandB,166.63,128.86,482,1.52,19
+413,Electronics Product 413,Electronics,Electronics Sub2,BrandE,270.64,117.58,776,3.21,19
+414,Books Product 414,Books,Books Sub1,BrandC,181.58,71.69,196,0.97,10
+415,Electronics Product 415,Electronics,Electronics Sub1,BrandB,360.71,151.12,187,0.24,14
+416,Clothing Product 416,Clothing,Clothing Sub4,BrandA,183.54,67.34,340,4.84,20
+417,Beauty Product 417,Beauty,Beauty Sub3,BrandA,247.73,147.32,689,0.48,8
+418,Home & Garden Product 418,Home & Garden,Home & Garden Sub4,BrandC,245.45,90.67,517,4.13,1
+419,Home & Garden Product 419,Home & Garden,Home & Garden Sub4,BrandC,156.72,73.5,996,2.94,2
+420,Beauty Product 420,Beauty,Beauty Sub4,BrandA,104.63,61.78,634,4.2,10
+421,Books Product 421,Books,Books Sub1,BrandB,80.63,29.49,393,2.32,1
+422,Home & Garden Product 422,Home & Garden,Home & Garden Sub1,BrandA,166.63,133.21,840,1.33,17
+423,Books Product 423,Books,Books Sub2,BrandC,246.85,185.42,519,1.54,15
+424,Clothing Product 424,Clothing,Clothing Sub2,BrandB,47.16,24.75,369,3.18,3
+425,Beauty Product 425,Beauty,Beauty Sub1,BrandE,98.08,53.92,243,2.81,6
+426,Clothing Product 426,Clothing,Clothing Sub2,BrandA,220.85,79.36,473,1.0,12
+427,Home & Garden Product 427,Home & Garden,Home & Garden Sub1,BrandD,179.43,84.47,84,4.46,19
+428,Books Product 428,Books,Books Sub3,BrandA,117.84,88.55,28,3.23,20
+429,Electronics Product 429,Electronics,Electronics Sub2,BrandA,209.6,92.42,533,2.99,12
+430,Sports Product 430,Sports,Sports Sub3,BrandE,252.94,95.44,639,4.63,11
+431,Electronics Product 431,Electronics,Electronics Sub1,BrandA,103.46,43.37,246,4.32,9
+432,Clothing Product 432,Clothing,Clothing Sub1,BrandB,467.13,179.85,514,2.66,9
+433,Clothing Product 433,Clothing,Clothing Sub3,BrandB,196.2,94.15,512,2.79,6
+434,Beauty Product 434,Beauty,Beauty Sub1,BrandC,85.9,42.1,16,2.48,8
+435,Sports Product 435,Sports,Sports Sub2,BrandA,56.18,25.65,907,1.22,19
+436,Sports Product 436,Sports,Sports Sub3,BrandD,94.22,71.29,323,3.88,6
+437,Books Product 437,Books,Books Sub2,BrandD,219.17,73.41,15,4.29,9
+438,Sports Product 438,Sports,Sports Sub1,BrandA,375.5,177.18,882,4.85,3
+439,Electronics Product 439,Electronics,Electronics Sub2,BrandA,94.47,50.4,943,1.68,14
+440,Sports Product 440,Sports,Sports Sub4,BrandA,298.71,111.37,500,1.29,3
+441,Sports Product 441,Sports,Sports Sub1,BrandB,294.48,157.6,913,3.98,17
+442,Beauty Product 442,Beauty,Beauty Sub1,BrandD,248.62,185.57,958,1.72,14
+443,Electronics Product 443,Electronics,Electronics Sub4,BrandC,381.42,164.95,897,4.95,4
+444,Sports Product 444,Sports,Sports Sub4,BrandB,154.23,89.39,773,1.53,14
+445,Home & Garden Product 445,Home & Garden,Home & Garden Sub1,BrandE,344.46,178.7,95,2.4,3
+446,Clothing Product 446,Clothing,Clothing Sub3,BrandC,300.08,143.37,331,1.98,16
+447,Beauty Product 447,Beauty,Beauty Sub3,BrandD,175.52,75.46,865,4.46,9
+448,Sports Product 448,Sports,Sports Sub2,BrandB,168.88,137.2,518,1.82,5
+449,Books Product 449,Books,Books Sub1,BrandB,138.08,89.73,536,4.83,2
+450,Beauty Product 450,Beauty,Beauty Sub4,BrandC,189.91,121.6,639,3.53,1
+451,Sports Product 451,Sports,Sports Sub1,BrandC,46.98,34.43,347,4.17,7
+452,Clothing Product 452,Clothing,Clothing Sub1,BrandE,236.29,160.71,982,1.77,1
+453,Home & Garden Product 453,Home & Garden,Home & Garden Sub3,BrandD,53.91,22.74,356,0.41,9
+454,Clothing Product 454,Clothing,Clothing Sub2,BrandA,368.84,134.67,41,4.78,20
+455,Clothing Product 455,Clothing,Clothing Sub1,BrandB,425.49,164.12,221,2.22,20
+456,Sports Product 456,Sports,Sports Sub4,BrandB,96.53,72.03,983,4.08,9
+457,Books Product 457,Books,Books Sub1,BrandE,453.32,155.35,930,1.91,17
+458,Electronics Product 458,Electronics,Electronics Sub3,BrandA,200.78,152.68,788,4.51,7
+459,Clothing Product 459,Clothing,Clothing Sub2,BrandB,250.25,119.09,727,2.31,1
+460,Electronics Product 460,Electronics,Electronics Sub4,BrandA,280.11,95.75,217,4.81,17
+461,Electronics Product 461,Electronics,Electronics Sub4,BrandE,214.95,150.2,11,3.04,17
+462,Books Product 462,Books,Books Sub1,BrandA,180.45,111.75,546,3.22,18
+463,Clothing Product 463,Clothing,Clothing Sub3,BrandB,265.49,199.75,580,3.46,7
+464,Books Product 464,Books,Books Sub4,BrandD,73.91,33.33,125,4.86,18
+465,Electronics Product 465,Electronics,Electronics Sub4,BrandA,40.96,29.21,48,3.48,13
+466,Books Product 466,Books,Books Sub3,BrandA,78.67,38.59,9,2.35,1
+467,Clothing Product 467,Clothing,Clothing Sub3,BrandB,410.97,173.17,532,4.44,10
+468,Electronics Product 468,Electronics,Electronics Sub3,BrandD,168.99,57.9,743,4.9,6
+469,Books Product 469,Books,Books Sub3,BrandE,387.95,168.24,208,3.12,9
+470,Clothing Product 470,Clothing,Clothing Sub1,BrandB,321.31,119.57,531,4.4,15
+471,Beauty Product 471,Beauty,Beauty Sub4,BrandC,34.52,12.93,19,1.86,1
+472,Beauty Product 472,Beauty,Beauty Sub3,BrandC,156.05,90.72,644,4.01,3
+473,Beauty Product 473,Beauty,Beauty Sub1,BrandC,209.11,92.1,774,2.8,20
+474,Electronics Product 474,Electronics,Electronics Sub3,BrandB,78.66,50.31,552,3.44,4
+475,Electronics Product 475,Electronics,Electronics Sub4,BrandB,94.44,50.4,230,4.28,16
+476,Clothing Product 476,Clothing,Clothing Sub4,BrandB,56.43,22.31,738,4.22,5
+477,Clothing Product 477,Clothing,Clothing Sub2,BrandB,256.1,162.84,757,3.14,20
+478,Clothing Product 478,Clothing,Clothing Sub2,BrandD,155.59,66.83,622,4.22,11
+479,Beauty Product 479,Beauty,Beauty Sub3,BrandB,20.19,13.14,949,4.69,15
+480,Home & Garden Product 480,Home & Garden,Home & Garden Sub3,BrandB,299.62,191.74,279,1.93,5
+481,Electronics Product 481,Electronics,Electronics Sub3,BrandE,122.81,66.43,335,4.93,4
+482,Electronics Product 482,Electronics,Electronics Sub3,BrandC,55.3,20.36,132,1.44,13
+483,Clothing Product 483,Clothing,Clothing Sub1,BrandA,496.39,167.41,707,4.78,13
+484,Clothing Product 484,Clothing,Clothing Sub4,BrandE,226.17,117.39,684,3.34,13
+485,Sports Product 485,Sports,Sports Sub1,BrandD,36.17,26.96,799,1.55,5
+486,Books Product 486,Books,Books Sub4,BrandD,303.11,125.06,758,2.48,9
+487,Books Product 487,Books,Books Sub3,BrandB,155.47,64.99,565,3.21,5
+488,Electronics Product 488,Electronics,Electronics Sub3,BrandB,275.19,159.17,549,1.32,1
+489,Home & Garden Product 489,Home & Garden,Home & Garden Sub2,BrandB,381.69,159.01,693,0.39,15
+490,Beauty Product 490,Beauty,Beauty Sub1,BrandC,102.16,34.74,287,3.01,9
+491,Home & Garden Product 491,Home & Garden,Home & Garden Sub3,BrandB,36.17,16.63,564,0.89,16
+492,Electronics Product 492,Electronics,Electronics Sub2,BrandC,223.89,82.45,242,1.39,8
+493,Beauty Product 493,Beauty,Beauty Sub3,BrandE,451.52,155.36,583,2.5,18
+494,Clothing Product 494,Clothing,Clothing Sub2,BrandD,176.47,104.09,32,1.46,3
+495,Beauty Product 495,Beauty,Beauty Sub1,BrandC,118.73,83.15,656,3.03,20
+496,Beauty Product 496,Beauty,Beauty Sub3,BrandA,232.37,157.69,507,4.56,8
+497,Beauty Product 497,Beauty,Beauty Sub4,BrandA,373.72,167.02,443,3.7,9
+498,Sports Product 498,Sports,Sports Sub4,BrandA,288.15,147.36,149,4.58,9
+499,Books Product 499,Books,Books Sub3,BrandE,312.87,150.26,83,2.74,12
+500,Books Product 500,Books,Books Sub1,BrandE,127.25,50.91,168,2.88,10
