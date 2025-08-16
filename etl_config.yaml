@@ -1,0 +1,131 @@
+# ETL Pipeline Configuration
+# Professional configuration for exhibition-ready project
+
+# Database Configuration
+database:
+  path: "ecommerce_analytics.db"
+  connection_timeout: 30
+  pragma_settings:
+    journal_mode: "WAL"
+    synchronous: "NORMAL"
+    cache_size: 10000
+    temp_store: "MEMORY"
+
+# ETL Processing Configuration
+etl:
+  batch_size: 1000
+  parallel_threads: 4
+  data_retention_days: 365
+  enable_data_validation: true
+  enable_quality_checks: true
+  enable_performance_monitoring: true
+
+# Logging Configuration
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file_path: "logs/etl_pipeline.log"
+  max_file_size: "10MB"
+  backup_count: 5
+
+# Data Quality Configuration
+data_quality:
+  minimum_quality_score: 80.0
+  max_missing_percentage: 10.0
+  enable_anomaly_detection: true
+  quality_thresholds:
+    customers: 95.0
+    products: 90.0
+    orders: 85.0
+    order_items: 85.0
+
+# Sample Data Generation Configuration
+sample_data:
+  customers:
+    count: 2000
+    countries: ["USA", "Canada", "UK", "Germany", "France", "Australia", "India", "Japan"]
+    segments: ["Premium", "Regular", "Budget", "VIP"]
+    segment_distribution: [0.1, 0.5, 0.3, 0.1]
+  
+  products:
+    count: 500
+    categories: ["Electronics", "Clothing", "Home & Garden", "Sports", "Books", "Beauty"]
+    brands: ["BrandA", "BrandB", "BrandC", "BrandD", "BrandE"]
+    price_range: [10, 500]
+    margin_range: [1.2, 3.0]
+  
+  orders:
+    count: 1500
+    statuses: ["Completed", "Processing", "Shipped", "Cancelled", "Returned"]
+    status_distribution: [0.7, 0.1, 0.1, 0.05, 0.05]
+    date_range_days: 365
+    amount_range: [50, 1000]
+
+# Performance Monitoring Configuration
+monitoring:
+  enable_real_time_metrics: true
+  performance_alert_threshold: 5.0  # seconds
+  quality_alert_threshold: 70.0     # percentage
+  monitoring_interval: 60           # seconds
+  retention_period: 30              # days
+
+# Visualization Configuration
+visualization:
+  theme: "plotly"
+  color_scheme: "viridis"
+  export_formats: ["html", "png"]
+  dashboard_refresh_rate: 300  # seconds
+
+# Business Rules Configuration
+business_rules:
+  orders:
+    - name: "valid_total_calculation"
+      description: "Total amount should match sum of components"
+      tolerance: 0.01
+    - name: "no_future_orders"
+      description: "Order dates cannot be in the future"
+    - name: "positive_amounts"
+      description: "All monetary amounts must be positive"
+  
+  products:
+    - name: "positive_pricing"
+      description: "All prices must be positive"
+    - name: "valid_profit_margin"
+      description: "Selling price should be higher than cost price"
+  
+  customers:
+    - name: "valid_email_format"
+      description: "Email addresses must contain @ symbol"
+    - name: "valid_registration_date"
+      description: "Registration date cannot be in the future"
+
+# Export Configuration
+export:
+  formats: ["csv", "json", "excel"]
+  include_metadata: true
+  compress_output: false
+  export_path: "output/"
+
+# Advanced Features Configuration
+advanced_features:
+  enable_data_profiling: true
+  enable_schema_validation: true
+  enable_incremental_loading: false
+  enable_data_archiving: false
+  enable_api_endpoints: false
+  enable_scheduler: false
+
+# Security Configuration (for production deployment)
+security:
+  enable_encryption: false
+  enable_audit_logging: true
+  enable_access_control: false
+  sensitive_data_masking: true
+
+# Notification Configuration
+notifications:
+  enable_email_alerts: false
+  enable_slack_notifications: false
+  alert_on_failure: true
+  alert_on_quality_issues: true
+  alert_on_performance_degradation: true

@@ -1,0 +1,1501 @@
+order_id,customer_id,order_date,order_status,shipping_method,payment_method,subtotal,tax_amount,shipping_cost,discount_amount,total_amount,shipping_address,order_priority
+1,471,2024-09-05,Completed,Standard,PayPal,547.78,43.82,7.7,2.85,596.45,"Address 1, City, Country",Low
+2,886,2024-10-23,Completed,Standard,PayPal,145.04,11.6,23.68,3.2,177.12,"Address 2, City, Country",Medium
+3,1029,2024-10-29,Shipped,Overnight,Credit Card,689.02,55.12,16.77,30.8,730.11,"Address 3, City, Country",High
+4,439,2025-06-17,Shipped,Overnight,Digital Wallet,189.37,15.15,21.82,5.54,220.8,"Address 4, City, Country",Medium
+5,152,2025-01-12,Processing,Express,Digital Wallet,886.28,70.9,24.28,57.53,923.93,"Address 5, City, Country",Medium
+6,1760,2024-09-07,Shipped,Economy,Digital Wallet,871.27,69.7,17.15,0.04,958.07,"Address 6, City, Country",Low
+7,286,2024-12-05,Completed,Overnight,PayPal,648.75,51.9,13.84,81.57,632.93,"Address 7, City, Country",Medium
+8,229,2025-01-13,Completed,Standard,Credit Card,482.19,38.58,19.96,27.16,513.56,"Address 8, City, Country",Urgent
+9,1728,2025-04-07,Completed,Overnight,Digital Wallet,574.12,45.93,11.33,14.51,616.88,"Address 9, City, Country",Medium
+10,455,2025-06-26,Processing,Economy,Digital Wallet,704.42,56.35,22.9,98.53,685.15,"Address 10, City, Country",Low
+11,342,2025-02-23,Completed,Overnight,PayPal,738.72,59.1,5.31,42.75,760.38,"Address 11, City, Country",Low
+12,1155,2024-09-08,Completed,Overnight,Credit Card,622.59,49.81,8.74,67.49,613.65,"Address 12, City, Country",Low
+13,1649,2024-12-27,Completed,Overnight,Credit Card,493.93,39.51,8.51,13.94,528.02,"Address 13, City, Country",Medium
+14,55,2025-03-26,Completed,Standard,Credit Card,690.06,55.21,19.58,95.3,669.55,"Address 14, City, Country",Low
+15,1531,2024-12-07,Processing,Standard,PayPal,545.05,43.6,10.71,27.08,572.29,"Address 15, City, Country",Low
+16,1505,2025-04-01,Completed,Express,PayPal,107.52,8.6,18.74,12.21,122.65,"Address 16, City, Country",Medium
+17,377,2025-04-20,Returned,Economy,Credit Card,544.79,43.58,16.81,6.55,598.64,"Address 17, City, Country",High
+18,1059,2024-12-05,Processing,Overnight,Credit Card,879.23,70.34,13.19,29.81,932.95,"Address 18, City, Country",High
+19,1806,2024-07-15,Completed,Express,Bank Transfer,867.69,69.42,5.31,18.61,923.81,"Address 19, City, Country",Low
+20,1763,2025-04-14,Completed,Economy,Credit Card,365.94,29.28,23.9,0.99,418.12,"Address 20, City, Country",Low
+21,1701,2024-12-12,Cancelled,Overnight,Digital Wallet,78.9,6.31,18.46,12.88,90.79,"Address 21, City, Country",Low
+22,1086,2024-08-29,Completed,Express,Credit Card,123.43,9.87,10.16,2.33,141.13,"Address 22, City, Country",Low
+23,94,2025-03-23,Completed,Standard,Digital Wallet,461.71,36.94,14.18,89.53,423.29,"Address 23, City, Country",Medium
+24,201,2025-01-08,Completed,Economy,Credit Card,521.29,41.7,14.22,73.86,503.36,"Address 24, City, Country",Medium
+25,1444,2025-03-29,Shipped,Express,PayPal,737.8,59.02,16.3,69.09,744.03,"Address 25, City, Country",High
+26,926,2024-07-23,Completed,Standard,Credit Card,387.57,31.01,10.13,20.65,408.05,"Address 26, City, Country",Low
+27,1394,2024-07-31,Completed,Overnight,PayPal,960.81,76.86,10.54,167.83,880.39,"Address 27, City, Country",Low
+28,210,2024-12-05,Completed,Overnight,Credit Card,647.2,51.78,22.16,71.31,649.82,"Address 28, City, Country",Urgent
+29,1861,2024-12-29,Completed,Express,PayPal,880.67,70.45,16.97,121.49,846.6,"Address 29, City, Country",Low
+30,644,2024-09-20,Returned,Economy,Digital Wallet,244.67,19.57,22.89,45.44,241.7,"Address 30, City, Country",Low
+31,1306,2025-05-25,Cancelled,Express,Digital Wallet,888.96,71.12,14.32,37.14,937.26,"Address 31, City, Country",Low
+32,1163,2024-12-16,Completed,Standard,Digital Wallet,142.7,11.42,5.8,21.5,138.42,"Address 32, City, Country",Low
+33,1736,2025-02-27,Completed,Economy,Digital Wallet,458.09,36.65,15.68,87.52,422.89,"Address 33, City, Country",Medium
+34,222,2024-08-16,Cancelled,Express,Digital Wallet,840.27,67.22,6.91,18.7,895.71,"Address 34, City, Country",Medium
+35,280,2025-03-11,Shipped,Economy,PayPal,248.96,19.92,23.98,3.03,289.82,"Address 35, City, Country",Medium
+36,774,2025-02-04,Completed,Express,Bank Transfer,781.92,62.55,21.43,109.27,756.62,"Address 36, City, Country",Medium
+37,385,2024-09-08,Completed,Standard,Credit Card,808.03,64.64,16.38,144.35,744.71,"Address 37, City, Country",Medium
+38,281,2025-03-28,Processing,Economy,Bank Transfer,704.87,56.39,6.39,121.22,646.44,"Address 38, City, Country",Medium
+39,1623,2025-01-10,Processing,Express,Credit Card,256.38,20.51,6.3,40.01,243.19,"Address 39, City, Country",Low
+40,919,2025-05-15,Completed,Economy,PayPal,719.59,57.57,8.11,93.52,691.75,"Address 40, City, Country",Medium
+41,84,2025-04-15,Completed,Economy,Credit Card,188.58,15.09,8.7,7.71,204.66,"Address 41, City, Country",Low
+42,936,2025-05-17,Completed,Overnight,Digital Wallet,548.96,43.92,19.48,2.16,610.19,"Address 42, City, Country",Medium
+43,1440,2025-04-21,Completed,Economy,Bank Transfer,125.84,10.07,7.97,0.56,143.32,"Address 43, City, Country",Urgent
+44,1016,2025-02-28,Completed,Express,Bank Transfer,167.12,13.37,21.92,10.84,191.57,"Address 44, City, Country",Medium
+45,1818,2024-07-05,Returned,Overnight,PayPal,158.41,12.67,9.81,9.72,171.18,"Address 45, City, Country",Urgent
+46,634,2025-03-24,Returned,Overnight,Bank Transfer,517.64,41.41,22.97,19.72,562.31,"Address 46, City, Country",Medium
+47,1237,2024-11-18,Completed,Economy,Digital Wallet,92.66,7.41,8.01,7.85,100.23,"Address 47, City, Country",Low
+48,1438,2025-04-24,Shipped,Overnight,Credit Card,802.86,64.23,6.84,8.93,865.0,"Address 48, City, Country",Medium
+49,1459,2024-12-12,Processing,Economy,Digital Wallet,882.61,70.61,21.86,168.06,807.02,"Address 49, City, Country",High
+50,785,2024-08-28,Processing,Standard,Bank Transfer,214.46,17.16,10.16,32.46,209.32,"Address 50, City, Country",Urgent
+51,638,2025-03-30,Completed,Standard,PayPal,61.79,4.94,8.45,10.14,65.04,"Address 51, City, Country",Medium
+52,771,2025-05-28,Completed,Overnight,PayPal,83.85,6.71,23.71,9.83,104.44,"Address 52, City, Country",High
+53,1893,2025-06-23,Processing,Economy,Digital Wallet,924.36,73.95,10.76,136.0,873.07,"Address 53, City, Country",Medium
+54,1941,2024-10-25,Cancelled,Standard,Digital Wallet,649.22,51.94,15.08,68.39,647.85,"Address 54, City, Country",Medium
+55,668,2025-04-27,Completed,Economy,PayPal,663.52,53.08,11.07,119.26,608.41,"Address 55, City, Country",Low
+56,911,2025-01-14,Completed,Economy,Bank Transfer,88.48,7.08,17.25,14.26,98.54,"Address 56, City, Country",Medium
+57,1924,2025-06-05,Processing,Express,Credit Card,263.52,21.08,17.26,33.11,268.75,"Address 57, City, Country",Urgent
+58,1990,2025-02-16,Completed,Express,Credit Card,579.12,46.33,7.67,33.29,599.82,"Address 58, City, Country",Low
+59,299,2024-07-05,Completed,Economy,PayPal,721.57,57.73,5.8,78.88,706.21,"Address 59, City, Country",High
+60,209,2024-12-12,Completed,Overnight,Bank Transfer,380.08,30.41,17.57,3.26,424.8,"Address 60, City, Country",Low
+61,611,2025-02-01,Shipped,Express,Credit Card,813.57,65.09,22.73,40.46,860.92,"Address 61, City, Country",Low
+62,1183,2024-08-15,Returned,Economy,Credit Card,899.35,71.95,14.93,97.9,888.34,"Address 62, City, Country",Low
+63,1657,2024-12-18,Completed,Standard,Credit Card,212.51,17.0,22.21,22.61,229.1,"Address 63, City, Country",Medium
+64,1850,2025-04-13,Completed,Standard,PayPal,781.53,62.52,24.38,120.89,747.54,"Address 64, City, Country",Urgent
+65,189,2024-12-03,Completed,Express,Credit Card,859.29,68.74,17.52,158.51,787.04,"Address 65, City, Country",Medium
+66,1612,2024-11-12,Completed,Express,Bank Transfer,566.77,45.34,15.3,78.39,549.03,"Address 66, City, Country",Low
+67,1292,2024-12-28,Completed,Economy,Bank Transfer,252.21,20.18,6.61,28.34,250.66,"Address 67, City, Country",Low
+68,499,2025-03-19,Completed,Standard,PayPal,916.21,73.3,19.35,19.29,989.56,"Address 68, City, Country",Low
+69,386,2024-07-11,Completed,Express,Bank Transfer,258.09,20.65,6.44,36.94,248.23,"Address 69, City, Country",Medium
+70,1000,2024-09-03,Completed,Standard,Bank Transfer,764.07,61.13,20.03,50.54,794.7,"Address 70, City, Country",Low
+71,101,2024-11-01,Cancelled,Overnight,Bank Transfer,494.99,39.6,22.71,35.8,521.5,"Address 71, City, Country",High
+72,1182,2025-06-23,Shipped,Economy,Credit Card,221.28,17.7,6.26,16.74,228.5,"Address 72, City, Country",Low
+73,304,2024-10-16,Completed,Economy,PayPal,941.42,75.31,5.25,136.96,885.02,"Address 73, City, Country",Medium
+74,513,2025-04-18,Shipped,Overnight,Credit Card,380.35,30.43,13.0,27.45,396.33,"Address 74, City, Country",Medium
+75,779,2024-10-04,Completed,Express,Credit Card,106.98,8.56,14.76,16.56,113.74,"Address 75, City, Country",Low
+76,270,2025-05-28,Completed,Express,Digital Wallet,368.11,29.45,23.39,48.13,372.83,"Address 76, City, Country",High
+77,1915,2024-09-17,Completed,Economy,Bank Transfer,385.96,30.88,15.5,46.29,386.04,"Address 77, City, Country",Low
+78,804,2025-07-03,Completed,Economy,PayPal,969.94,77.6,18.12,190.82,874.84,"Address 78, City, Country",Medium
+79,26,2024-10-15,Processing,Express,Credit Card,431.63,34.53,14.17,73.26,407.07,"Address 79, City, Country",Low
+80,972,2024-11-20,Completed,Standard,PayPal,380.38,30.43,18.6,20.01,409.39,"Address 80, City, Country",Medium
+81,1402,2025-03-14,Completed,Economy,Bank Transfer,555.73,44.46,22.05,38.02,584.22,"Address 81, City, Country",Medium
+82,1485,2024-10-03,Completed,Express,Digital Wallet,507.85,40.63,5.85,46.98,507.34,"Address 82, City, Country",Low
+83,574,2024-11-22,Shipped,Overnight,Credit Card,451.91,36.15,22.19,12.17,498.07,"Address 83, City, Country",High
+84,1253,2025-04-03,Completed,Standard,Credit Card,693.18,55.45,18.16,29.55,737.24,"Address 84, City, Country",Low
+85,1947,2024-07-09,Completed,Overnight,Bank Transfer,198.13,15.85,10.07,3.53,220.52,"Address 85, City, Country",High
+86,1232,2025-05-17,Completed,Express,PayPal,222.5,17.8,24.28,25.76,238.82,"Address 86, City, Country",Medium
+87,1419,2024-10-09,Completed,Economy,Credit Card,712.91,57.03,15.72,126.22,659.45,"Address 87, City, Country",Medium
+88,473,2024-12-26,Completed,Overnight,Credit Card,347.34,27.79,16.75,47.19,344.69,"Address 88, City, Country",Low
+89,1371,2024-12-26,Completed,Express,Digital Wallet,841.53,67.32,5.9,109.95,804.81,"Address 89, City, Country",Medium
+90,1261,2024-07-25,Completed,Express,PayPal,709.32,56.75,17.05,26.18,756.94,"Address 90, City, Country",Medium
+91,68,2025-02-12,Completed,Express,PayPal,764.24,61.14,5.35,40.97,789.77,"Address 91, City, Country",Urgent
+92,1884,2025-06-27,Completed,Overnight,Credit Card,634.16,50.73,21.45,69.29,637.06,"Address 92, City, Country",Low
+93,1724,2024-09-11,Completed,Overnight,Digital Wallet,736.98,58.96,5.58,3.4,798.12,"Address 93, City, Country",Medium
+94,127,2025-02-17,Completed,Express,Digital Wallet,799.55,63.96,11.6,85.65,789.47,"Address 94, City, Country",Low
+95,1897,2024-08-02,Shipped,Economy,Digital Wallet,922.39,73.79,22.17,36.72,981.63,"Address 95, City, Country",Medium
+96,1234,2024-11-07,Processing,Economy,Credit Card,212.22,16.98,5.73,7.88,227.05,"Address 96, City, Country",High
+97,183,2024-12-13,Processing,Overnight,Bank Transfer,71.14,5.69,19.33,1.57,94.59,"Address 97, City, Country",Low
+98,148,2024-08-22,Completed,Express,Bank Transfer,691.85,55.35,20.74,132.54,635.39,"Address 98, City, Country",High
+99,20,2025-02-21,Completed,Economy,Digital Wallet,337.38,26.99,7.64,25.84,346.16,"Address 99, City, Country",Urgent
+100,807,2025-04-21,Completed,Standard,PayPal,605.13,48.41,12.39,42.66,623.27,"Address 100, City, Country",Low
+101,1608,2024-12-13,Completed,Overnight,Digital Wallet,305.46,24.44,6.12,24.97,311.05,"Address 101, City, Country",Low
+102,497,2025-01-23,Returned,Economy,Bank Transfer,988.68,79.09,13.77,13.1,1068.44,"Address 102, City, Country",Low
+103,1476,2025-06-05,Cancelled,Standard,Digital Wallet,140.9,11.27,12.09,7.08,157.19,"Address 103, City, Country",Medium
+104,1082,2024-11-12,Completed,Standard,Credit Card,152.62,12.21,15.7,16.96,163.58,"Address 104, City, Country",Medium
+105,119,2024-12-31,Shipped,Express,PayPal,564.36,45.15,5.37,7.0,607.89,"Address 105, City, Country",Low
+106,370,2025-01-08,Completed,Overnight,Digital Wallet,370.54,29.64,18.12,68.57,349.74,"Address 106, City, Country",High
+107,1285,2025-02-28,Completed,Express,Digital Wallet,573.4,45.87,7.11,113.69,512.69,"Address 107, City, Country",Medium
+108,572,2024-08-12,Completed,Standard,Bank Transfer,183.78,14.7,21.54,27.99,192.03,"Address 108, City, Country",Medium
+109,258,2025-02-28,Completed,Standard,PayPal,66.52,5.32,13.1,12.32,72.62,"Address 109, City, Country",Urgent
+110,1305,2024-12-22,Completed,Overnight,Digital Wallet,111.99,8.96,22.19,19.45,123.69,"Address 110, City, Country",High
+111,1896,2025-05-19,Cancelled,Standard,PayPal,838.43,67.07,18.18,123.42,800.27,"Address 111, City, Country",Urgent
+112,717,2025-01-20,Processing,Express,Credit Card,885.59,70.85,16.6,78.75,894.29,"Address 112, City, Country",Medium
+113,618,2025-05-03,Processing,Economy,Bank Transfer,560.16,44.81,11.18,50.92,565.23,"Address 113, City, Country",Low
+114,546,2025-06-13,Processing,Standard,Credit Card,325.44,26.04,8.73,26.45,333.76,"Address 114, City, Country",High
+115,1519,2024-08-23,Completed,Standard,Digital Wallet,183.58,14.69,6.42,20.48,184.21,"Address 115, City, Country",Medium
+116,1611,2025-06-18,Completed,Economy,Digital Wallet,692.0,55.36,6.96,17.61,736.7,"Address 116, City, Country",Low
+117,1480,2024-09-07,Completed,Economy,Credit Card,474.39,37.95,12.25,1.61,522.98,"Address 117, City, Country",Low
+118,1874,2025-06-18,Completed,Economy,PayPal,804.57,64.37,21.47,34.03,856.38,"Address 118, City, Country",High
+119,1358,2025-04-22,Shipped,Overnight,Digital Wallet,813.57,65.09,14.04,84.46,808.23,"Address 119, City, Country",Medium
+120,1717,2025-04-20,Shipped,Overnight,Credit Card,934.17,74.73,19.74,105.45,923.2,"Address 120, City, Country",Medium
+121,1337,2024-10-14,Completed,Standard,Bank Transfer,600.44,48.03,20.96,94.46,574.97,"Address 121, City, Country",Medium
+122,752,2024-09-04,Completed,Economy,PayPal,113.84,9.11,19.29,16.01,126.23,"Address 122, City, Country",Medium
+123,617,2025-06-29,Shipped,Overnight,Digital Wallet,528.84,42.31,18.67,62.18,527.63,"Address 123, City, Country",Medium
+124,1852,2025-01-09,Cancelled,Standard,Bank Transfer,193.55,15.48,10.79,9.01,210.82,"Address 124, City, Country",Low
+125,490,2025-05-10,Completed,Overnight,Bank Transfer,448.91,35.91,8.88,37.31,456.4,"Address 125, City, Country",Medium
+126,480,2024-12-05,Processing,Standard,Digital Wallet,831.27,66.5,13.26,2.38,908.66,"Address 126, City, Country",Low
+127,1882,2024-11-01,Shipped,Economy,Bank Transfer,600.26,48.02,14.33,50.4,612.21,"Address 127, City, Country",Low
+128,1514,2025-03-27,Completed,Economy,Credit Card,243.42,19.47,10.62,27.49,246.03,"Address 128, City, Country",High
+129,1447,2024-12-14,Completed,Economy,Credit Card,426.32,34.11,16.72,78.38,398.77,"Address 129, City, Country",Low
+130,1436,2025-07-03,Completed,Economy,PayPal,244.84,19.59,19.31,39.61,244.12,"Address 130, City, Country",Low
+131,30,2024-07-29,Completed,Economy,Bank Transfer,945.67,75.65,10.82,174.57,857.57,"Address 131, City, Country",Low
+132,993,2024-08-18,Completed,Economy,Credit Card,357.53,28.6,15.18,48.18,353.13,"Address 132, City, Country",Low
+133,507,2025-04-17,Completed,Economy,Digital Wallet,593.25,47.46,5.37,29.74,616.33,"Address 133, City, Country",Medium
+134,951,2025-01-28,Completed,Express,PayPal,527.41,42.19,16.23,35.63,550.2,"Address 134, City, Country",Medium
+135,175,2024-09-30,Completed,Economy,Credit Card,703.2,56.26,12.12,33.91,737.67,"Address 135, City, Country",Urgent
+136,449,2025-02-10,Completed,Express,Bank Transfer,180.67,14.45,24.97,1.78,218.32,"Address 136, City, Country",Low
+137,981,2025-01-21,Completed,Express,Digital Wallet,86.51,6.92,13.68,11.65,95.45,"Address 137, City, Country",Low
+138,642,2024-07-18,Completed,Economy,Digital Wallet,844.0,67.52,17.17,65.56,863.12,"Address 138, City, Country",High
+139,865,2025-01-16,Completed,Express,Credit Card,200.47,16.04,15.04,34.58,196.97,"Address 139, City, Country",Low
+140,470,2024-11-15,Completed,Express,PayPal,518.34,41.47,9.17,16.88,552.1,"Address 140, City, Country",Medium
+141,319,2025-06-21,Completed,Overnight,PayPal,710.56,56.85,19.82,36.82,750.41,"Address 141, City, Country",Low
+142,1138,2025-04-19,Completed,Standard,Credit Card,211.6,16.93,11.32,37.61,202.24,"Address 142, City, Country",Medium
+143,1207,2025-06-06,Completed,Overnight,PayPal,275.6,22.05,12.97,41.8,268.82,"Address 143, City, Country",Low
+144,710,2025-05-11,Completed,Economy,Digital Wallet,426.65,34.13,8.07,73.6,395.26,"Address 144, City, Country",Medium
+145,853,2025-04-08,Completed,Standard,Credit Card,258.36,20.67,10.16,29.22,259.97,"Address 145, City, Country",Low
+146,1328,2024-10-02,Completed,Economy,Bank Transfer,991.1,79.29,10.31,12.36,1068.33,"Address 146, City, Country",High
+147,1617,2024-11-05,Shipped,Standard,PayPal,233.11,18.65,18.77,12.7,257.83,"Address 147, City, Country",Medium
+148,596,2024-10-15,Completed,Express,Bank Transfer,565.84,45.27,11.28,30.72,591.67,"Address 148, City, Country",High
+149,16,2025-04-26,Completed,Overnight,PayPal,950.15,76.01,5.83,174.61,857.37,"Address 149, City, Country",Low
+150,1568,2025-01-24,Completed,Express,Credit Card,883.95,70.72,24.47,53.48,925.65,"Address 150, City, Country",Low
+151,912,2024-09-16,Completed,Overnight,PayPal,603.47,48.28,7.87,53.76,605.86,"Address 151, City, Country",High
+152,1380,2024-11-03,Completed,Economy,Bank Transfer,562.6,45.01,6.05,83.58,530.07,"Address 152, City, Country",Medium
+153,1591,2024-12-17,Completed,Economy,Credit Card,274.51,21.96,13.77,0.93,309.31,"Address 153, City, Country",Low
+154,1470,2024-10-03,Completed,Standard,Credit Card,811.87,64.95,20.07,112.99,783.89,"Address 154, City, Country",Low
+155,37,2024-09-23,Cancelled,Express,Bank Transfer,264.23,21.14,17.29,1.48,301.17,"Address 155, City, Country",Low
+156,1787,2025-04-07,Completed,Economy,Digital Wallet,906.49,72.52,8.38,160.07,827.32,"Address 156, City, Country",Medium
+157,909,2024-07-19,Completed,Express,Bank Transfer,282.69,22.62,7.0,45.65,266.66,"Address 157, City, Country",Low
+158,1384,2025-05-09,Completed,Economy,Bank Transfer,397.25,31.78,6.53,52.07,383.49,"Address 158, City, Country",High
+159,320,2025-02-21,Completed,Standard,Bank Transfer,686.02,54.88,5.53,63.92,682.52,"Address 159, City, Country",Medium
+160,1939,2025-02-13,Completed,Standard,PayPal,264.44,21.16,15.52,6.77,294.35,"Address 160, City, Country",Medium
+161,1299,2024-12-07,Shipped,Standard,Credit Card,908.17,72.65,5.17,39.36,946.64,"Address 161, City, Country",High
+162,597,2024-10-12,Completed,Express,PayPal,617.12,49.37,16.38,4.4,678.46,"Address 162, City, Country",Low
+163,150,2025-01-05,Completed,Overnight,Credit Card,658.33,52.67,14.37,112.97,612.39,"Address 163, City, Country",Urgent
+164,1664,2024-11-20,Completed,Economy,Bank Transfer,77.54,6.2,20.41,1.71,102.45,"Address 164, City, Country",Low
+165,1462,2024-10-19,Completed,Overnight,Digital Wallet,725.13,58.01,24.63,103.19,704.59,"Address 165, City, Country",Urgent
+166,1526,2025-06-22,Processing,Overnight,PayPal,773.6,61.89,23.77,17.58,841.67,"Address 166, City, Country",Urgent
+167,314,2024-07-23,Completed,Overnight,Credit Card,755.73,60.46,14.8,65.03,765.97,"Address 167, City, Country",Urgent
+168,1605,2025-01-26,Completed,Overnight,Credit Card,349.45,27.96,19.68,23.08,374.0,"Address 168, City, Country",Medium
+169,1984,2024-08-14,Returned,Economy,Digital Wallet,875.72,70.06,12.74,61.27,897.24,"Address 169, City, Country",High
+170,530,2025-02-26,Completed,Overnight,Bank Transfer,953.92,76.31,19.29,62.34,987.18,"Address 170, City, Country",Low
+171,1849,2025-04-07,Completed,Standard,PayPal,207.9,16.63,10.62,21.68,213.48,"Address 171, City, Country",Low
+172,420,2024-10-22,Returned,Express,Digital Wallet,535.31,42.82,9.28,59.07,528.34,"Address 172, City, Country",Low
+173,116,2024-09-29,Completed,Standard,Digital Wallet,832.09,66.57,20.7,148.37,770.98,"Address 173, City, Country",Medium
+174,1439,2024-08-10,Completed,Overnight,Digital Wallet,655.05,52.4,15.44,56.87,666.03,"Address 174, City, Country",Medium
+175,1830,2025-04-22,Completed,Overnight,Digital Wallet,995.34,79.63,8.56,108.78,974.75,"Address 175, City, Country",Low
+176,662,2024-11-05,Shipped,Overnight,Bank Transfer,105.24,8.42,15.53,11.35,117.84,"Address 176, City, Country",Low
+177,1863,2024-09-25,Returned,Express,Digital Wallet,843.12,67.45,17.78,68.44,859.91,"Address 177, City, Country",Urgent
+178,327,2024-07-29,Shipped,Overnight,Bank Transfer,190.23,15.22,11.98,31.57,185.85,"Address 178, City, Country",Medium
+179,1994,2025-05-12,Returned,Standard,Credit Card,419.58,33.57,24.96,81.94,396.17,"Address 179, City, Country",Medium
+180,1053,2025-06-18,Completed,Overnight,Bank Transfer,66.48,5.32,24.88,7.23,89.45,"Address 180, City, Country",Low
+181,943,2025-05-02,Completed,Economy,Digital Wallet,112.5,9.0,21.19,21.44,121.26,"Address 181, City, Country",Low
+182,350,2024-08-29,Cancelled,Overnight,Bank Transfer,236.85,18.95,20.16,30.37,245.58,"Address 182, City, Country",Low
+183,90,2024-09-25,Completed,Express,Digital Wallet,659.65,52.77,18.38,109.8,621.0,"Address 183, City, Country",Medium
+184,1266,2025-05-21,Processing,Express,PayPal,197.74,15.82,6.48,29.2,190.83,"Address 184, City, Country",Low
+185,157,2024-12-02,Completed,Economy,PayPal,394.04,31.52,20.05,29.57,416.04,"Address 185, City, Country",Medium
+186,338,2025-06-24,Completed,Standard,PayPal,330.4,26.43,17.31,24.8,349.34,"Address 186, City, Country",Low
+187,1160,2025-02-25,Completed,Standard,PayPal,431.62,34.53,14.61,84.11,396.66,"Address 187, City, Country",Low
+188,1118,2025-04-30,Cancelled,Express,Credit Card,706.82,56.55,11.52,111.06,663.82,"Address 188, City, Country",Medium
+189,339,2025-01-10,Returned,Standard,Credit Card,840.25,67.22,11.37,106.34,812.5,"Address 189, City, Country",Low
+190,525,2024-11-06,Returned,Economy,Bank Transfer,934.66,74.77,22.01,12.65,1018.79,"Address 190, City, Country",Low
+191,208,2024-07-06,Completed,Express,Digital Wallet,315.02,25.2,10.78,46.54,304.45,"Address 191, City, Country",Medium
+192,555,2025-06-27,Shipped,Standard,PayPal,685.56,54.84,12.39,29.22,723.58,"Address 192, City, Country",Low
+193,1544,2025-03-24,Completed,Standard,Credit Card,210.2,16.82,24.52,20.52,231.02,"Address 193, City, Country",Medium
+194,1257,2024-08-09,Completed,Economy,Bank Transfer,492.81,39.42,11.51,75.45,468.29,"Address 194, City, Country",Low
+195,1906,2025-01-02,Completed,Express,Credit Card,720.61,57.65,12.87,39.3,751.84,"Address 195, City, Country",High
+196,844,2025-03-23,Completed,Express,PayPal,208.72,16.7,24.48,26.23,223.68,"Address 196, City, Country",Medium
+197,603,2025-03-20,Completed,Overnight,Bank Transfer,922.28,73.78,12.63,141.14,867.55,"Address 197, City, Country",Low
+198,694,2024-08-03,Completed,Economy,Bank Transfer,892.78,71.42,5.98,24.35,945.84,"Address 198, City, Country",Low
+199,1598,2025-05-31,Completed,Overnight,PayPal,739.47,59.16,9.29,115.7,692.21,"Address 199, City, Country",Medium
+200,484,2024-07-19,Shipped,Standard,PayPal,513.15,41.05,5.81,67.34,492.68,"Address 200, City, Country",High
+201,1040,2025-04-20,Shipped,Overnight,PayPal,894.44,71.56,11.44,2.4,975.04,"Address 201, City, Country",Medium
+202,1437,2025-04-04,Completed,Standard,Digital Wallet,730.94,58.48,5.65,54.6,740.46,"Address 202, City, Country",Low
+203,1256,2024-09-11,Completed,Economy,Credit Card,818.16,65.45,23.41,69.95,837.06,"Address 203, City, Country",Medium
+204,1696,2025-01-30,Completed,Overnight,Digital Wallet,641.69,51.34,8.06,108.42,592.66,"Address 204, City, Country",Low
+205,1364,2025-02-11,Processing,Standard,PayPal,320.42,25.63,11.36,19.87,337.55,"Address 205, City, Country",High
+206,1753,2025-01-27,Completed,Express,Credit Card,69.71,5.58,7.07,4.85,77.51,"Address 206, City, Country",Low
+207,1288,2025-03-14,Processing,Economy,Digital Wallet,356.01,28.48,18.73,15.37,387.85,"Address 207, City, Country",Medium
+208,1460,2025-04-19,Completed,Standard,Bank Transfer,122.76,9.82,18.28,22.39,128.47,"Address 208, City, Country",High
+209,340,2024-08-05,Processing,Economy,Bank Transfer,738.47,59.08,13.91,8.92,802.54,"Address 209, City, Country",Medium
+210,535,2025-05-08,Completed,Standard,Digital Wallet,496.81,39.75,18.92,57.67,497.8,"Address 210, City, Country",Low
+211,1846,2024-07-15,Completed,Economy,Digital Wallet,494.42,39.55,11.23,43.32,501.88,"Address 211, City, Country",Low
+212,1805,2025-02-09,Completed,Economy,Credit Card,594.22,47.54,8.33,106.29,543.8,"Address 212, City, Country",Low
+213,1217,2025-06-30,Cancelled,Standard,Bank Transfer,717.7,57.42,20.37,54.12,741.37,"Address 213, City, Country",Medium
+214,485,2024-11-28,Shipped,Economy,Credit Card,903.35,72.27,17.6,133.84,859.37,"Address 214, City, Country",Medium
+215,365,2025-05-27,Shipped,Express,Digital Wallet,670.09,53.61,15.53,24.68,714.54,"Address 215, City, Country",Low
+216,1122,2025-06-21,Completed,Standard,PayPal,223.98,17.92,17.12,9.48,249.54,"Address 216, City, Country",Medium
+217,1614,2025-03-20,Cancelled,Overnight,Credit Card,222.25,17.78,11.61,23.92,227.71,"Address 217, City, Country",Medium
+218,1552,2025-05-13,Completed,Overnight,Credit Card,437.06,34.97,12.8,70.78,414.05,"Address 218, City, Country",Low
+219,795,2024-08-19,Completed,Express,PayPal,894.92,71.59,9.7,13.08,963.13,"Address 219, City, Country",Low
+220,913,2024-11-14,Completed,Economy,Digital Wallet,777.56,62.2,12.58,74.44,777.9,"Address 220, City, Country",Medium
+221,924,2025-02-01,Completed,Express,Credit Card,657.66,52.61,5.69,90.84,625.13,"Address 221, City, Country",High
+222,11,2025-05-15,Completed,Express,Bank Transfer,991.84,79.35,21.33,140.44,952.08,"Address 222, City, Country",Medium
+223,1,2024-08-29,Completed,Overnight,Bank Transfer,807.69,64.61,19.2,85.2,806.3,"Address 223, City, Country",Medium
+224,1187,2024-12-15,Completed,Standard,Digital Wallet,483.53,38.68,9.11,20.12,511.2,"Address 224, City, Country",High
+225,639,2025-03-06,Completed,Economy,Bank Transfer,616.51,49.32,13.32,36.99,642.16,"Address 225, City, Country",Medium
+226,445,2025-01-28,Completed,Express,PayPal,947.26,75.78,19.11,142.88,899.27,"Address 226, City, Country",Low
+227,860,2024-12-14,Shipped,Overnight,Bank Transfer,381.42,30.51,21.09,70.08,362.95,"Address 227, City, Country",High
+228,851,2024-12-28,Completed,Express,PayPal,258.44,20.68,20.96,11.05,289.03,"Address 228, City, Country",Medium
+229,1255,2024-07-22,Shipped,Overnight,Bank Transfer,751.26,60.1,19.69,10.89,820.16,"Address 229, City, Country",Medium
+230,790,2024-07-25,Processing,Overnight,PayPal,596.8,47.74,14.27,78.8,580.01,"Address 230, City, Country",High
+231,808,2025-01-24,Completed,Standard,PayPal,246.07,19.69,16.02,5.45,276.32,"Address 231, City, Country",Low
+232,1018,2025-02-09,Completed,Overnight,Credit Card,62.1,4.97,17.18,0.81,83.43,"Address 232, City, Country",Medium
+233,1023,2025-06-15,Processing,Express,PayPal,326.52,26.12,7.59,55.05,305.19,"Address 233, City, Country",Low
+234,1868,2025-02-16,Completed,Economy,Digital Wallet,156.82,12.55,6.69,1.39,174.67,"Address 234, City, Country",Low
+235,1210,2025-01-12,Processing,Express,PayPal,696.93,55.75,16.05,78.55,690.18,"Address 235, City, Country",Low
+236,1827,2025-04-25,Completed,Express,Bank Transfer,981.44,78.51,15.76,89.35,986.37,"Address 236, City, Country",Medium
+237,1662,2025-04-03,Completed,Economy,Credit Card,850.46,68.04,21.11,124.35,815.26,"Address 237, City, Country",Medium
+238,916,2024-07-21,Completed,Overnight,Credit Card,523.45,41.88,12.34,92.29,485.38,"Address 238, City, Country",Low
+239,566,2024-07-18,Shipped,Overnight,Bank Transfer,74.75,5.98,16.31,1.44,95.61,"Address 239, City, Country",Medium
+240,5,2024-12-28,Shipped,Express,PayPal,324.04,25.92,9.98,60.87,299.07,"Address 240, City, Country",Low
+241,1841,2024-09-26,Completed,Express,PayPal,74.73,5.98,9.74,11.57,78.88,"Address 241, City, Country",Low
+242,890,2024-10-30,Completed,Overnight,PayPal,984.0,78.72,9.9,74.07,998.55,"Address 242, City, Country",Medium
+243,937,2024-10-03,Completed,Standard,PayPal,475.0,38.0,22.47,49.12,486.35,"Address 243, City, Country",Medium
+244,569,2024-11-12,Shipped,Standard,Credit Card,635.54,50.84,18.7,25.14,679.94,"Address 244, City, Country",High
+245,1541,2024-12-13,Completed,Economy,Bank Transfer,337.08,26.97,10.55,58.28,316.32,"Address 245, City, Country",Medium
+246,10,2025-02-20,Completed,Economy,Credit Card,986.51,78.92,14.28,117.86,961.86,"Address 246, City, Country",Medium
+247,1864,2024-08-01,Completed,Overnight,Digital Wallet,698.12,55.85,15.61,11.62,757.96,"Address 247, City, Country",High
+248,1372,2025-06-07,Completed,Economy,Credit Card,571.2,45.7,5.24,57.26,564.88,"Address 248, City, Country",High
+249,267,2025-01-09,Completed,Overnight,Bank Transfer,250.5,20.04,13.65,20.97,263.22,"Address 249, City, Country",Medium
+250,1761,2024-12-19,Completed,Economy,Digital Wallet,271.07,21.69,5.7,43.0,255.46,"Address 250, City, Country",Low
+251,545,2025-06-17,Completed,Express,Bank Transfer,769.92,61.59,12.23,113.67,730.08,"Address 251, City, Country",Medium
+252,219,2025-03-19,Completed,Economy,Digital Wallet,98.43,7.87,14.59,14.23,106.65,"Address 252, City, Country",Medium
+253,1003,2024-12-10,Completed,Express,Credit Card,926.56,74.12,12.52,93.81,919.39,"Address 253, City, Country",Medium
+254,1511,2025-03-31,Completed,Overnight,Digital Wallet,951.72,76.14,11.97,34.21,1005.62,"Address 254, City, Country",Medium
+255,1296,2025-01-26,Completed,Economy,Credit Card,790.24,63.22,17.82,9.58,861.7,"Address 255, City, Country",Medium
+256,1168,2024-07-13,Completed,Economy,Credit Card,637.07,50.97,18.31,122.67,583.68,"Address 256, City, Country",Medium
+257,1727,2024-10-10,Completed,Economy,Credit Card,161.19,12.9,5.32,3.45,175.96,"Address 257, City, Country",Low
+258,997,2024-12-02,Processing,Economy,Digital Wallet,901.57,72.13,13.97,118.45,869.22,"Address 258, City, Country",Low
+259,768,2025-04-16,Completed,Overnight,PayPal,95.43,7.63,19.36,17.38,105.03,"Address 259, City, Country",Low
+260,1740,2024-08-11,Completed,Express,Bank Transfer,81.54,6.52,24.94,1.61,111.38,"Address 260, City, Country",Low
+261,1011,2024-08-03,Completed,Overnight,Credit Card,735.44,58.84,11.5,116.07,689.7,"Address 261, City, Country",High
+262,1277,2024-10-19,Completed,Overnight,Digital Wallet,485.62,38.85,9.0,78.77,454.7,"Address 262, City, Country",Low
+263,1074,2024-09-02,Completed,Express,Bank Transfer,166.12,13.29,14.88,9.18,185.11,"Address 263, City, Country",Medium
+264,428,2024-12-26,Completed,Economy,Digital Wallet,711.37,56.91,24.21,24.81,767.67,"Address 264, City, Country",Medium
+265,1031,2024-09-06,Completed,Express,PayPal,627.88,50.23,19.31,46.82,650.6,"Address 265, City, Country",High
+266,562,2024-09-24,Completed,Economy,PayPal,313.46,25.08,9.11,22.83,324.81,"Address 266, City, Country",Low
+267,363,2024-11-10,Completed,Standard,Digital Wallet,309.65,24.77,10.95,34.73,310.65,"Address 267, City, Country",Medium
+268,1428,2024-08-08,Shipped,Overnight,Bank Transfer,523.24,41.86,9.92,72.07,502.94,"Address 268, City, Country",Low
+269,211,2025-04-08,Cancelled,Overnight,Digital Wallet,944.35,75.55,22.84,108.88,933.86,"Address 269, City, Country",Low
+270,1148,2024-11-13,Completed,Express,Credit Card,609.74,48.78,19.44,94.33,583.63,"Address 270, City, Country",Low
+271,1066,2024-12-22,Completed,Standard,Credit Card,200.05,16.0,23.08,9.23,229.91,"Address 271, City, Country",Medium
+272,610,2024-09-07,Completed,Economy,Digital Wallet,360.17,28.81,23.73,28.26,384.46,"Address 272, City, Country",Low
+273,1249,2025-06-30,Shipped,Express,Bank Transfer,123.02,9.84,21.0,22.77,131.1,"Address 273, City, Country",Low
+274,641,2025-02-28,Completed,Express,Digital Wallet,485.48,38.84,8.26,80.62,451.96,"Address 274, City, Country",Medium
+275,430,2025-02-18,Completed,Economy,Credit Card,119.65,9.57,9.47,0.8,137.89,"Address 275, City, Country",Low
+276,3,2025-01-28,Completed,Standard,Credit Card,381.16,30.49,14.87,31.76,394.77,"Address 276, City, Country",Low
+277,1627,2024-12-05,Completed,Economy,PayPal,525.25,42.02,22.09,61.77,527.59,"Address 277, City, Country",Medium
+278,416,2024-12-28,Completed,Economy,Digital Wallet,89.01,7.12,6.43,5.79,96.78,"Address 278, City, Country",Low
+279,1851,2024-08-24,Completed,Economy,Credit Card,185.69,14.85,6.11,23.24,183.41,"Address 279, City, Country",Urgent
+280,1905,2025-03-07,Shipped,Overnight,PayPal,767.93,61.43,20.79,16.09,834.07,"Address 280, City, Country",Low
+281,409,2025-05-04,Completed,Economy,PayPal,638.2,51.06,17.39,4.82,701.83,"Address 281, City, Country",Medium
+282,1886,2025-06-05,Completed,Overnight,Credit Card,885.36,70.83,8.09,152.54,811.73,"Address 282, City, Country",Low
+283,1426,2025-06-22,Completed,Express,Credit Card,519.01,41.52,7.87,14.0,554.4,"Address 283, City, Country",Low
+284,1081,2025-03-21,Completed,Overnight,PayPal,719.08,57.53,19.84,98.95,697.5,"Address 284, City, Country",Low
+285,1478,2025-03-12,Completed,Express,Credit Card,568.94,45.51,9.75,77.28,546.92,"Address 285, City, Country",High
+286,437,2024-08-29,Completed,Economy,PayPal,317.16,25.37,9.08,60.0,291.62,"Address 286, City, Country",Low
+287,1280,2024-11-26,Completed,Express,Credit Card,106.57,8.53,16.11,16.87,114.34,"Address 287, City, Country",Medium
+288,227,2024-07-12,Completed,Express,PayPal,779.81,62.38,10.29,48.47,804.02,"Address 288, City, Country",Medium
+289,1945,2025-01-31,Shipped,Express,Credit Card,936.94,74.95,15.23,131.31,895.81,"Address 289, City, Country",High
+290,1635,2025-06-28,Completed,Standard,Credit Card,634.3,50.74,21.98,44.77,662.25,"Address 290, City, Country",Medium
+291,1355,2025-04-09,Completed,Overnight,Credit Card,981.0,78.48,11.39,146.01,924.86,"Address 291, City, Country",Low
+292,144,2025-04-01,Completed,Overnight,Credit Card,593.1,47.45,23.76,0.9,663.4,"Address 292, City, Country",Medium
+293,1010,2025-02-23,Processing,Standard,Digital Wallet,967.0,77.36,24.2,43.65,1024.91,"Address 293, City, Country",Low
+294,1303,2024-12-25,Completed,Standard,Bank Transfer,499.03,39.92,6.22,52.1,493.07,"Address 294, City, Country",Low
+295,776,2024-12-30,Completed,Standard,Credit Card,327.09,26.17,14.15,26.97,340.43,"Address 295, City, Country",Medium
+296,1179,2025-04-18,Completed,Economy,PayPal,969.88,77.59,14.79,135.08,927.18,"Address 296, City, Country",High
+297,1559,2025-01-07,Shipped,Express,PayPal,717.56,57.41,19.92,36.38,758.51,"Address 297, City, Country",Low
+298,1119,2024-09-12,Shipped,Economy,Bank Transfer,457.32,36.59,22.43,70.38,445.96,"Address 298, City, Country",Low
+299,357,2024-11-26,Completed,Standard,Credit Card,79.13,6.33,8.0,8.89,84.56,"Address 299, City, Country",Low
+300,390,2025-02-11,Processing,Express,PayPal,926.09,74.09,8.03,105.01,903.2,"Address 300, City, Country",Medium
+301,1549,2024-12-08,Completed,Economy,Credit Card,905.56,72.44,6.02,131.31,852.72,"Address 301, City, Country",Urgent
+302,980,2025-05-15,Completed,Express,PayPal,73.24,5.86,12.25,1.87,89.48,"Address 302, City, Country",Low
+303,1828,2025-02-24,Completed,Economy,Bank Transfer,120.29,9.62,9.07,2.23,136.74,"Address 303, City, Country",Medium
+304,83,2025-05-17,Completed,Express,Credit Card,881.78,70.54,22.52,31.05,943.79,"Address 304, City, Country",Medium
+305,703,2024-09-09,Shipped,Standard,Digital Wallet,394.62,31.57,7.5,11.37,422.32,"Address 305, City, Country",Low
+306,1424,2024-09-22,Returned,Overnight,Bank Transfer,508.1,40.65,19.19,62.23,505.71,"Address 306, City, Country",High
+307,539,2024-10-31,Completed,Overnight,PayPal,423.29,33.86,22.59,82.95,396.8,"Address 307, City, Country",Medium
+308,381,2025-02-10,Completed,Standard,Credit Card,614.54,49.16,16.38,14.32,665.76,"Address 308, City, Country",Medium
+309,1190,2025-06-04,Completed,Economy,PayPal,498.41,39.87,20.97,4.63,554.62,"Address 309, City, Country",Low
+310,383,2024-09-15,Completed,Standard,Credit Card,672.72,53.82,14.34,63.18,677.7,"Address 310, City, Country",Low
+311,1931,2024-11-06,Cancelled,Economy,Digital Wallet,964.89,77.19,21.2,2.72,1060.56,"Address 311, City, Country",Medium
+312,543,2024-11-14,Completed,Express,Bank Transfer,894.29,71.54,12.61,162.5,815.95,"Address 312, City, Country",High
+313,1648,2024-10-08,Completed,Overnight,PayPal,104.11,8.33,9.11,9.93,111.62,"Address 313, City, Country",High
+314,419,2025-06-20,Completed,Overnight,Digital Wallet,966.01,77.28,13.23,67.11,989.42,"Address 314, City, Country",Low
+315,1999,2025-01-31,Shipped,Standard,PayPal,796.03,63.68,18.94,56.47,822.19,"Address 315, City, Country",Medium
+316,558,2024-07-31,Completed,Standard,PayPal,930.48,74.44,19.11,28.28,995.75,"Address 316, City, Country",Medium
+317,310,2024-07-07,Completed,Overnight,PayPal,237.96,19.04,15.84,28.63,244.2,"Address 317, City, Country",Medium
+318,25,2025-04-22,Shipped,Economy,Credit Card,654.82,52.39,9.59,54.8,661.99,"Address 318, City, Country",Low
+319,677,2025-04-23,Completed,Overnight,Digital Wallet,858.86,68.71,23.85,171.31,780.1,"Address 319, City, Country",Medium
+320,323,2025-06-17,Completed,Express,Digital Wallet,199.58,15.97,22.12,36.31,201.36,"Address 320, City, Country",Low
+321,142,2025-05-28,Shipped,Express,Bank Transfer,304.6,24.37,7.46,23.28,313.15,"Address 321, City, Country",Low
+322,549,2024-10-07,Completed,Standard,Credit Card,935.33,74.83,17.56,185.95,841.76,"Address 322, City, Country",Low
+323,935,2025-04-30,Completed,Economy,PayPal,381.21,30.5,16.67,66.38,362.0,"Address 323, City, Country",Medium
+324,1203,2024-09-04,Completed,Standard,Credit Card,121.82,9.75,23.73,7.05,148.24,"Address 324, City, Country",Urgent
+325,1719,2025-05-08,Completed,Overnight,Digital Wallet,282.5,22.6,22.82,6.21,321.71,"Address 325, City, Country",Low
+326,1983,2025-05-27,Completed,Standard,Credit Card,981.56,78.53,21.09,168.83,912.35,"Address 326, City, Country",Medium
+327,322,2024-07-27,Completed,Overnight,PayPal,375.4,30.03,24.06,18.19,411.3,"Address 327, City, Country",Medium
+328,487,2025-02-04,Processing,Economy,Digital Wallet,86.23,6.9,19.39,4.83,107.68,"Address 328, City, Country",Low
+329,1481,2024-09-15,Completed,Standard,Credit Card,479.7,38.38,19.69,48.07,489.7,"Address 329, City, Country",Low
+330,1298,2024-07-09,Shipped,Standard,Bank Transfer,982.83,78.63,12.49,33.39,1040.56,"Address 330, City, Country",Medium
+331,1216,2024-12-29,Completed,Express,Bank Transfer,441.18,35.29,6.94,20.81,462.59,"Address 331, City, Country",Medium
+332,949,2025-05-25,Completed,Economy,Digital Wallet,353.09,28.25,19.98,22.21,379.1,"Address 332, City, Country",Medium
+333,241,2025-03-14,Completed,Economy,Credit Card,227.75,18.22,20.64,43.54,223.08,"Address 333, City, Country",Low
+334,762,2025-02-20,Completed,Express,PayPal,379.07,30.33,16.34,70.68,355.05,"Address 334, City, Country",Low
+335,666,2024-12-13,Cancelled,Overnight,Credit Card,889.77,71.18,16.03,109.66,867.32,"Address 335, City, Country",Medium
+336,1409,2024-07-11,Completed,Economy,Bank Transfer,221.77,17.74,17.94,44.03,213.41,"Address 336, City, Country",Low
+337,1085,2025-05-31,Completed,Standard,Digital Wallet,235.99,18.88,21.26,39.87,236.26,"Address 337, City, Country",Low
+338,739,2025-05-22,Processing,Standard,Digital Wallet,679.87,54.39,18.47,42.6,710.13,"Address 338, City, Country",Low
+339,435,2025-05-24,Completed,Overnight,PayPal,652.76,52.22,16.82,38.32,683.48,"Address 339, City, Country",Medium
+340,565,2024-12-01,Completed,Express,Credit Card,868.37,69.47,21.92,54.36,905.4,"Address 340, City, Country",Low
+341,1235,2025-06-08,Shipped,Standard,Bank Transfer,742.59,59.41,9.85,88.29,723.55,"Address 341, City, Country",Urgent
+342,1062,2024-08-09,Completed,Express,PayPal,983.7,78.7,12.47,154.19,920.67,"Address 342, City, Country",Medium
+343,1822,2024-10-12,Cancelled,Standard,Bank Transfer,227.59,18.21,17.74,33.98,229.56,"Address 343, City, Country",Urgent
+344,1572,2025-04-29,Completed,Standard,Bank Transfer,382.43,30.59,15.86,29.33,399.55,"Address 344, City, Country",Medium
+345,1321,2025-04-27,Processing,Economy,Credit Card,349.02,27.92,24.71,32.54,369.11,"Address 345, City, Country",Low
+346,1276,2025-04-30,Returned,Economy,PayPal,126.04,10.08,20.11,0.24,155.99,"Address 346, City, Country",Urgent
+347,200,2024-08-11,Shipped,Express,Digital Wallet,306.17,24.49,6.95,48.58,289.04,"Address 347, City, Country",Low
+348,791,2024-07-31,Completed,Express,Bank Transfer,65.99,5.28,12.81,8.64,75.44,"Address 348, City, Country",Low
+349,1969,2025-04-11,Completed,Express,Bank Transfer,768.48,61.48,13.27,64.59,778.64,"Address 349, City, Country",Low
+350,995,2025-05-24,Completed,Express,Credit Card,552.79,44.22,23.98,8.1,612.9,"Address 350, City, Country",Medium
+351,1262,2025-01-05,Completed,Overnight,PayPal,245.26,19.62,5.82,32.98,237.72,"Address 351, City, Country",Low
+352,745,2025-06-03,Completed,Economy,Digital Wallet,852.7,68.22,14.5,27.69,907.73,"Address 352, City, Country",Low
+353,1757,2024-10-21,Processing,Standard,Digital Wallet,93.23,7.46,24.02,10.85,113.86,"Address 353, City, Country",Medium
+354,1625,2025-02-15,Completed,Standard,PayPal,874.69,69.98,15.58,63.78,896.47,"Address 354, City, Country",Low
+355,1712,2025-02-11,Completed,Standard,PayPal,669.41,53.55,19.16,104.25,637.88,"Address 355, City, Country",Urgent
+356,1497,2025-06-07,Cancelled,Standard,Credit Card,776.6,62.13,13.11,116.22,735.61,"Address 356, City, Country",Medium
+357,4,2025-02-04,Completed,Overnight,Credit Card,545.32,43.63,18.67,29.39,578.23,"Address 357, City, Country",Medium
+358,13,2025-06-25,Completed,Standard,Bank Transfer,793.91,63.51,21.73,72.15,807.0,"Address 358, City, Country",High
+359,1466,2025-03-23,Completed,Express,PayPal,929.08,74.33,9.4,57.65,955.16,"Address 359, City, Country",High
+360,884,2025-03-06,Completed,Overnight,Digital Wallet,171.87,13.75,6.37,15.38,176.6,"Address 360, City, Country",High
+361,1316,2025-02-24,Completed,Standard,PayPal,629.38,50.35,15.04,90.45,604.33,"Address 361, City, Country",Medium
+362,1751,2024-08-08,Shipped,Standard,Digital Wallet,283.51,22.68,18.48,2.45,322.22,"Address 362, City, Country",Medium
+363,467,2024-11-15,Processing,Overnight,PayPal,115.03,9.2,14.63,3.89,134.97,"Address 363, City, Country",Low
+364,1639,2024-11-14,Completed,Overnight,Bank Transfer,128.6,10.29,20.37,4.34,154.92,"Address 364, City, Country",Medium
+365,782,2024-12-29,Processing,Economy,Credit Card,510.36,40.83,23.53,36.13,538.59,"Address 365, City, Country",Low
+366,1733,2025-06-08,Returned,Overnight,Bank Transfer,665.2,53.22,24.33,67.9,674.84,"Address 366, City, Country",Low
+367,1188,2025-01-18,Returned,Economy,Bank Transfer,954.37,76.35,11.21,110.83,931.1,"Address 367, City, Country",Medium
+368,345,2025-04-23,Processing,Economy,Credit Card,331.31,26.5,22.73,20.01,360.53,"Address 368, City, Country",Medium
+369,145,2025-01-12,Completed,Express,Bank Transfer,910.26,72.82,15.9,168.31,830.68,"Address 369, City, Country",Medium
+370,759,2025-03-08,Shipped,Express,Bank Transfer,468.3,37.46,17.5,45.93,477.33,"Address 370, City, Country",Medium
+371,1268,2025-02-18,Completed,Standard,Bank Transfer,278.9,22.31,13.93,6.84,308.3,"Address 371, City, Country",Low
+372,1349,2024-10-09,Cancelled,Economy,Bank Transfer,963.88,77.11,15.44,106.64,949.8,"Address 372, City, Country",High
+373,1469,2024-11-18,Completed,Express,PayPal,649.62,51.97,11.33,20.91,692.0,"Address 373, City, Country",Medium
+374,1341,2024-08-11,Completed,Express,Credit Card,498.59,39.89,12.87,39.38,511.96,"Address 374, City, Country",Low
+375,1693,2024-09-21,Completed,Express,Credit Card,399.76,31.98,15.53,67.82,379.45,"Address 375, City, Country",Medium
+376,1964,2025-01-18,Cancelled,Overnight,PayPal,413.89,33.11,8.11,79.77,375.34,"Address 376, City, Country",Medium
+377,1139,2024-12-15,Shipped,Economy,Digital Wallet,52.43,4.19,15.22,2.03,69.82,"Address 377, City, Country",Low
+378,188,2025-02-11,Completed,Overnight,PayPal,907.77,72.62,23.17,95.12,908.45,"Address 378, City, Country",Low
+379,803,2024-09-13,Completed,Overnight,PayPal,955.53,76.44,8.28,42.3,997.95,"Address 379, City, Country",Medium
+380,95,2025-05-08,Completed,Standard,PayPal,548.02,43.84,10.38,90.88,511.36,"Address 380, City, Country",Medium
+381,1227,2024-11-20,Completed,Standard,Credit Card,856.24,68.5,8.26,46.39,886.6,"Address 381, City, Country",Low
+382,1609,2024-12-27,Completed,Economy,Bank Transfer,983.24,78.66,18.07,102.65,977.32,"Address 382, City, Country",Urgent
+383,1271,2025-03-04,Completed,Overnight,Digital Wallet,104.88,8.39,5.89,4.3,114.86,"Address 383, City, Country",Low
+384,1487,2025-02-01,Completed,Express,Digital Wallet,621.68,49.73,24.97,25.01,671.37,"Address 384, City, Country",Medium
+385,970,2024-09-07,Completed,Standard,Digital Wallet,95.23,7.62,16.45,6.4,112.9,"Address 385, City, Country",Low
+386,923,2025-01-05,Completed,Overnight,Digital Wallet,292.08,23.37,20.59,14.95,321.08,"Address 386, City, Country",Medium
+387,1980,2024-09-10,Completed,Standard,PayPal,517.2,41.38,19.67,58.62,519.63,"Address 387, City, Country",Medium
+388,988,2024-10-11,Shipped,Express,Digital Wallet,141.18,11.29,12.91,14.53,150.85,"Address 388, City, Country",Low
+389,433,2025-04-04,Completed,Standard,Bank Transfer,666.0,53.28,10.8,112.6,617.48,"Address 389, City, Country",Urgent
+390,284,2025-05-21,Shipped,Standard,Bank Transfer,254.91,20.39,8.51,12.92,270.89,"Address 390, City, Country",Medium
+391,1705,2024-09-11,Completed,Economy,Bank Transfer,943.97,75.52,22.43,96.56,945.36,"Address 391, City, Country",Low
+392,440,2024-11-19,Completed,Economy,Bank Transfer,78.8,6.3,20.29,13.17,92.23,"Address 392, City, Country",Medium
+393,1944,2025-05-31,Completed,Economy,Bank Transfer,646.24,51.7,23.02,92.85,628.11,"Address 393, City, Country",Low
+394,1918,2025-06-20,Completed,Express,PayPal,795.96,63.68,15.25,129.43,745.45,"Address 394, City, Country",Medium
+395,263,2025-03-22,Completed,Express,Digital Wallet,425.33,34.03,23.61,53.28,429.69,"Address 395, City, Country",Low
+396,1679,2024-08-21,Completed,Express,PayPal,332.24,26.58,16.54,36.19,339.17,"Address 396, City, Country",Low
+397,523,2024-07-07,Completed,Economy,PayPal,273.12,21.85,11.82,10.68,296.11,"Address 397, City, Country",High
+398,500,2025-05-01,Completed,Standard,Credit Card,125.81,10.06,22.03,1.4,156.51,"Address 398, City, Country",Medium
+399,317,2024-11-21,Completed,Express,Credit Card,736.85,58.95,12.48,86.28,722.0,"Address 399, City, Country",Medium
+400,1206,2025-02-15,Cancelled,Overnight,Digital Wallet,518.6,41.49,23.32,99.12,484.29,"Address 400, City, Country",Low
+401,1819,2024-07-17,Completed,Standard,Digital Wallet,469.25,37.54,11.28,35.12,482.95,"Address 401, City, Country",Medium
+402,915,2025-06-29,Completed,Standard,Digital Wallet,812.87,65.03,14.53,129.98,762.45,"Address 402, City, Country",Medium
+403,1247,2025-01-13,Cancelled,Standard,Credit Card,292.55,23.4,17.77,50.27,283.45,"Address 403, City, Country",Medium
+404,203,2025-04-16,Processing,Overnight,PayPal,560.74,44.86,15.34,101.5,519.44,"Address 404, City, Country",Low
+405,561,2024-12-13,Shipped,Standard,PayPal,465.89,37.27,5.06,81.51,426.71,"Address 405, City, Country",Low
+406,374,2024-11-03,Completed,Standard,PayPal,233.57,18.69,14.47,31.86,234.87,"Address 406, City, Country",High
+407,1618,2025-03-17,Completed,Standard,Credit Card,739.78,59.18,14.56,110.76,702.76,"Address 407, City, Country",Low
+408,1104,2025-05-24,Processing,Express,Bank Transfer,254.68,20.37,15.55,12.26,278.34,"Address 408, City, Country",High
+409,1584,2024-12-20,Returned,Overnight,PayPal,724.9,57.99,6.83,140.71,649.01,"Address 409, City, Country",Low
+410,1927,2025-01-05,Processing,Express,Bank Transfer,965.5,77.24,13.01,70.25,985.5,"Address 410, City, Country",Low
+411,190,2024-09-05,Shipped,Economy,Bank Transfer,621.46,49.72,8.26,68.2,611.23,"Address 411, City, Country",Medium
+412,1685,2025-05-17,Completed,Express,Digital Wallet,970.77,77.66,19.12,65.23,1002.32,"Address 412, City, Country",Low
+413,418,2025-06-06,Completed,Economy,Digital Wallet,344.73,27.58,15.13,40.31,347.13,"Address 413, City, Country",Medium
+414,61,2025-01-29,Cancelled,Economy,Credit Card,375.12,30.01,8.48,41.4,372.21,"Address 414, City, Country",High
+415,1128,2025-04-02,Completed,Economy,Digital Wallet,404.29,32.34,16.7,0.99,452.34,"Address 415, City, Country",Medium
+416,1815,2024-09-02,Completed,Economy,Digital Wallet,246.12,19.69,15.55,10.04,271.32,"Address 416, City, Country",Low
+417,1486,2025-06-06,Completed,Economy,Digital Wallet,79.77,6.38,7.13,8.77,84.51,"Address 417, City, Country",Medium
+418,1093,2025-02-22,Completed,Standard,PayPal,253.34,20.27,16.91,4.74,285.78,"Address 418, City, Country",Medium
+419,126,2025-03-09,Completed,Overnight,Credit Card,857.93,68.63,21.49,127.83,820.23,"Address 419, City, Country",High
+420,400,2024-12-07,Completed,Standard,Credit Card,407.16,32.57,22.94,1.39,461.28,"Address 420, City, Country",Medium
+421,541,2025-06-20,Completed,Express,Bank Transfer,897.81,71.82,7.36,127.25,849.74,"Address 421, City, Country",Low
+422,845,2025-05-01,Completed,Express,Bank Transfer,981.51,78.52,12.86,174.0,898.88,"Address 422, City, Country",Low
+423,302,2024-07-28,Completed,Overnight,PayPal,683.55,54.68,18.41,123.19,633.45,"Address 423, City, Country",Medium
+424,1028,2024-07-29,Completed,Overnight,Digital Wallet,819.82,65.59,8.12,63.77,829.75,"Address 424, City, Country",Urgent
+425,1415,2024-07-29,Completed,Overnight,PayPal,595.08,47.61,20.13,32.52,630.3,"Address 425, City, Country",High
+426,955,2024-08-11,Completed,Express,Credit Card,268.59,21.49,17.23,28.08,279.22,"Address 426, City, Country",Medium
+427,1457,2024-11-11,Shipped,Standard,Credit Card,605.23,48.42,17.13,74.96,595.82,"Address 427, City, Country",Low
+428,1530,2025-01-12,Completed,Overnight,Credit Card,388.04,31.04,18.64,75.0,362.72,"Address 428, City, Country",High
+429,720,2024-12-17,Completed,Economy,Digital Wallet,592.46,47.4,5.64,106.99,538.5,"Address 429, City, Country",Low
+430,288,2025-04-13,Completed,Overnight,PayPal,892.84,71.43,20.32,35.17,949.42,"Address 430, City, Country",High
+431,1917,2025-03-28,Completed,Overnight,Bank Transfer,740.66,59.25,13.5,136.99,676.43,"Address 431, City, Country",Low
+432,58,2025-02-23,Processing,Overnight,PayPal,374.92,29.99,8.29,21.31,391.89,"Address 432, City, Country",Low
+433,352,2025-04-22,Completed,Overnight,PayPal,284.82,22.79,10.18,49.88,267.91,"Address 433, City, Country",Low
+434,347,2025-03-28,Completed,Overnight,Digital Wallet,950.56,76.05,7.69,145.86,888.44,"Address 434, City, Country",Medium
+435,1579,2025-05-04,Completed,Economy,Digital Wallet,381.57,30.53,24.17,6.35,429.91,"Address 435, City, Country",Urgent
+436,436,2024-09-17,Cancelled,Express,Digital Wallet,204.61,16.37,9.04,36.4,193.62,"Address 436, City, Country",Medium
+437,1812,2025-03-23,Processing,Economy,PayPal,476.13,38.09,9.47,29.49,494.2,"Address 437, City, Country",Medium
+438,1214,2024-07-18,Completed,Economy,Credit Card,499.77,39.98,10.9,80.16,470.49,"Address 438, City, Country",Low
+439,1325,2024-11-27,Completed,Economy,PayPal,834.56,66.77,14.89,57.86,858.36,"Address 439, City, Country",Low
+440,1748,2025-03-02,Completed,Express,PayPal,956.43,76.51,22.01,56.36,998.6,"Address 440, City, Country",Low
+441,1520,2025-03-28,Completed,Overnight,Credit Card,638.22,51.06,9.92,111.98,587.22,"Address 441, City, Country",Low
+442,1120,2024-07-17,Processing,Overnight,Digital Wallet,351.23,28.1,15.72,46.45,348.6,"Address 442, City, Country",High
+443,1807,2025-05-15,Completed,Economy,Bank Transfer,611.47,48.92,11.95,0.72,671.62,"Address 443, City, Country",Medium
+444,1315,2024-09-17,Processing,Standard,Bank Transfer,936.17,74.89,19.3,173.8,856.57,"Address 444, City, Country",Low
+445,532,2025-05-17,Processing,Overnight,Digital Wallet,648.0,51.84,18.42,46.97,671.29,"Address 445, City, Country",Low
+446,452,2024-10-04,Completed,Express,Credit Card,769.27,61.54,8.8,51.17,788.44,"Address 446, City, Country",High
+447,1079,2025-06-29,Completed,Standard,Digital Wallet,678.33,54.27,11.5,70.05,674.05,"Address 447, City, Country",High
+448,1744,2025-01-10,Processing,Standard,PayPal,70.65,5.65,9.79,7.67,78.42,"Address 448, City, Country",Medium
+449,481,2025-04-26,Completed,Overnight,Credit Card,547.0,43.76,9.31,78.63,521.44,"Address 449, City, Country",Medium
+450,315,2025-01-03,Completed,Express,PayPal,288.55,23.08,10.7,37.35,284.98,"Address 450, City, Country",Medium
+451,626,2024-07-17,Returned,Overnight,PayPal,462.96,37.04,16.33,2.08,514.25,"Address 451, City, Country",Low
+452,953,2024-12-26,Completed,Overnight,Credit Card,899.97,72.0,5.66,146.24,831.39,"Address 452, City, Country",Urgent
+453,104,2024-09-05,Completed,Express,Credit Card,291.47,23.32,5.01,3.87,315.93,"Address 453, City, Country",High
+454,431,2025-04-02,Processing,Economy,Credit Card,274.82,21.99,7.87,20.56,284.12,"Address 454, City, Country",Medium
+455,1561,2024-09-09,Processing,Standard,Digital Wallet,147.89,11.83,23.09,16.82,165.99,"Address 455, City, Country",Low
+456,1236,2025-06-06,Completed,Overnight,Credit Card,830.62,66.45,5.89,158.84,744.12,"Address 456, City, Country",Medium
+457,704,2025-04-08,Completed,Economy,Credit Card,501.02,40.08,17.9,50.09,508.91,"Address 457, City, Country",Low
+458,1506,2025-03-17,Processing,Overnight,Digital Wallet,651.07,52.09,12.05,10.0,705.21,"Address 458, City, Country",High
+459,749,2025-03-28,Completed,Economy,Bank Transfer,837.26,66.98,19.92,105.61,818.55,"Address 459, City, Country",Medium
+460,1430,2024-07-29,Completed,Overnight,Digital Wallet,288.42,23.07,8.14,16.04,303.6,"Address 460, City, Country",Medium
+461,296,2025-01-28,Completed,Economy,Bank Transfer,211.33,16.91,21.01,20.47,228.77,"Address 461, City, Country",Low
+462,151,2024-09-15,Completed,Overnight,Credit Card,585.37,46.83,22.05,45.21,609.04,"Address 462, City, Country",Low
+463,454,2024-11-17,Shipped,Standard,PayPal,954.52,76.36,16.27,133.42,913.72,"Address 463, City, Country",Medium
+464,43,2024-09-13,Completed,Standard,Bank Transfer,616.63,49.33,17.73,104.74,578.95,"Address 464, City, Country",Low
+465,395,2024-07-11,Completed,Overnight,PayPal,84.46,6.76,24.06,9.65,105.63,"Address 465, City, Country",Medium
+466,1293,2025-04-04,Completed,Overnight,Credit Card,367.31,29.39,21.63,45.19,373.14,"Address 466, City, Country",Medium
+467,974,2024-07-29,Completed,Overnight,PayPal,87.59,7.01,24.3,10.99,107.91,"Address 467, City, Country",Medium
+468,1201,2025-01-22,Completed,Overnight,Bank Transfer,840.85,67.27,10.42,71.88,846.66,"Address 468, City, Country",Low
+469,1090,2024-08-05,Completed,Standard,Digital Wallet,682.48,54.6,21.19,85.48,672.8,"Address 469, City, Country",Medium
+470,1525,2025-05-14,Completed,Overnight,Bank Transfer,659.91,52.79,14.23,40.29,686.65,"Address 470, City, Country",Medium
+471,838,2025-01-08,Completed,Economy,Bank Transfer,363.93,29.11,14.49,5.05,402.48,"Address 471, City, Country",Low
+472,1521,2025-05-02,Completed,Overnight,PayPal,434.75,34.78,7.06,46.35,430.24,"Address 472, City, Country",Medium
+473,1686,2025-02-08,Completed,Express,Credit Card,447.59,35.81,12.63,8.79,487.24,"Address 473, City, Country",Medium
+474,1732,2025-02-22,Completed,Overnight,Bank Transfer,477.46,38.2,7.45,36.04,487.06,"Address 474, City, Country",Medium
+475,1443,2024-10-18,Completed,Overnight,Digital Wallet,51.91,4.15,22.45,4.61,73.9,"Address 475, City, Country",Low
+476,794,2025-01-19,Completed,Overnight,PayPal,927.06,74.17,16.93,180.16,838.0,"Address 476, City, Country",Medium
+477,1633,2025-04-16,Shipped,Standard,Bank Transfer,907.99,72.64,12.96,147.22,846.37,"Address 477, City, Country",Low
+478,817,2024-10-05,Processing,Express,PayPal,680.27,54.42,9.32,55.0,689.01,"Address 478, City, Country",Low
+479,986,2025-02-13,Processing,Express,Bank Transfer,196.88,15.75,9.13,15.76,206.0,"Address 479, City, Country",Medium
+480,1904,2025-04-06,Completed,Overnight,PayPal,967.24,77.38,8.61,115.01,938.21,"Address 480, City, Country",Medium
+481,737,2025-05-22,Completed,Overnight,Credit Card,238.17,19.05,9.36,30.08,236.5,"Address 481, City, Country",High
+482,1504,2025-04-27,Completed,Overnight,Bank Transfer,764.04,61.12,12.74,137.33,700.57,"Address 482, City, Country",Medium
+483,1586,2025-03-10,Shipped,Standard,PayPal,989.85,79.19,8.93,116.15,961.81,"Address 483, City, Country",Low
+484,1032,2024-09-05,Processing,Standard,Credit Card,393.58,31.49,8.64,75.64,358.07,"Address 484, City, Country",Medium
+485,1238,2025-04-19,Completed,Economy,Bank Transfer,303.38,24.27,10.19,29.54,308.31,"Address 485, City, Country",Medium
+486,772,2024-07-09,Completed,Economy,Digital Wallet,569.76,45.58,13.94,92.28,537.0,"Address 486, City, Country",Medium
+487,1172,2025-01-26,Completed,Standard,PayPal,301.76,24.14,5.74,49.2,282.43,"Address 487, City, Country",Medium
+488,1576,2025-03-02,Completed,Overnight,PayPal,108.97,8.72,6.8,18.08,106.41,"Address 488, City, Country",Medium
+489,1773,2025-05-27,Processing,Overnight,PayPal,318.28,25.46,16.68,37.9,322.52,"Address 489, City, Country",Medium
+490,72,2025-05-03,Completed,Standard,PayPal,566.27,45.3,16.7,16.63,611.64,"Address 490, City, Country",Low
+491,1319,2024-12-29,Shipped,Express,Credit Card,632.75,50.62,5.6,63.8,625.17,"Address 491, City, Country",Low
+492,1097,2024-07-09,Completed,Standard,Digital Wallet,384.67,30.77,14.82,14.64,415.61,"Address 492, City, Country",Low
+493,413,2024-07-18,Completed,Overnight,PayPal,990.11,79.21,5.15,52.18,1022.29,"Address 493, City, Country",Medium
+494,1064,2025-03-27,Completed,Standard,Digital Wallet,709.67,56.77,9.29,97.56,678.16,"Address 494, City, Country",Medium
+495,1747,2024-11-19,Processing,Standard,Digital Wallet,652.27,52.18,7.29,101.89,609.86,"Address 495, City, Country",Low
+496,378,2025-04-14,Completed,Overnight,Credit Card,495.91,39.67,22.63,81.19,477.02,"Address 496, City, Country",Low
+497,1581,2024-11-24,Completed,Standard,Credit Card,351.86,28.15,7.8,5.29,382.51,"Address 497, City, Country",Low
+498,868,2024-09-14,Completed,Overnight,PayPal,256.59,20.53,9.08,16.66,269.53,"Address 498, City, Country",Low
+499,697,2024-09-17,Completed,Economy,Digital Wallet,374.93,29.99,7.36,6.86,405.42,"Address 499, City, Country",Low
+500,961,2024-10-29,Processing,Economy,Digital Wallet,259.95,20.8,15.02,18.21,277.56,"Address 500, City, Country",Medium
+501,1788,2025-01-08,Shipped,Economy,Bank Transfer,273.4,21.87,20.07,47.32,268.02,"Address 501, City, Country",Medium
+502,866,2024-07-27,Completed,Economy,Credit Card,184.29,14.74,13.74,4.08,208.7,"Address 502, City, Country",Urgent
+503,1289,2024-07-15,Completed,Overnight,Credit Card,775.25,62.02,20.49,104.16,753.6,"Address 503, City, Country",Low
+504,1239,2025-06-08,Completed,Overnight,Credit Card,633.62,50.69,15.56,48.01,651.86,"Address 504, City, Country",Low
+505,1043,2025-02-07,Completed,Economy,PayPal,553.89,44.31,12.93,59.27,551.87,"Address 505, City, Country",Low
+506,661,2025-06-16,Completed,Express,Credit Card,877.96,70.24,19.61,55.75,912.07,"Address 506, City, Country",Medium
+507,331,2025-03-28,Shipped,Overnight,Bank Transfer,769.18,61.53,15.94,42.9,803.76,"Address 507, City, Country",Low
+508,620,2025-03-30,Completed,Economy,Digital Wallet,625.87,50.07,13.78,116.92,572.79,"Address 508, City, Country",High
+509,154,2024-09-10,Completed,Overnight,PayPal,507.36,40.59,11.37,79.23,480.09,"Address 509, City, Country",Medium
+510,1958,2025-06-10,Completed,Overnight,Digital Wallet,983.37,78.67,8.13,106.36,963.81,"Address 510, City, Country",Medium
+511,9,2024-07-28,Completed,Overnight,Credit Card,236.33,18.91,24.8,14.08,265.96,"Address 511, City, Country",Low
+512,1929,2025-04-22,Completed,Express,Bank Transfer,114.05,9.12,14.29,13.9,123.57,"Address 512, City, Country",Urgent
+513,1009,2025-02-11,Shipped,Overnight,Credit Card,245.15,19.61,7.06,15.33,256.5,"Address 513, City, Country",Low
+514,1729,2025-04-03,Completed,Overnight,Bank Transfer,392.02,31.36,22.79,54.13,392.04,"Address 514, City, Country",High
+515,908,2025-04-11,Completed,Economy,PayPal,525.91,42.07,11.62,104.79,474.82,"Address 515, City, Country",High
+516,1376,2024-08-25,Cancelled,Express,Digital Wallet,935.03,74.8,23.59,1.49,1031.93,"Address 516, City, Country",Low
+517,1997,2025-03-24,Completed,Standard,Digital Wallet,818.71,65.5,16.74,103.96,796.98,"Address 517, City, Country",High
+518,823,2024-08-24,Completed,Overnight,Digital Wallet,821.53,65.72,8.65,97.58,798.32,"Address 518, City, Country",Medium
+519,1363,2025-04-15,Completed,Standard,Digital Wallet,860.0,68.8,7.8,68.94,867.66,"Address 519, City, Country",Medium
+520,989,2025-01-07,Completed,Express,Digital Wallet,436.59,34.93,13.83,5.3,480.05,"Address 520, City, Country",Medium
+521,1282,2025-04-13,Completed,Standard,Bank Transfer,439.48,35.16,21.77,16.28,480.13,"Address 521, City, Country",High
+522,1513,2024-07-18,Completed,Standard,PayPal,533.3,42.66,17.86,42.05,551.78,"Address 522, City, Country",High
+523,520,2024-09-26,Completed,Standard,Digital Wallet,518.36,41.47,18.88,98.71,480.01,"Address 523, City, Country",Medium
+524,1926,2024-11-06,Processing,Standard,Credit Card,583.97,46.72,24.87,53.22,602.34,"Address 524, City, Country",Medium
+525,1461,2025-03-29,Completed,Express,Bank Transfer,368.61,29.49,12.37,49.84,360.62,"Address 525, City, Country",Medium
+526,1697,2025-03-09,Completed,Overnight,Digital Wallet,289.1,23.13,12.1,8.9,315.43,"Address 526, City, Country",Medium
+527,187,2025-05-08,Completed,Economy,Bank Transfer,866.58,69.33,23.85,94.17,865.59,"Address 527, City, Country",Low
+528,1060,2025-07-01,Returned,Standard,Credit Card,794.76,63.58,20.62,147.38,731.58,"Address 528, City, Country",Low
+529,1189,2024-12-14,Completed,Express,Bank Transfer,798.22,63.86,5.55,9.08,858.55,"Address 529, City, Country",Medium
+530,1095,2025-03-27,Completed,Express,Digital Wallet,851.05,68.08,22.06,124.73,816.46,"Address 530, City, Country",Low
+531,801,2025-02-19,Processing,Standard,PayPal,394.29,31.54,17.83,21.39,422.28,"Address 531, City, Country",Low
+532,109,2024-11-15,Shipped,Economy,PayPal,848.57,67.89,5.59,61.6,860.45,"Address 532, City, Country",High
+533,1052,2025-06-09,Completed,Standard,Credit Card,720.59,57.65,7.93,113.15,673.02,"Address 533, City, Country",Medium
+534,719,2024-08-19,Completed,Standard,Credit Card,450.6,36.05,13.89,4.09,496.45,"Address 534, City, Country",Low
+535,479,2025-04-14,Completed,Economy,Digital Wallet,628.15,50.25,21.61,29.75,670.26,"Address 535, City, Country",High
+536,927,2025-04-18,Completed,Economy,Credit Card,627.56,50.2,23.98,124.22,577.52,"Address 536, City, Country",Medium
+537,1117,2025-04-01,Completed,Standard,Digital Wallet,724.39,57.95,13.9,24.48,771.75,"Address 537, City, Country",Low
+538,1704,2024-12-01,Completed,Express,PayPal,173.7,13.9,14.04,3.15,198.49,"Address 538, City, Country",Low
+539,679,2024-09-14,Returned,Economy,Credit Card,546.51,43.72,11.9,11.46,590.68,"Address 539, City, Country",Low
+540,831,2025-03-02,Completed,Standard,Digital Wallet,61.24,4.9,6.23,9.86,62.51,"Address 540, City, Country",Low
+541,1780,2024-09-18,Cancelled,Economy,PayPal,232.89,18.63,19.19,2.86,267.85,"Address 541, City, Country",High
+542,829,2024-09-16,Completed,Standard,Digital Wallet,912.1,72.97,6.93,156.31,835.69,"Address 542, City, Country",Medium
+543,472,2024-10-04,Completed,Standard,Credit Card,552.7,44.22,15.29,62.95,549.26,"Address 543, City, Country",Medium
+544,615,2024-08-17,Shipped,Express,PayPal,883.19,70.66,12.62,104.2,862.27,"Address 544, City, Country",Medium
+545,940,2024-10-18,Completed,Express,Bank Transfer,531.65,42.53,20.47,75.03,519.62,"Address 545, City, Country",Urgent
+546,336,2024-12-24,Completed,Economy,Credit Card,714.0,57.12,15.19,26.09,760.22,"Address 546, City, Country",Low
+547,1932,2024-12-04,Completed,Economy,Bank Transfer,589.43,47.15,24.97,112.35,549.21,"Address 547, City, Country",Low
+548,1714,2024-12-30,Completed,Economy,Bank Transfer,156.51,12.52,12.62,24.24,157.41,"Address 548, City, Country",Medium
+549,252,2025-07-03,Completed,Overnight,PayPal,234.11,18.73,8.93,46.33,215.44,"Address 549, City, Country",Medium
+550,700,2025-03-10,Completed,Express,PayPal,383.75,30.7,11.86,25.07,401.24,"Address 550, City, Country",High
+551,1813,2025-05-05,Cancelled,Economy,PayPal,227.36,18.19,21.77,33.73,233.59,"Address 551, City, Country",Low
+552,862,2025-04-20,Completed,Overnight,Credit Card,633.71,50.7,14.6,75.91,623.1,"Address 552, City, Country",Medium
+553,70,2025-03-02,Completed,Express,Credit Card,695.47,55.64,14.02,46.4,718.73,"Address 553, City, Country",Low
+554,1855,2025-01-19,Cancelled,Express,Digital Wallet,233.47,18.68,6.05,42.18,216.01,"Address 554, City, Country",Medium
+555,139,2024-11-10,Completed,Standard,Credit Card,992.63,79.41,22.12,60.43,1033.73,"Address 555, City, Country",Medium
+556,133,2024-11-23,Completed,Standard,Bank Transfer,631.4,50.51,7.4,20.62,668.69,"Address 556, City, Country",Low
+557,1956,2024-10-11,Returned,Overnight,Bank Transfer,588.08,47.05,20.6,57.91,597.81,"Address 557, City, Country",High
+558,1888,2024-12-03,Completed,Standard,Bank Transfer,147.59,11.81,13.78,18.15,155.03,"Address 558, City, Country",High
+559,1564,2025-06-28,Completed,Standard,Credit Card,62.48,5.0,12.09,9.28,70.28,"Address 559, City, Country",Medium
+560,1173,2025-04-12,Completed,Economy,Credit Card,274.18,21.93,10.7,6.13,300.67,"Address 560, City, Country",Low
+561,196,2024-10-23,Completed,Overnight,Credit Card,859.71,68.78,8.95,166.97,770.47,"Address 561, City, Country",Low
+562,432,2025-03-17,Returned,Express,PayPal,630.24,50.42,11.37,97.36,594.67,"Address 562, City, Country",Low
+563,1536,2025-05-19,Completed,Standard,Credit Card,516.75,41.34,18.1,59.85,516.34,"Address 563, City, Country",Medium
+564,1347,2024-10-09,Completed,Overnight,Digital Wallet,912.67,73.01,21.27,177.77,829.18,"Address 564, City, Country",Low
+565,182,2025-05-05,Completed,Economy,Digital Wallet,668.8,53.5,21.31,35.77,707.84,"Address 565, City, Country",Medium
+566,670,2024-12-01,Completed,Express,Digital Wallet,158.95,12.72,19.29,6.92,184.03,"Address 566, City, Country",Medium
+567,40,2024-07-09,Cancelled,Overnight,PayPal,756.11,60.49,14.13,4.33,826.4,"Address 567, City, Country",Low
+568,1636,2025-05-08,Shipped,Express,PayPal,457.79,36.62,20.76,65.49,449.69,"Address 568, City, Country",Urgent
+569,858,2024-10-19,Completed,Standard,Digital Wallet,866.07,69.29,5.15,8.76,931.75,"Address 569, City, Country",High
+570,1314,2025-06-18,Completed,Economy,Digital Wallet,759.1,60.73,24.84,93.14,751.53,"Address 570, City, Country",Urgent
+571,741,2024-11-08,Cancelled,Overnight,Digital Wallet,200.98,16.08,14.94,3.62,228.38,"Address 571, City, Country",High
+572,1957,2024-11-09,Completed,Standard,Bank Transfer,223.53,17.88,18.88,39.65,220.64,"Address 572, City, Country",Medium
+573,1684,2025-04-19,Completed,Express,Bank Transfer,92.58,7.41,24.15,17.64,106.49,"Address 573, City, Country",Medium
+574,1092,2024-10-24,Completed,Economy,PayPal,299.06,23.93,14.82,25.08,312.74,"Address 574, City, Country",Medium
+575,1398,2025-03-19,Processing,Overnight,PayPal,204.98,16.4,11.67,37.52,195.53,"Address 575, City, Country",Low
+576,929,2024-11-30,Completed,Express,Bank Transfer,709.56,56.77,23.83,88.79,701.36,"Address 576, City, Country",Low
+577,289,2025-01-23,Completed,Standard,PayPal,651.68,52.13,22.88,76.64,650.06,"Address 577, City, Country",High
+578,1110,2025-01-23,Returned,Standard,PayPal,370.02,29.6,12.95,67.32,345.25,"Address 578, City, Country",Low
+579,1448,2025-04-09,Completed,Economy,Digital Wallet,67.63,5.41,17.2,12.45,77.78,"Address 579, City, Country",Low
+580,1592,2024-09-23,Completed,Overnight,Credit Card,541.03,43.28,23.35,12.41,595.24,"Address 580, City, Country",Medium
+581,268,2024-07-14,Completed,Overnight,Credit Card,399.31,31.94,20.64,13.3,438.59,"Address 581, City, Country",High
+582,1351,2025-02-16,Completed,Overnight,Credit Card,828.75,66.3,12.61,87.45,820.22,"Address 582, City, Country",Medium
+583,629,2024-09-27,Completed,Standard,PayPal,492.88,39.43,24.29,86.65,469.95,"Address 583, City, Country",Medium
+584,1329,2025-01-19,Shipped,Standard,Bank Transfer,769.3,61.54,22.79,110.27,743.36,"Address 584, City, Country",Low
+585,169,2024-12-06,Completed,Standard,Credit Card,772.92,61.83,15.63,10.46,839.92,"Address 585, City, Country",Medium
+586,1001,2024-09-28,Completed,Overnight,Bank Transfer,928.06,74.24,7.31,59.03,950.58,"Address 586, City, Country",Low
+587,882,2025-03-13,Completed,Economy,Bank Transfer,517.19,41.37,14.37,8.04,564.89,"Address 587, City, Country",Low
+588,1171,2025-01-30,Completed,Economy,Bank Transfer,84.07,6.73,7.98,11.76,87.01,"Address 588, City, Country",Low
+589,387,2024-10-12,Completed,Economy,Bank Transfer,223.85,17.91,13.77,35.8,219.73,"Address 589, City, Country",Medium
+590,1676,2025-06-09,Completed,Standard,Digital Wallet,519.22,41.54,8.05,17.67,551.14,"Address 590, City, Country",Low
+591,1589,2024-07-06,Completed,Economy,Credit Card,331.37,26.51,22.42,1.21,379.08,"Address 591, City, Country",Medium
+592,1162,2024-09-26,Completed,Economy,Credit Card,275.43,22.03,8.79,33.59,272.67,"Address 592, City, Country",Low
+593,1135,2025-03-05,Completed,Standard,PayPal,936.16,74.89,11.69,181.17,841.58,"Address 593, City, Country",Low
+594,417,2024-11-30,Processing,Economy,PayPal,680.51,54.44,24.82,112.07,647.69,"Address 594, City, Country",High
+595,1731,2024-10-27,Completed,Economy,PayPal,987.73,79.02,10.91,177.12,900.55,"Address 595, City, Country",Low
+596,1336,2024-12-30,Completed,Express,PayPal,959.25,76.74,18.82,170.16,884.65,"Address 596, City, Country",High
+597,1375,2025-02-12,Completed,Economy,Digital Wallet,532.39,42.59,17.52,74.59,517.91,"Address 597, City, Country",Urgent
+598,294,2025-02-28,Completed,Economy,PayPal,866.74,69.34,14.85,95.74,855.18,"Address 598, City, Country",Low
+599,1025,2025-06-15,Shipped,Overnight,Digital Wallet,108.05,8.64,21.89,14.56,124.02,"Address 599, City, Country",Low
+600,678,2025-02-05,Completed,Economy,Credit Card,819.17,65.53,21.46,116.11,790.06,"Address 600, City, Country",High
+601,93,2025-04-02,Completed,Express,Bank Transfer,579.41,46.35,18.69,15.95,628.5,"Address 601, City, Country",Low
+602,132,2024-10-23,Completed,Overnight,Digital Wallet,605.92,48.47,20.02,24.56,649.86,"Address 602, City, Country",High
+603,1195,2024-10-24,Cancelled,Economy,PayPal,713.47,57.08,13.34,102.22,681.67,"Address 603, City, Country",Low
+604,6,2024-09-08,Completed,Economy,Bank Transfer,411.42,32.91,6.13,55.76,394.7,"Address 604, City, Country",Medium
+605,699,2025-02-20,Completed,Overnight,Credit Card,192.32,15.39,13.4,35.06,186.04,"Address 605, City, Country",Low
+606,193,2025-01-20,Completed,Overnight,Credit Card,972.55,77.8,16.48,24.86,1041.97,"Address 606, City, Country",Medium
+607,669,2024-08-29,Completed,Overnight,PayPal,953.3,76.26,10.51,3.09,1036.98,"Address 607, City, Country",Low
+608,965,2025-03-17,Completed,Overnight,Bank Transfer,410.65,32.85,17.46,9.19,451.77,"Address 608, City, Country",Low
+609,23,2024-09-22,Cancelled,Express,Digital Wallet,859.69,68.78,7.75,152.92,783.29,"Address 609, City, Country",High
+610,1360,2024-10-15,Completed,Economy,PayPal,833.45,66.68,6.57,97.11,809.58,"Address 610, City, Country",Urgent
+611,1145,2025-06-11,Completed,Express,PayPal,222.56,17.8,18.73,44.29,214.81,"Address 611, City, Country",Medium
+612,899,2025-04-16,Completed,Standard,PayPal,744.55,59.56,9.75,64.9,748.97,"Address 612, City, Country",Low
+613,321,2024-11-14,Completed,Economy,Credit Card,266.31,21.31,22.92,18.19,292.35,"Address 613, City, Country",Low
+614,914,2024-12-15,Completed,Express,Bank Transfer,640.2,51.22,15.8,90.94,616.27,"Address 614, City, Country",Low
+615,78,2025-04-26,Completed,Economy,Credit Card,460.94,36.87,8.33,29.4,476.74,"Address 615, City, Country",Low
+616,482,2025-06-21,Shipped,Standard,PayPal,790.85,63.27,18.42,115.74,756.8,"Address 616, City, Country",Medium
+617,495,2025-03-29,Completed,Economy,Digital Wallet,965.59,77.25,24.33,72.96,994.21,"Address 617, City, Country",Low
+618,1435,2025-05-29,Shipped,Standard,Digital Wallet,705.39,56.43,16.36,60.61,717.56,"Address 618, City, Country",Medium
+619,358,2024-12-29,Completed,Standard,Bank Transfer,363.43,29.07,22.54,7.82,407.23,"Address 619, City, Country",Low
+620,1221,2024-09-30,Cancelled,Overnight,Digital Wallet,112.41,8.99,20.11,3.69,137.82,"Address 620, City, Country",Medium
+621,834,2024-07-16,Processing,Standard,Bank Transfer,278.31,22.26,16.49,31.21,285.86,"Address 621, City, Country",Medium
+622,343,2025-02-07,Completed,Overnight,Credit Card,173.1,13.85,7.23,15.9,178.28,"Address 622, City, Country",Low
+623,587,2024-07-20,Processing,Standard,Bank Transfer,593.28,47.46,19.43,65.3,594.87,"Address 623, City, Country",Low
+624,976,2024-12-06,Completed,Express,Bank Transfer,594.65,47.57,18.77,38.79,622.2,"Address 624, City, Country",Low
+625,503,2024-07-11,Completed,Standard,Digital Wallet,188.41,15.07,16.6,14.46,205.62,"Address 625, City, Country",Low
+626,272,2025-04-18,Completed,Economy,Digital Wallet,747.23,59.78,20.48,117.27,710.22,"Address 626, City, Country",Medium
+627,1977,2025-01-27,Completed,Economy,Credit Card,74.22,5.94,18.8,3.92,95.04,"Address 627, City, Country",High
+628,1451,2025-01-23,Completed,Express,PayPal,349.16,27.93,16.85,25.03,368.92,"Address 628, City, Country",Low
+629,1641,2025-02-19,Completed,Overnight,Credit Card,757.94,60.64,11.69,9.78,820.49,"Address 629, City, Country",Urgent
+630,1338,2025-01-18,Completed,Standard,PayPal,687.76,55.02,14.27,114.31,642.74,"Address 630, City, Country",Low
+631,1302,2024-10-12,Completed,Overnight,Credit Card,733.43,58.67,16.2,145.69,662.62,"Address 631, City, Country",Medium
+632,1590,2024-11-09,Completed,Economy,PayPal,798.44,63.88,18.17,82.12,798.36,"Address 632, City, Country",Low
+633,812,2025-04-25,Completed,Standard,Bank Transfer,647.66,51.81,20.64,88.73,631.38,"Address 633, City, Country",Low
+634,462,2025-03-16,Completed,Express,Bank Transfer,752.78,60.22,24.01,20.64,816.38,"Address 634, City, Country",Low
+635,468,2025-01-24,Shipped,Economy,PayPal,574.38,45.95,5.94,111.92,514.34,"Address 635, City, Country",High
+636,1063,2024-12-03,Cancelled,Express,Bank Transfer,176.16,14.09,11.85,17.97,184.13,"Address 636, City, Country",Medium
+637,316,2024-12-17,Completed,Overnight,Bank Transfer,190.39,15.23,19.91,24.22,201.31,"Address 637, City, Country",High
+638,984,2025-03-17,Completed,Economy,Bank Transfer,130.99,10.48,15.69,23.27,133.89,"Address 638, City, Country",Low
+639,1560,2025-05-15,Cancelled,Economy,Credit Card,866.12,69.29,14.36,36.97,912.8,"Address 639, City, Country",Low
+640,1646,2024-08-06,Completed,Standard,Credit Card,356.6,28.53,20.95,24.17,381.91,"Address 640, City, Country",Low
+641,1510,2025-05-06,Completed,Standard,Credit Card,893.13,71.45,9.61,15.23,958.97,"Address 641, City, Country",Low
+642,1102,2024-07-14,Returned,Economy,Bank Transfer,395.64,31.65,13.64,30.73,410.2,"Address 642, City, Country",Low
+643,92,2025-03-11,Shipped,Standard,Bank Transfer,155.39,12.43,20.02,21.83,166.01,"Address 643, City, Country",High
+644,56,2025-03-21,Completed,Standard,Bank Transfer,78.76,6.3,11.01,12.56,83.52,"Address 644, City, Country",Low
+645,1988,2025-04-12,Completed,Overnight,Credit Card,783.62,62.69,23.53,9.89,859.94,"Address 645, City, Country",Medium
+646,1808,2024-10-28,Completed,Standard,Credit Card,171.67,13.73,5.24,21.64,169.01,"Address 646, City, Country",Low
+647,960,2025-01-20,Shipped,Economy,Credit Card,944.61,75.57,11.4,63.09,968.49,"Address 647, City, Country",Medium
+648,879,2024-09-04,Shipped,Express,Credit Card,948.89,75.91,9.14,187.7,846.24,"Address 648, City, Country",Medium
+649,48,2025-02-19,Completed,Standard,PayPal,105.48,8.44,9.36,20.28,102.99,"Address 649, City, Country",Medium
+650,1417,2024-07-13,Completed,Standard,Credit Card,62.5,5.0,19.72,9.15,78.08,"Address 650, City, Country",Low
+651,1408,2025-06-18,Completed,Economy,PayPal,129.3,10.34,5.81,6.7,138.75,"Address 651, City, Country",Medium
+652,1966,2024-11-14,Completed,Overnight,Digital Wallet,808.05,64.64,16.43,159.36,729.76,"Address 652, City, Country",Low
+653,134,2025-03-27,Shipped,Express,Digital Wallet,341.88,27.35,12.44,5.63,376.04,"Address 653, City, Country",Low
+654,944,2024-11-29,Completed,Express,Digital Wallet,984.65,78.77,22.33,179.12,906.63,"Address 654, City, Country",Medium
+655,1484,2024-09-13,Shipped,Economy,Bank Transfer,775.76,62.06,19.13,95.59,761.37,"Address 655, City, Country",High
+656,214,2025-02-07,Completed,Express,Digital Wallet,618.58,49.49,12.48,46.39,634.16,"Address 656, City, Country",Medium
+657,1602,2025-01-04,Completed,Economy,PayPal,752.81,60.22,5.19,55.65,762.58,"Address 657, City, Country",Medium
+658,111,2025-04-09,Cancelled,Economy,Bank Transfer,776.62,62.13,8.67,104.65,742.77,"Address 658, City, Country",High
+659,1449,2025-06-11,Completed,Economy,Digital Wallet,469.93,37.59,8.84,42.29,474.08,"Address 659, City, Country",Medium
+660,402,2025-01-17,Completed,Overnight,PayPal,877.58,70.21,8.7,39.55,916.93,"Address 660, City, Country",Medium
+661,81,2025-06-14,Completed,Overnight,Credit Card,815.45,65.24,17.34,22.08,875.95,"Address 661, City, Country",Medium
+662,1580,2025-06-30,Cancelled,Standard,PayPal,320.94,25.67,7.73,48.72,305.62,"Address 662, City, Country",Medium
+663,42,2024-10-17,Completed,Express,Digital Wallet,910.08,72.81,16.52,103.06,896.36,"Address 663, City, Country",Medium
+664,1331,2024-12-05,Processing,Express,PayPal,717.61,57.41,24.89,94.59,705.32,"Address 664, City, Country",High
+665,1425,2025-05-28,Shipped,Economy,PayPal,340.45,27.24,20.48,30.9,357.27,"Address 665, City, Country",Medium
+666,1921,2024-09-28,Completed,Economy,PayPal,243.14,19.45,15.52,3.16,274.95,"Address 666, City, Country",Urgent
+667,537,2024-07-18,Shipped,Overnight,Credit Card,240.21,19.22,21.35,35.75,245.02,"Address 667, City, Country",Medium
+668,1503,2024-12-04,Completed,Standard,Bank Transfer,562.53,45.0,6.76,46.22,568.08,"Address 668, City, Country",High
+669,1446,2025-05-22,Completed,Economy,Digital Wallet,815.21,65.22,13.53,162.94,731.01,"Address 669, City, Country",Medium
+670,332,2025-04-01,Returned,Standard,Digital Wallet,117.42,9.39,11.64,10.82,127.63,"Address 670, City, Country",High
+671,1463,2025-01-10,Completed,Express,PayPal,824.28,65.94,16.52,0.77,905.97,"Address 671, City, Country",Low
+672,380,2024-09-04,Completed,Economy,Bank Transfer,364.45,29.16,19.25,37.26,375.6,"Address 672, City, Country",Low
+673,686,2025-02-12,Completed,Standard,PayPal,349.56,27.96,23.06,16.36,384.22,"Address 673, City, Country",Low
+674,1668,2025-01-04,Completed,Overnight,Bank Transfer,490.21,39.22,13.75,83.87,459.31,"Address 674, City, Country",High
+675,100,2025-07-01,Completed,Express,PayPal,134.49,10.76,12.01,24.51,132.75,"Address 675, City, Country",Urgent
+676,1669,2025-03-19,Completed,Standard,Digital Wallet,937.61,75.01,20.6,120.74,912.49,"Address 676, City, Country",Low
+677,1099,2025-04-04,Shipped,Overnight,Credit Card,844.38,67.55,12.21,67.61,856.53,"Address 677, City, Country",High
+678,1035,2025-01-11,Processing,Standard,Bank Transfer,180.07,14.41,19.5,5.77,208.2,"Address 678, City, Country",Medium
+679,1267,2025-03-31,Completed,Economy,Credit Card,730.41,58.43,18.12,123.96,683.01,"Address 679, City, Country",Low
+680,1071,2024-12-29,Processing,Economy,Credit Card,226.99,18.16,19.38,30.35,234.18,"Address 680, City, Country",Low
+681,458,2024-11-10,Completed,Economy,Credit Card,333.99,26.72,19.72,36.59,343.84,"Address 681, City, Country",Low
+682,1859,2024-09-16,Completed,Express,Digital Wallet,315.07,25.21,7.89,20.88,327.28,"Address 682, City, Country",Low
+683,80,2025-03-14,Cancelled,Economy,Bank Transfer,651.08,52.09,21.68,22.28,702.56,"Address 683, City, Country",High
+684,223,2025-03-28,Completed,Standard,Digital Wallet,686.86,54.95,10.54,35.12,717.22,"Address 684, City, Country",Low
+685,1134,2025-03-20,Completed,Overnight,Bank Transfer,566.0,45.28,11.13,78.49,543.91,"Address 685, City, Country",Medium
+686,1872,2025-04-19,Returned,Overnight,PayPal,746.05,59.68,7.21,31.65,781.3,"Address 686, City, Country",High
+687,828,2024-09-13,Completed,Overnight,Digital Wallet,754.77,60.38,19.28,44.48,789.95,"Address 687, City, Country",Medium
+688,538,2024-09-11,Processing,Economy,Digital Wallet,77.16,6.17,6.32,5.92,83.73,"Address 688, City, Country",Low
+689,695,2025-07-01,Completed,Standard,Credit Card,262.59,21.01,21.3,44.43,260.48,"Address 689, City, Country",Medium
+690,992,2024-09-16,Processing,Overnight,Bank Transfer,797.72,63.82,17.47,133.88,745.12,"Address 690, City, Country",Urgent
+691,1450,2025-04-28,Completed,Economy,Credit Card,946.21,75.7,13.03,100.0,934.94,"Address 691, City, Country",Medium
+692,1800,2025-04-14,Shipped,Economy,Digital Wallet,205.46,16.44,20.54,35.37,207.06,"Address 692, City, Country",Medium
+693,1619,2025-02-28,Cancelled,Economy,Bank Transfer,255.5,20.44,15.12,49.36,241.7,"Address 693, City, Country",Medium
+694,805,2024-12-03,Returned,Overnight,Bank Transfer,407.69,32.62,23.07,23.1,440.28,"Address 694, City, Country",Urgent
+695,994,2024-07-13,Completed,Overnight,Bank Transfer,184.63,14.77,14.35,13.18,200.57,"Address 695, City, Country",Medium
+696,36,2024-11-09,Completed,Overnight,Digital Wallet,860.14,68.81,20.34,58.54,890.76,"Address 696, City, Country",Low
+697,1365,2025-06-17,Processing,Express,Bank Transfer,391.78,31.34,21.94,25.69,419.37,"Address 697, City, Country",Low
+698,780,2024-12-17,Shipped,Overnight,PayPal,301.93,24.15,22.83,4.31,344.6,"Address 698, City, Country",Low
+699,118,2025-06-13,Completed,Standard,PayPal,820.55,65.64,6.55,117.06,775.69,"Address 699, City, Country",Low
+700,60,2024-12-17,Processing,Overnight,Bank Transfer,771.61,61.73,13.88,120.35,726.87,"Address 700, City, Country",High
+701,796,2025-02-20,Completed,Overnight,PayPal,79.09,6.33,6.88,3.46,88.84,"Address 701, City, Country",High
+702,1883,2025-05-13,Completed,Express,Bank Transfer,739.45,59.16,11.67,141.04,669.23,"Address 702, City, Country",Medium
+703,1181,2025-01-23,Returned,Standard,Credit Card,528.23,42.26,11.58,70.03,512.04,"Address 703, City, Country",High
+704,1368,2025-04-28,Completed,Economy,Credit Card,476.64,38.13,18.63,44.38,489.03,"Address 704, City, Country",Urgent
+705,1970,2025-01-05,Processing,Standard,Bank Transfer,148.62,11.89,22.15,15.54,167.13,"Address 705, City, Country",High
+706,324,2024-12-24,Completed,Standard,PayPal,66.72,5.34,9.84,5.75,76.15,"Address 706, City, Country",Medium
+707,1015,2024-07-24,Completed,Express,PayPal,721.7,57.74,5.86,28.53,756.76,"Address 707, City, Country",Medium
+708,184,2024-09-03,Completed,Economy,Credit Card,593.15,47.45,11.24,88.47,563.37,"Address 708, City, Country",High
+709,194,2025-05-18,Completed,Overnight,PayPal,831.63,66.53,8.19,55.53,850.83,"Address 709, City, Country",Medium
+710,1108,2024-09-24,Completed,Express,Digital Wallet,186.95,14.96,23.7,36.98,188.62,"Address 710, City, Country",Medium
+711,1335,2025-02-09,Completed,Express,PayPal,565.77,45.26,6.78,53.21,564.6,"Address 711, City, Country",Low
+712,1036,2024-08-06,Completed,Overnight,PayPal,979.1,78.33,15.24,162.68,909.99,"Address 712, City, Country",Low
+713,594,2025-02-22,Shipped,Express,Digital Wallet,986.52,78.92,10.13,11.08,1064.5,"Address 713, City, Country",Urgent
+714,1518,2025-04-27,Completed,Standard,Digital Wallet,887.99,71.04,13.49,75.23,897.29,"Address 714, City, Country",High
+715,1998,2024-11-06,Completed,Overnight,Credit Card,970.26,77.62,15.09,88.61,974.37,"Address 715, City, Country",Medium
+716,910,2025-04-22,Shipped,Standard,PayPal,837.38,66.99,22.55,107.63,819.3,"Address 716, City, Country",Low
+717,1069,2024-09-26,Processing,Economy,Bank Transfer,365.5,29.24,18.38,18.91,394.21,"Address 717, City, Country",Low
+718,1400,2024-09-11,Completed,Standard,Credit Card,944.46,75.56,24.08,166.63,877.46,"Address 718, City, Country",High
+719,519,2024-11-03,Completed,Economy,Bank Transfer,582.1,46.57,23.01,3.61,648.07,"Address 719, City, Country",Medium
+720,1652,2024-09-09,Completed,Overnight,Digital Wallet,478.89,38.31,12.7,74.97,454.93,"Address 720, City, Country",Low
+721,297,2024-11-09,Completed,Economy,Digital Wallet,311.01,24.88,16.59,3.65,348.83,"Address 721, City, Country",Low
+722,727,2024-11-23,Completed,Overnight,PayPal,619.15,49.53,5.47,22.14,652.0,"Address 722, City, Country",Low
+723,1765,2025-04-25,Completed,Economy,PayPal,135.6,10.85,22.77,24.67,144.55,"Address 723, City, Country",Low
+724,329,2025-01-14,Completed,Express,Digital Wallet,54.81,4.39,13.17,6.9,65.46,"Address 724, City, Country",Medium
+725,1373,2024-10-16,Completed,Overnight,PayPal,747.59,59.81,23.81,13.92,817.29,"Address 725, City, Country",Medium
+726,403,2025-02-25,Processing,Express,Bank Transfer,402.72,32.22,18.4,34.78,418.56,"Address 726, City, Country",Medium
+727,63,2025-03-01,Completed,Standard,Bank Transfer,793.16,63.45,14.89,17.69,853.81,"Address 727, City, Country",Low
+728,255,2025-05-23,Completed,Overnight,PayPal,284.37,22.75,13.62,37.25,283.49,"Address 728, City, Country",Medium
+729,1177,2024-11-03,Completed,Overnight,Bank Transfer,516.88,41.35,12.09,84.04,486.28,"Address 729, City, Country",Medium
+730,1154,2024-07-05,Completed,Overnight,PayPal,595.81,47.66,19.85,68.39,594.94,"Address 730, City, Country",Medium
+731,1991,2025-01-07,Cancelled,Economy,Digital Wallet,77.21,6.18,17.34,6.35,94.37,"Address 731, City, Country",Medium
+732,1767,2024-11-05,Completed,Express,Bank Transfer,772.92,61.83,19.42,139.76,714.42,"Address 732, City, Country",Medium
+733,590,2024-07-24,Cancelled,Standard,Digital Wallet,483.57,38.69,5.01,48.98,478.28,"Address 733, City, Country",Medium
+734,326,2025-03-19,Completed,Standard,Credit Card,601.97,48.16,15.01,116.88,548.25,"Address 734, City, Country",Medium
+735,607,2024-09-29,Completed,Express,Bank Transfer,543.24,43.46,7.69,56.2,538.19,"Address 735, City, Country",Low
+736,1894,2025-04-07,Completed,Overnight,Credit Card,183.99,14.72,17.99,7.04,209.67,"Address 736, City, Country",Low
+737,1523,2025-05-22,Processing,Economy,Bank Transfer,922.82,73.83,12.74,182.45,826.93,"Address 737, City, Country",Medium
+738,999,2024-09-16,Processing,Express,PayPal,390.07,31.21,22.62,50.24,393.66,"Address 738, City, Country",Low
+739,1671,2024-10-30,Completed,Overnight,PayPal,355.08,28.41,9.94,29.05,364.38,"Address 739, City, Country",Urgent
+740,1494,2024-10-14,Shipped,Express,Digital Wallet,142.36,11.39,12.79,0.43,166.11,"Address 740, City, Country",High
+741,1692,2025-06-11,Shipped,Express,Digital Wallet,871.93,69.75,21.06,112.87,849.87,"Address 741, City, Country",Medium
+742,1115,2025-01-12,Processing,Standard,Credit Card,125.52,10.04,20.2,11.17,144.59,"Address 742, City, Country",Low
+743,665,2024-07-22,Completed,Standard,PayPal,767.57,61.41,19.43,58.03,790.37,"Address 743, City, Country",Low
+744,117,2025-06-16,Completed,Economy,Credit Card,627.48,50.2,14.59,30.81,661.46,"Address 744, City, Country",High
+745,1881,2024-12-10,Completed,Economy,Credit Card,937.73,75.02,11.92,127.0,897.67,"Address 745, City, Country",Low
+746,714,2024-08-14,Processing,Overnight,Digital Wallet,679.88,54.39,23.9,61.22,696.95,"Address 746, City, Country",Medium
+747,1721,2025-06-30,Cancelled,Standard,Credit Card,754.66,60.37,12.27,33.88,793.42,"Address 747, City, Country",Urgent
+748,153,2024-12-04,Completed,Standard,Credit Card,534.88,42.79,15.1,14.66,578.11,"Address 748, City, Country",Medium
+749,508,2025-06-04,Cancelled,Express,Credit Card,191.12,15.29,5.09,37.09,174.41,"Address 749, City, Country",Urgent
+750,1865,2025-05-26,Completed,Express,Bank Transfer,748.21,59.86,10.07,33.69,784.44,"Address 750, City, Country",Medium
+751,1272,2025-04-23,Completed,Express,Digital Wallet,96.1,7.69,8.77,1.28,111.27,"Address 751, City, Country",Low
+752,174,2025-04-15,Completed,Express,Bank Transfer,473.53,37.88,11.8,44.29,478.93,"Address 752, City, Country",High
+753,604,2024-08-06,Completed,Overnight,PayPal,466.3,37.3,19.42,61.1,461.93,"Address 753, City, Country",Medium
+754,674,2025-02-28,Shipped,Economy,Digital Wallet,927.65,74.21,17.71,19.64,999.93,"Address 754, City, Country",Medium
+755,729,2024-12-11,Completed,Standard,Digital Wallet,115.08,9.21,22.94,4.61,142.62,"Address 755, City, Country",Low
+756,1350,2024-09-07,Processing,Economy,Digital Wallet,956.41,76.51,11.59,77.98,966.53,"Address 756, City, Country",High
+757,656,2025-04-20,Completed,Overnight,Digital Wallet,380.35,30.43,24.43,32.39,402.82,"Address 757, City, Country",Urgent
+758,1068,2024-09-12,Completed,Express,PayPal,414.53,33.16,15.79,31.51,431.97,"Address 758, City, Country",Low
+759,1075,2025-06-03,Processing,Express,PayPal,525.16,42.01,5.9,8.09,564.99,"Address 759, City, Country",Medium
+760,1279,2025-01-07,Completed,Overnight,PayPal,837.32,66.99,16.92,155.62,765.61,"Address 760, City, Country",Low
+761,1844,2024-07-09,Cancelled,Standard,Bank Transfer,739.1,59.13,23.25,60.97,760.5,"Address 761, City, Country",Medium
+762,1799,2024-11-17,Returned,Economy,Bank Transfer,98.42,7.87,23.24,17.39,112.15,"Address 762, City, Country",Medium
+763,149,2024-08-04,Cancelled,Standard,Bank Transfer,59.95,4.8,24.63,5.91,83.46,"Address 763, City, Country",Medium
+764,788,2024-08-20,Completed,Express,Digital Wallet,354.93,28.39,18.98,37.39,364.91,"Address 764, City, Country",Low
+765,1920,2025-05-06,Completed,Express,Bank Transfer,237.72,19.02,7.58,11.09,253.23,"Address 765, City, Country",Medium
+766,800,2024-08-20,Shipped,Economy,Credit Card,338.88,27.11,7.59,16.85,356.73,"Address 766, City, Country",High
+767,755,2024-11-21,Completed,Standard,Bank Transfer,750.41,60.03,23.04,35.48,798.0,"Address 767, City, Country",Low
+768,424,2025-05-05,Shipped,Standard,PayPal,472.35,37.79,11.71,44.07,477.78,"Address 768, City, Country",Medium
+769,660,2025-04-11,Completed,Express,Credit Card,923.33,73.87,20.56,150.02,867.74,"Address 769, City, Country",Medium
+770,1345,2024-10-16,Completed,Standard,Bank Transfer,583.58,46.69,19.63,97.03,552.87,"Address 770, City, Country",Low
+771,672,2025-01-14,Completed,Overnight,Credit Card,359.7,28.78,15.84,12.25,392.07,"Address 771, City, Country",High
+772,1831,2025-01-10,Completed,Overnight,Bank Transfer,807.17,64.57,20.49,3.55,888.69,"Address 772, City, Country",Medium
+773,1229,2024-12-05,Completed,Overnight,Bank Transfer,83.65,6.69,19.92,10.75,99.51,"Address 773, City, Country",Low
+774,582,2025-05-09,Completed,Express,Credit Card,390.0,31.2,17.52,12.38,426.34,"Address 774, City, Country",Medium
+775,103,2025-04-06,Completed,Express,Digital Wallet,331.06,26.48,8.29,33.31,332.53,"Address 775, City, Country",Medium
+776,1017,2024-08-22,Completed,Overnight,Digital Wallet,365.38,29.23,16.27,53.09,357.8,"Address 776, City, Country",Low
+777,1258,2024-09-05,Completed,Overnight,Bank Transfer,749.73,59.98,20.86,33.09,797.48,"Address 777, City, Country",High
+778,160,2024-08-04,Returned,Overnight,Credit Card,996.26,79.7,22.15,12.72,1085.4,"Address 778, City, Country",High
+779,1960,2025-03-23,Completed,Overnight,Credit Card,185.55,14.84,7.8,26.58,181.62,"Address 779, City, Country",Low
+780,423,2025-02-23,Completed,Economy,Bank Transfer,168.86,13.51,13.06,33.67,161.76,"Address 780, City, Country",High
+781,1065,2025-06-14,Completed,Overnight,Bank Transfer,399.98,32.0,9.22,7.95,433.25,"Address 781, City, Country",Urgent
+782,1377,2024-12-02,Completed,Standard,Bank Transfer,91.65,7.33,9.69,7.27,101.41,"Address 782, City, Country",Medium
+783,1967,2024-11-06,Completed,Standard,Digital Wallet,360.24,28.82,10.73,63.54,336.24,"Address 783, City, Country",Medium
+784,1240,2025-06-01,Shipped,Express,Bank Transfer,781.54,62.52,17.7,37.08,824.69,"Address 784, City, Country",Medium
+785,410,2025-01-27,Completed,Overnight,Credit Card,812.4,64.99,21.58,154.58,744.39,"Address 785, City, Country",Medium
+786,1532,2025-06-24,Completed,Express,Bank Transfer,298.69,23.9,18.86,23.89,317.56,"Address 786, City, Country",Medium
+787,1388,2025-03-08,Shipped,Express,Digital Wallet,573.83,45.91,11.26,18.43,612.57,"Address 787, City, Country",High
+788,1274,2025-02-05,Completed,Standard,PayPal,742.44,59.4,24.55,116.33,710.06,"Address 788, City, Country",High
+789,1012,2025-03-20,Returned,Economy,Bank Transfer,981.44,78.52,24.92,93.55,991.33,"Address 789, City, Country",Low
+790,341,2024-09-17,Completed,Overnight,Credit Card,656.11,52.49,10.65,113.65,605.6,"Address 790, City, Country",Low
+791,1935,2024-12-15,Completed,Overnight,PayPal,866.55,69.32,16.82,156.34,796.35,"Address 791, City, Country",Medium
+792,1919,2024-07-09,Completed,Economy,Digital Wallet,177.08,14.17,13.64,21.27,183.61,"Address 792, City, Country",Medium
+793,32,2025-02-27,Completed,Express,PayPal,231.49,18.52,18.0,9.24,258.77,"Address 793, City, Country",Urgent
+794,904,2024-07-22,Processing,Express,Digital Wallet,920.09,73.61,21.7,33.55,981.86,"Address 794, City, Country",Low
+795,1381,2024-12-15,Completed,Overnight,Bank Transfer,902.03,72.16,11.46,15.9,969.75,"Address 795, City, Country",Medium
+796,283,2025-02-22,Completed,Standard,PayPal,372.69,29.82,12.6,71.42,343.69,"Address 796, City, Country",Low
+797,645,2025-04-28,Processing,Economy,PayPal,755.44,60.44,11.62,109.11,718.39,"Address 797, City, Country",Medium
+798,298,2024-07-12,Completed,Overnight,Bank Transfer,763.63,61.09,8.01,122.01,710.72,"Address 798, City, Country",Low
+799,722,2024-08-17,Completed,Standard,Bank Transfer,98.94,7.92,24.0,13.91,116.95,"Address 799, City, Country",High
+800,547,2025-04-22,Completed,Express,Bank Transfer,896.99,71.76,21.17,146.93,843.0,"Address 800, City, Country",Low
+801,1711,2024-08-25,Completed,Standard,Credit Card,382.8,30.62,12.44,55.44,370.43,"Address 801, City, Country",Medium
+802,1647,2025-05-16,Completed,Express,PayPal,504.78,40.38,8.55,88.46,465.26,"Address 802, City, Country",Low
+803,702,2025-06-05,Completed,Express,Bank Transfer,67.12,5.37,6.88,1.98,77.38,"Address 803, City, Country",High
+804,414,2025-06-25,Completed,Standard,Digital Wallet,225.53,18.04,18.63,41.71,220.49,"Address 804, City, Country",Low
+805,91,2024-12-10,Completed,Economy,PayPal,862.94,69.04,20.69,144.04,808.63,"Address 805, City, Country",Medium
+806,1798,2025-01-16,Completed,Express,Credit Card,131.5,10.52,11.55,11.68,141.89,"Address 806, City, Country",Medium
+807,1077,2024-10-14,Cancelled,Economy,PayPal,212.1,16.97,9.39,14.82,223.64,"Address 807, City, Country",Medium
+808,1233,2024-09-23,Completed,Overnight,Digital Wallet,273.41,21.87,13.61,50.75,258.15,"Address 808, City, Country",Low
+809,648,2024-10-12,Completed,Overnight,Digital Wallet,817.44,65.4,18.46,6.68,894.62,"Address 809, City, Country",Medium
+810,1550,2025-02-17,Completed,Express,PayPal,73.19,5.86,10.03,1.34,87.73,"Address 810, City, Country",Medium
+811,601,2025-01-02,Shipped,Overnight,PayPal,527.9,42.23,22.06,74.82,517.37,"Address 811, City, Country",Low
+812,867,2025-05-28,Completed,Standard,Credit Card,143.19,11.46,24.51,3.97,175.19,"Address 812, City, Country",Low
+813,1326,2024-10-13,Completed,Standard,Bank Transfer,742.17,59.37,24.29,116.18,709.66,"Address 813, City, Country",Medium
+814,1529,2024-11-22,Completed,Economy,Digital Wallet,181.8,14.54,8.83,5.65,199.52,"Address 814, City, Country",Medium
+815,1014,2024-12-08,Completed,Standard,PayPal,935.73,74.86,24.63,152.47,882.76,"Address 815, City, Country",Low
+816,1880,2024-11-28,Returned,Overnight,Digital Wallet,553.35,44.27,8.1,67.79,537.93,"Address 816, City, Country",Low
+817,907,2025-02-14,Shipped,Economy,Bank Transfer,416.13,33.29,12.15,0.08,461.49,"Address 817, City, Country",Urgent
+818,218,2024-07-08,Completed,Express,Bank Transfer,163.43,13.07,11.2,14.2,173.52,"Address 818, City, Country",Low
+819,236,2025-01-04,Shipped,Express,Bank Transfer,59.19,4.74,9.4,7.88,65.45,"Address 819, City, Country",Medium
+820,653,2025-01-13,Completed,Overnight,Credit Card,241.54,19.32,6.08,29.84,237.1,"Address 820, City, Country",Medium
+821,266,2024-09-24,Shipped,Economy,Digital Wallet,800.97,64.08,9.29,55.11,819.22,"Address 821, City, Country",Medium
+822,373,2024-10-26,Completed,Economy,Digital Wallet,116.32,9.31,8.21,9.94,123.89,"Address 822, City, Country",Medium
+823,1554,2025-04-12,Completed,Express,PayPal,233.38,18.67,24.98,9.13,267.9,"Address 823, City, Country",High
+824,1876,2025-01-31,Shipped,Economy,Digital Wallet,729.1,58.33,7.65,107.61,687.47,"Address 824, City, Country",Low
+825,59,2025-06-22,Completed,Overnight,Credit Card,709.51,56.76,6.39,105.74,666.92,"Address 825, City, Country",Low
+826,1080,2025-06-08,Completed,Express,Bank Transfer,839.49,67.16,14.59,43.86,877.38,"Address 826, City, Country",Medium
+827,1291,2025-05-09,Completed,Express,Digital Wallet,868.72,69.5,9.08,125.06,822.25,"Address 827, City, Country",Medium
+828,781,2024-09-24,Completed,Economy,Digital Wallet,584.22,46.74,6.49,40.67,596.78,"Address 828, City, Country",Medium
+829,687,2025-05-19,Shipped,Economy,PayPal,539.53,43.16,6.73,79.35,510.07,"Address 829, City, Country",Medium
+830,501,2025-04-17,Completed,Overnight,Bank Transfer,752.03,60.16,10.03,134.88,687.35,"Address 830, City, Country",Low
+831,681,2025-06-02,Completed,Overnight,Bank Transfer,998.0,79.84,13.62,144.96,946.5,"Address 831, City, Country",Low
+832,1794,2024-09-06,Completed,Overnight,Credit Card,680.32,54.43,15.12,34.12,715.76,"Address 832, City, Country",Medium
+833,1702,2024-08-03,Completed,Overnight,PayPal,618.34,49.47,6.06,9.69,664.17,"Address 833, City, Country",Medium
+834,998,2025-02-09,Completed,Economy,Digital Wallet,507.12,40.57,23.37,42.5,528.56,"Address 834, City, Country",Medium
+835,883,2025-04-25,Completed,Economy,Credit Card,320.34,25.63,21.19,11.92,355.23,"Address 835, City, Country",Medium
+836,1903,2025-06-18,Returned,Overnight,Bank Transfer,587.18,46.97,19.58,74.69,579.04,"Address 836, City, Country",Medium
+837,2000,2025-04-06,Completed,Economy,Digital Wallet,609.38,48.75,8.86,16.15,650.84,"Address 837, City, Country",Low
+838,1146,2025-06-21,Completed,Overnight,Digital Wallet,148.36,11.87,22.54,11.03,171.74,"Address 838, City, Country",Medium
+839,262,2024-11-20,Completed,Overnight,Credit Card,188.86,15.11,10.94,18.22,196.69,"Address 839, City, Country",Medium
+840,1479,2024-09-28,Completed,Economy,Credit Card,476.3,38.1,22.26,82.83,453.84,"Address 840, City, Country",Low
+841,1723,2024-07-26,Completed,Standard,Digital Wallet,790.22,63.22,14.79,139.85,728.38,"Address 841, City, Country",Medium
+842,97,2024-10-23,Completed,Express,Bank Transfer,859.54,68.76,22.36,115.85,834.81,"Address 842, City, Country",Low
+843,453,2025-02-17,Completed,Express,Digital Wallet,53.13,4.25,5.94,3.31,60.01,"Address 843, City, Country",Low
+844,164,2025-07-03,Completed,Express,Digital Wallet,635.64,50.85,23.46,12.21,697.75,"Address 844, City, Country",Medium
+845,750,2025-01-26,Completed,Standard,Credit Card,646.87,51.75,24.63,122.2,601.06,"Address 845, City, Country",High
+846,282,2024-10-28,Completed,Express,Digital Wallet,664.15,53.13,18.74,33.9,702.12,"Address 846, City, Country",Medium
+847,469,2024-09-25,Completed,Economy,Bank Transfer,683.48,54.68,15.8,53.67,700.3,"Address 847, City, Country",High
+848,609,2025-02-12,Completed,Overnight,Credit Card,575.51,46.04,11.57,13.98,619.14,"Address 848, City, Country",Medium
+849,1640,2024-09-15,Completed,Express,Digital Wallet,73.08,5.85,21.49,13.39,87.02,"Address 849, City, Country",Low
+850,1909,2024-08-12,Returned,Overnight,Digital Wallet,440.11,35.21,22.28,28.95,468.65,"Address 850, City, Country",Low
+851,1770,2024-07-25,Completed,Express,Bank Transfer,682.63,54.61,14.97,63.87,688.35,"Address 851, City, Country",Low
+852,39,2024-09-16,Completed,Standard,Credit Card,451.21,36.1,14.73,53.63,448.41,"Address 852, City, Country",Low
+853,947,2025-01-25,Completed,Express,Credit Card,550.43,44.03,21.79,13.1,603.16,"Address 853, City, Country",High
+854,815,2024-09-18,Completed,Standard,Digital Wallet,984.29,78.74,12.17,64.72,1010.48,"Address 854, City, Country",Medium
+855,1387,2024-10-04,Completed,Express,PayPal,251.44,20.12,15.43,32.63,254.36,"Address 855, City, Country",Urgent
+856,505,2025-06-13,Completed,Overnight,Digital Wallet,331.0,26.48,12.02,28.83,340.67,"Address 856, City, Country",Low
+857,1202,2025-04-29,Completed,Standard,Credit Card,397.07,31.77,22.6,73.61,377.82,"Address 857, City, Country",Medium
+858,1776,2024-12-22,Cancelled,Overnight,Credit Card,279.56,22.36,16.78,38.34,280.36,"Address 858, City, Country",Medium
+859,1320,2025-01-27,Completed,Standard,Digital Wallet,311.58,24.93,5.35,34.44,307.41,"Address 859, City, Country",Low
+860,388,2025-01-18,Completed,Express,Bank Transfer,786.57,62.93,8.35,24.57,833.27,"Address 860, City, Country",Medium
+861,1308,2025-03-01,Completed,Economy,Digital Wallet,761.56,60.92,9.06,131.34,700.2,"Address 861, City, Country",Low
+862,1186,2025-05-03,Completed,Standard,PayPal,531.64,42.53,9.76,59.14,524.79,"Address 862, City, Country",Medium
+863,335,2024-11-17,Shipped,Overnight,Credit Card,516.9,41.35,8.92,102.94,464.24,"Address 863, City, Country",Medium
+864,12,2024-12-05,Completed,Standard,PayPal,169.6,13.57,22.16,8.5,196.83,"Address 864, City, Country",Low
+865,425,2025-06-06,Completed,Express,Credit Card,899.54,71.96,18.61,69.79,920.32,"Address 865, City, Country",Low
+866,295,2024-10-14,Returned,Standard,PayPal,835.31,66.82,10.42,90.85,821.71,"Address 866, City, Country",Low
+867,1273,2024-10-26,Processing,Overnight,PayPal,326.36,26.11,12.98,40.81,324.64,"Address 867, City, Country",Medium
+868,1879,2025-04-03,Completed,Express,Bank Transfer,264.06,21.12,9.34,31.12,263.41,"Address 868, City, Country",Low
+869,985,2025-03-17,Completed,Overnight,PayPal,422.74,33.82,9.82,5.46,460.92,"Address 869, City, Country",Medium
+870,842,2025-02-15,Completed,Overnight,PayPal,600.04,48.0,17.05,70.54,594.55,"Address 870, City, Country",Medium
+871,393,2024-08-05,Completed,Overnight,Digital Wallet,916.38,73.31,20.36,128.86,881.2,"Address 871, City, Country",High
+872,531,2025-02-16,Completed,Standard,Bank Transfer,719.74,57.58,6.65,51.19,732.77,"Address 872, City, Country",Low
+873,1167,2025-04-29,Processing,Overnight,Bank Transfer,725.14,58.01,14.71,137.77,660.09,"Address 873, City, Country",Low
+874,493,2024-12-09,Returned,Overnight,PayPal,214.22,17.14,17.08,22.7,225.74,"Address 874, City, Country",Medium
+875,1228,2025-03-27,Completed,Standard,Digital Wallet,197.34,15.79,5.3,27.24,191.19,"Address 875, City, Country",Medium
+876,161,2025-03-22,Completed,Overnight,Bank Transfer,647.2,51.78,23.35,40.96,681.36,"Address 876, City, Country",Low
+877,1534,2025-05-29,Processing,Overnight,Digital Wallet,133.26,10.66,13.64,8.55,149.01,"Address 877, City, Country",Medium
+878,1715,2024-11-14,Completed,Standard,Credit Card,147.32,11.79,19.2,10.69,167.61,"Address 878, City, Country",Low
+879,1199,2024-12-20,Completed,Express,Bank Transfer,216.07,17.29,17.52,16.73,234.15,"Address 879, City, Country",Medium
+880,351,2025-03-07,Returned,Overnight,Credit Card,955.18,76.41,10.24,173.62,868.22,"Address 880, City, Country",Medium
+881,802,2024-12-21,Processing,Standard,PayPal,750.73,60.06,20.95,37.12,794.62,"Address 881, City, Country",Low
+882,1512,2025-05-17,Shipped,Overnight,Digital Wallet,137.37,10.99,16.51,26.87,137.99,"Address 882, City, Country",Medium
+883,245,2024-08-14,Completed,Overnight,Credit Card,269.85,21.59,20.39,7.31,304.52,"Address 883, City, Country",Low
+884,832,2024-10-04,Shipped,Overnight,Credit Card,809.0,64.72,16.91,82.76,807.88,"Address 884, City, Country",Low
+885,1607,2024-11-16,Completed,Overnight,Bank Transfer,234.39,18.75,18.79,42.33,229.6,"Address 885, City, Country",Medium
+886,1490,2025-05-28,Completed,Overnight,Bank Transfer,175.96,14.08,23.4,12.75,200.68,"Address 886, City, Country",Medium
+887,1528,2025-03-09,Completed,Economy,Digital Wallet,775.13,62.01,22.37,3.13,856.39,"Address 887, City, Country",Medium
+888,1300,2024-08-24,Processing,Standard,Credit Card,557.12,44.57,20.0,32.93,588.76,"Address 888, City, Country",Medium
+889,1547,2025-05-06,Shipped,Standard,Bank Transfer,453.38,36.27,11.85,62.01,439.49,"Address 889, City, Country",High
+890,141,2024-08-01,Completed,Express,Digital Wallet,883.19,70.65,5.94,53.64,906.13,"Address 890, City, Country",Medium
+891,443,2025-05-20,Processing,Standard,PayPal,379.31,30.34,18.27,36.57,391.35,"Address 891, City, Country",Low
+892,1191,2024-12-08,Completed,Overnight,Bank Transfer,769.24,61.54,9.54,101.77,738.55,"Address 892, City, Country",Low
+893,1283,2025-05-02,Completed,Overnight,Credit Card,904.61,72.37,19.84,175.89,820.92,"Address 893, City, Country",Low
+894,870,2025-04-08,Completed,Express,Digital Wallet,959.18,76.73,22.28,65.31,992.88,"Address 894, City, Country",Low
+895,330,2025-01-16,Completed,Standard,Credit Card,271.76,21.74,18.31,27.71,284.1,"Address 895, City, Country",Low
+896,874,2025-03-21,Shipped,Express,Digital Wallet,822.09,65.77,16.59,38.76,865.69,"Address 896, City, Country",Low
+897,900,2024-08-28,Shipped,Express,Digital Wallet,723.91,57.91,10.79,8.98,783.63,"Address 897, City, Country",Low
+898,18,2025-01-16,Processing,Overnight,Bank Transfer,339.59,27.17,18.03,50.28,334.51,"Address 898, City, Country",High
+899,1103,2024-11-23,Cancelled,Economy,Bank Transfer,967.53,77.4,9.58,27.8,1026.72,"Address 899, City, Country",Medium
+900,1241,2025-06-18,Completed,Standard,Digital Wallet,758.33,60.67,20.46,139.52,699.94,"Address 900, City, Country",Medium
+901,305,2024-12-23,Shipped,Express,Bank Transfer,152.14,12.17,16.23,20.11,160.42,"Address 901, City, Country",Low
+902,421,2024-07-23,Completed,Express,PayPal,206.98,16.56,13.29,32.55,204.28,"Address 902, City, Country",Medium
+903,1246,2025-03-09,Completed,Standard,Digital Wallet,803.58,64.29,11.66,75.92,803.6,"Address 903, City, Country",Low
+904,198,2025-06-24,Processing,Economy,Digital Wallet,524.58,41.97,19.14,78.14,507.55,"Address 904, City, Country",Medium
+905,706,2024-10-30,Shipped,Economy,PayPal,665.68,53.25,7.35,126.0,600.29,"Address 905, City, Country",Medium
+906,279,2024-07-26,Completed,Express,Credit Card,342.97,27.44,10.76,42.96,338.21,"Address 906, City, Country",High
+907,1823,2024-09-26,Completed,Express,Digital Wallet,833.38,66.67,24.74,50.03,874.76,"Address 907, City, Country",Urgent
+908,1709,2025-03-10,Completed,Overnight,PayPal,608.55,48.68,11.62,56.24,612.61,"Address 908, City, Country",Medium
+909,1078,2024-09-04,Completed,Overnight,Credit Card,912.33,72.99,7.67,162.68,830.3,"Address 909, City, Country",Medium
+910,1445,2024-08-27,Completed,Standard,PayPal,945.02,75.6,24.02,157.09,887.55,"Address 910, City, Country",Medium
+911,274,2024-08-25,Completed,Standard,Digital Wallet,544.82,43.59,24.55,107.2,505.75,"Address 911, City, Country",Urgent
+912,1845,2025-03-08,Completed,Overnight,Bank Transfer,674.07,53.93,21.9,11.14,738.75,"Address 912, City, Country",Low
+913,895,2025-02-01,Shipped,Economy,Bank Transfer,281.37,22.51,12.74,54.77,261.84,"Address 913, City, Country",Urgent
+914,514,2025-02-04,Completed,Express,Bank Transfer,632.92,50.63,9.97,38.06,655.46,"Address 914, City, Country",Medium
+915,548,2024-11-09,Shipped,Overnight,Credit Card,398.47,31.88,10.45,36.2,404.59,"Address 915, City, Country",High
+916,442,2024-09-28,Completed,Overnight,Bank Transfer,771.01,61.68,13.59,150.76,695.53,"Address 916, City, Country",Medium
+917,1779,2025-02-24,Cancelled,Economy,Credit Card,71.99,5.76,11.32,2.66,86.4,"Address 917, City, Country",High
+918,887,2024-11-26,Completed,Standard,Credit Card,398.68,31.89,22.18,24.65,428.1,"Address 918, City, Country",High
+919,933,2024-07-12,Completed,Economy,Bank Transfer,98.79,7.9,17.16,12.69,111.17,"Address 919, City, Country",High
+920,176,2024-10-23,Cancelled,Overnight,Digital Wallet,781.12,62.49,9.84,153.87,699.58,"Address 920, City, Country",Medium
+921,1922,2024-12-17,Completed,Economy,Bank Transfer,874.32,69.95,10.68,136.92,818.03,"Address 921, City, Country",Low
+922,1914,2024-12-29,Completed,Economy,Bank Transfer,135.45,10.84,11.19,11.56,145.91,"Address 922, City, Country",Low
+923,1263,2025-03-12,Completed,Standard,Bank Transfer,467.47,37.4,20.7,91.28,434.29,"Address 923, City, Country",Medium
+924,765,2025-04-25,Completed,Express,Bank Transfer,902.97,72.24,12.98,117.94,870.26,"Address 924, City, Country",Low
+925,24,2024-11-22,Completed,Express,PayPal,276.12,22.09,21.75,47.4,272.56,"Address 925, City, Country",Medium
+926,333,2024-10-01,Completed,Express,PayPal,883.44,70.68,21.73,52.16,923.69,"Address 926, City, Country",High
+927,640,2025-06-10,Completed,Overnight,PayPal,437.15,34.97,8.13,25.55,454.7,"Address 927, City, Country",Low
+928,1565,2025-04-06,Shipped,Economy,Credit Card,339.62,27.17,9.43,47.44,328.77,"Address 928, City, Country",Low
+929,1587,2025-01-06,Processing,Express,Credit Card,534.91,42.79,12.62,64.69,525.63,"Address 929, City, Country",High
+930,2,2025-03-07,Completed,Express,Credit Card,111.5,8.92,7.26,13.31,114.38,"Address 930, City, Country",Low
+931,1061,2025-06-27,Processing,Economy,Bank Transfer,831.51,66.52,16.87,165.86,749.04,"Address 931, City, Country",Low
+932,540,2025-03-06,Completed,Express,Bank Transfer,626.65,50.13,14.46,34.87,656.37,"Address 932, City, Country",Medium
+933,429,2025-06-07,Completed,Standard,Digital Wallet,869.49,69.56,22.88,44.54,917.38,"Address 933, City, Country",Medium
+934,1192,2025-04-08,Completed,Express,Bank Transfer,625.61,50.05,12.34,28.04,659.96,"Address 934, City, Country",Medium
+935,1695,2024-10-06,Completed,Standard,Digital Wallet,861.86,68.95,6.62,145.43,792.0,"Address 935, City, Country",Low
+936,96,2024-09-21,Completed,Standard,Digital Wallet,640.11,51.21,14.63,126.8,579.14,"Address 936, City, Country",Medium
+937,1348,2025-02-08,Completed,Economy,PayPal,289.85,23.19,10.58,55.02,268.59,"Address 937, City, Country",Medium
+938,568,2025-03-31,Completed,Economy,PayPal,313.7,25.1,12.36,38.68,312.48,"Address 938, City, Country",Medium
+939,1632,2025-03-18,Processing,Express,Credit Card,281.77,22.54,10.72,6.9,308.12,"Address 939, City, Country",Medium
+940,647,2025-05-06,Shipped,Standard,Credit Card,668.61,53.49,20.31,47.86,694.55,"Address 940, City, Country",Medium
+941,773,2024-07-22,Cancelled,Economy,PayPal,418.76,33.5,16.28,17.15,451.39,"Address 941, City, Country",Low
+942,1809,2024-09-20,Completed,Express,Bank Transfer,879.67,70.37,16.37,67.75,898.67,"Address 942, City, Country",Medium
+943,766,2024-11-12,Completed,Express,PayPal,837.79,67.02,6.55,100.43,810.93,"Address 943, City, Country",High
+944,121,2025-04-04,Completed,Standard,PayPal,621.42,49.71,13.03,23.71,660.44,"Address 944, City, Country",Medium
+945,1123,2025-03-10,Completed,Express,Bank Transfer,856.96,68.56,23.75,47.47,901.79,"Address 945, City, Country",Low
+946,671,2025-02-23,Completed,Economy,Credit Card,445.38,35.63,20.8,39.08,462.73,"Address 946, City, Country",Medium
+947,337,2025-05-29,Cancelled,Overnight,Digital Wallet,108.7,8.7,14.4,5.79,126.0,"Address 947, City, Country",Low
+948,1940,2024-09-26,Shipped,Overnight,Credit Card,302.14,24.17,8.58,39.27,295.62,"Address 948, City, Country",Medium
+949,1634,2024-09-29,Shipped,Economy,Digital Wallet,428.56,34.29,6.33,19.64,449.53,"Address 949, City, Country",Low
+950,1875,2025-06-18,Completed,Standard,Bank Transfer,846.91,67.75,17.46,124.79,807.33,"Address 950, City, Country",Medium
+951,1152,2025-04-01,Processing,Overnight,Bank Transfer,455.14,36.41,23.37,52.47,462.46,"Address 951, City, Country",Low
+952,66,2025-01-29,Processing,Economy,PayPal,282.54,22.6,19.42,20.32,304.25,"Address 952, City, Country",Low
+953,158,2024-11-08,Shipped,Standard,Digital Wallet,896.55,71.72,11.43,72.8,906.9,"Address 953, City, Country",Medium
+954,850,2025-03-22,Shipped,Express,Digital Wallet,574.2,45.94,13.27,72.75,560.65,"Address 954, City, Country",High
+955,356,2024-11-17,Completed,Express,Digital Wallet,437.97,35.04,14.37,74.05,413.33,"Address 955, City, Country",Low
+956,464,2024-11-10,Completed,Economy,Digital Wallet,342.91,27.43,17.37,34.67,353.03,"Address 956, City, Country",Medium
+957,1683,2025-06-16,Completed,Overnight,PayPal,256.93,20.55,18.53,4.68,291.34,"Address 957, City, Country",High
+958,864,2024-09-27,Cancelled,Standard,PayPal,841.03,67.28,5.74,42.59,871.46,"Address 958, City, Country",Medium
+959,354,2025-01-06,Completed,Express,PayPal,566.55,45.32,12.72,50.14,574.45,"Address 959, City, Country",Low
+960,1422,2024-11-01,Completed,Express,PayPal,908.28,72.66,18.19,133.07,866.06,"Address 960, City, Country",Medium
+961,1383,2025-01-24,Shipped,Standard,PayPal,851.67,68.13,23.57,40.53,902.84,"Address 961, City, Country",Medium
+962,195,2025-02-15,Shipped,Express,Digital Wallet,626.03,50.08,9.01,43.06,642.06,"Address 962, City, Country",High
+963,1784,2025-06-02,Completed,Express,Digital Wallet,412.44,33.0,9.67,8.29,446.82,"Address 963, City, Country",High
+964,1416,2025-04-15,Processing,Standard,PayPal,861.25,68.9,21.6,11.86,939.9,"Address 964, City, Country",Low
+965,1193,2024-08-01,Completed,Economy,PayPal,622.75,49.82,10.79,53.92,629.44,"Address 965, City, Country",Medium
+966,8,2024-08-18,Shipped,Economy,Credit Card,126.18,10.09,12.72,16.4,132.6,"Address 966, City, Country",Low
+967,777,2024-10-12,Completed,Economy,Credit Card,674.35,53.95,24.89,87.95,665.24,"Address 967, City, Country",Low
+968,1304,2024-08-22,Completed,Express,Bank Transfer,707.79,56.62,24.5,86.62,702.3,"Address 968, City, Country",Medium
+969,1264,2024-07-19,Cancelled,Express,PayPal,168.66,13.49,24.54,33.24,173.45,"Address 969, City, Country",Low
+970,230,2024-10-21,Completed,Standard,Bank Transfer,448.94,35.91,9.12,38.04,455.93,"Address 970, City, Country",Low
+971,1156,2025-01-07,Completed,Standard,Credit Card,722.15,57.77,22.79,41.73,760.98,"Address 971, City, Country",Low
+972,459,2024-12-08,Cancelled,Economy,PayPal,787.55,63.0,20.76,5.4,865.91,"Address 972, City, Country",Medium
+973,1810,2025-06-27,Processing,Overnight,Digital Wallet,92.62,7.41,16.24,7.58,108.69,"Address 973, City, Country",Medium
+974,197,2025-04-17,Completed,Economy,PayPal,989.26,79.14,19.29,72.69,1015.01,"Address 974, City, Country",Low
+975,1125,2024-07-05,Completed,Economy,Digital Wallet,596.21,47.7,18.61,40.5,622.02,"Address 975, City, Country",Medium
+976,682,2024-12-23,Completed,Standard,Digital Wallet,626.54,50.12,15.6,65.26,627.01,"Address 976, City, Country",Medium
+977,1677,2025-02-04,Completed,Express,Credit Card,522.56,41.81,19.37,86.13,497.61,"Address 977, City, Country",Low
+978,861,2024-07-17,Completed,Overnight,Credit Card,774.27,61.94,8.15,118.24,726.12,"Address 978, City, Country",Medium
+979,1091,2024-08-11,Completed,Standard,Bank Transfer,867.76,69.42,14.81,118.29,833.71,"Address 979, City, Country",Medium
+980,312,2025-06-19,Completed,Economy,PayPal,967.45,77.4,24.41,164.7,904.56,"Address 980, City, Country",Medium
+981,1250,2024-07-06,Completed,Express,PayPal,235.9,18.87,8.05,11.9,250.91,"Address 981, City, Country",Medium
+982,122,2024-10-15,Completed,Standard,Credit Card,525.63,42.05,23.1,66.4,524.39,"Address 982, City, Country",Low
+983,1442,2024-07-12,Completed,Express,Credit Card,294.1,23.53,17.14,48.11,286.66,"Address 983, City, Country",Low
+984,1046,2024-07-23,Cancelled,Overnight,Digital Wallet,419.94,33.6,5.58,78.19,380.93,"Address 984, City, Country",High
+985,1585,2025-05-20,Processing,Standard,Credit Card,145.63,11.65,13.89,14.66,156.51,"Address 985, City, Country",Low
+986,106,2025-06-25,Completed,Overnight,Credit Card,383.58,30.69,22.36,7.15,429.47,"Address 986, City, Country",Low
+987,1330,2024-08-09,Completed,Overnight,PayPal,444.58,35.57,20.31,7.25,493.21,"Address 987, City, Country",Medium
+988,1507,2025-03-16,Completed,Standard,Bank Transfer,639.29,51.14,17.9,47.87,660.46,"Address 988, City, Country",High
+989,1208,2024-08-04,Returned,Standard,Digital Wallet,213.53,17.08,19.83,32.17,218.27,"Address 989, City, Country",Low
+990,301,2024-09-11,Completed,Express,Digital Wallet,225.55,18.04,15.57,43.99,215.17,"Address 990, City, Country",Medium
+991,591,2025-05-07,Completed,Overnight,Digital Wallet,123.83,9.91,13.02,14.71,132.04,"Address 991, City, Country",Low
+992,456,2025-06-08,Completed,Economy,PayPal,303.59,24.29,12.82,14.87,325.82,"Address 992, City, Country",Medium
+993,854,2024-10-09,Completed,Standard,PayPal,566.51,45.32,10.5,59.26,563.07,"Address 993, City, Country",High
+994,872,2024-10-17,Returned,Economy,Bank Transfer,349.01,27.92,19.67,51.54,345.06,"Address 994, City, Country",High
+995,1667,2025-06-30,Completed,Overnight,Credit Card,587.91,47.03,23.4,33.77,624.57,"Address 995, City, Country",Medium
+996,1070,2024-07-27,Completed,Overnight,PayPal,769.02,61.52,24.63,119.16,736.01,"Address 996, City, Country",High
+997,1133,2025-02-28,Returned,Economy,Digital Wallet,598.81,47.9,10.95,64.88,592.78,"Address 997, City, Country",Low
+998,1467,2024-07-30,Shipped,Economy,PayPal,434.67,34.77,21.09,40.65,449.89,"Address 998, City, Country",Urgent
+999,1654,2024-09-12,Completed,Standard,Bank Transfer,54.39,4.35,17.09,4.86,70.97,"Address 999, City, Country",Low
+1000,422,2025-04-18,Completed,Economy,Digital Wallet,577.7,46.22,10.4,108.3,526.01,"Address 1000, City, Country",Low
+1001,291,2025-04-18,Processing,Standard,Digital Wallet,326.93,26.15,11.43,0.99,363.52,"Address 1001, City, Country",Medium
+1002,1821,2025-05-14,Completed,Express,Credit Card,661.84,52.95,24.65,41.27,698.17,"Address 1002, City, Country",Medium
+1003,1900,2025-06-02,Completed,Express,Digital Wallet,69.24,5.54,15.86,12.55,78.08,"Address 1003, City, Country",Low
+1004,1891,2025-05-02,Completed,Economy,PayPal,915.82,73.27,21.85,107.48,903.46,"Address 1004, City, Country",Medium
+1005,1746,2024-08-26,Shipped,Economy,Bank Transfer,411.7,32.94,7.41,81.55,370.5,"Address 1005, City, Country",Medium
+1006,1907,2024-12-21,Completed,Economy,Credit Card,187.66,15.01,7.06,23.13,186.61,"Address 1006, City, Country",Urgent
+1007,971,2025-01-08,Completed,Express,Bank Transfer,58.1,4.65,7.44,6.82,63.36,"Address 1007, City, Country",Medium
+1008,1212,2025-02-08,Completed,Economy,Bank Transfer,766.87,61.35,18.78,20.43,826.56,"Address 1008, City, Country",Low
+1009,1111,2024-12-02,Completed,Overnight,Digital Wallet,907.66,72.61,10.29,30.97,959.59,"Address 1009, City, Country",Medium
+1010,1391,2025-03-24,Completed,Express,Bank Transfer,937.2,74.98,12.36,128.59,895.95,"Address 1010, City, Country",High
+1011,880,2024-12-29,Completed,Economy,Credit Card,722.14,57.77,21.27,18.17,783.02,"Address 1011, City, Country",Low
+1012,1312,2024-07-16,Completed,Economy,Digital Wallet,823.97,65.92,14.02,92.06,811.84,"Address 1012, City, Country",Low
+1013,45,2024-12-14,Completed,Economy,Bank Transfer,130.25,10.42,19.82,17.59,142.89,"Address 1013, City, Country",Low
+1014,1979,2024-11-27,Processing,Overnight,Credit Card,825.79,66.06,14.31,151.68,754.48,"Address 1014, City, Country",High
+1015,1599,2024-10-04,Completed,Standard,Bank Transfer,84.31,6.74,17.17,5.76,102.46,"Address 1015, City, Country",High
+1016,1403,2025-06-04,Completed,Overnight,Credit Card,376.81,30.15,20.21,44.03,383.14,"Address 1016, City, Country",Low
+1017,1124,2025-02-20,Completed,Express,Digital Wallet,643.9,51.51,23.08,116.84,601.66,"Address 1017, City, Country",Medium
+1018,243,2024-09-04,Completed,Express,Bank Transfer,683.19,54.66,13.23,93.39,657.68,"Address 1018, City, Country",Medium
+1019,1716,2024-08-11,Completed,Economy,Digital Wallet,492.81,39.43,22.64,67.87,487.01,"Address 1019, City, Country",Medium
+1020,1951,2024-08-09,Shipped,Overnight,PayPal,693.69,55.49,7.06,65.79,690.45,"Address 1020, City, Country",Medium
+1021,1132,2025-01-08,Completed,Express,Bank Transfer,676.76,54.14,16.27,9.4,737.77,"Address 1021, City, Country",Low
+1022,65,2024-09-14,Completed,Express,PayPal,334.68,26.77,18.79,28.4,351.85,"Address 1022, City, Country",High
+1023,1848,2025-04-30,Completed,Overnight,Bank Transfer,888.01,71.04,5.8,163.78,801.07,"Address 1023, City, Country",Medium
+1024,1595,2024-10-09,Completed,Standard,PayPal,64.23,5.14,6.41,2.21,73.57,"Address 1024, City, Country",Low
+1025,1601,2025-03-18,Shipped,Economy,Credit Card,150.58,12.05,9.44,15.17,156.9,"Address 1025, City, Country",Medium
+1026,1775,2024-10-05,Completed,Economy,Bank Transfer,328.51,26.28,20.78,58.17,317.4,"Address 1026, City, Country",Medium
+1027,253,2025-05-19,Completed,Standard,Digital Wallet,484.98,38.8,15.15,10.17,528.76,"Address 1027, City, Country",Medium
+1028,213,2025-03-13,Cancelled,Economy,PayPal,733.74,58.7,16.16,32.78,775.82,"Address 1028, City, Country",Low
+1029,996,2024-10-17,Completed,Economy,Digital Wallet,61.51,4.92,11.65,4.84,73.23,"Address 1029, City, Country",Medium
+1030,1164,2025-01-17,Processing,Express,Digital Wallet,647.67,51.81,16.68,82.1,634.06,"Address 1030, City, Country",Low
+1031,734,2025-02-03,Returned,Express,Bank Transfer,984.03,78.72,24.19,111.07,975.88,"Address 1031, City, Country",Medium
+1032,1840,2024-08-26,Completed,Overnight,Credit Card,613.22,49.06,15.32,121.88,555.71,"Address 1032, City, Country",High
+1033,598,2025-03-10,Returned,Standard,Credit Card,805.15,64.41,17.58,83.75,803.4,"Address 1033, City, Country",High
+1034,825,2024-09-18,Returned,Overnight,Bank Transfer,147.35,11.79,10.64,2.6,167.17,"Address 1034, City, Country",High
+1035,522,2025-02-12,Completed,Economy,Bank Transfer,369.95,29.6,19.32,35.73,383.14,"Address 1035, City, Country",Urgent
+1036,1471,2024-07-14,Completed,Economy,Digital Wallet,288.75,23.1,23.19,16.98,318.07,"Address 1036, City, Country",High
+1037,592,2024-09-09,Completed,Standard,Bank Transfer,725.57,58.05,13.36,9.62,787.36,"Address 1037, City, Country",Low
+1038,632,2024-12-10,Completed,Standard,PayPal,124.59,9.97,21.5,13.64,142.42,"Address 1038, City, Country",Medium
+1039,881,2024-09-18,Completed,Express,Credit Card,546.44,43.72,15.43,40.41,565.17,"Address 1039, City, Country",Low
+1040,489,2025-06-02,Completed,Economy,Digital Wallet,481.39,38.51,13.58,74.37,459.1,"Address 1040, City, Country",Low
+1041,1908,2024-07-12,Completed,Standard,Credit Card,116.92,9.35,23.03,3.83,145.48,"Address 1041, City, Country",High
+1042,375,2025-04-13,Completed,Express,Bank Transfer,429.04,34.32,21.51,6.17,478.71,"Address 1042, City, Country",Medium
+1043,384,2025-05-27,Returned,Express,Credit Card,790.93,63.27,23.52,113.35,764.37,"Address 1043, City, Country",Low
+1044,1877,2025-06-11,Completed,Overnight,Credit Card,853.92,68.31,21.36,67.64,875.95,"Address 1044, City, Country",Medium
+1045,1535,2024-08-24,Completed,Express,Digital Wallet,982.8,78.62,20.94,152.79,929.58,"Address 1045, City, Country",Low
+1046,705,2025-04-24,Completed,Standard,Bank Transfer,775.03,62.0,9.83,109.58,737.28,"Address 1046, City, Country",Urgent
+1047,1205,2024-11-10,Shipped,Standard,PayPal,372.61,29.81,7.9,63.95,346.37,"Address 1047, City, Country",Low
+1048,792,2025-03-21,Completed,Economy,Digital Wallet,257.1,20.57,16.16,23.98,269.84,"Address 1048, City, Country",Urgent
+1049,1718,2024-12-04,Completed,Standard,Digital Wallet,853.92,68.31,11.4,74.82,858.81,"Address 1049, City, Country",Low
+1050,1700,2024-08-18,Completed,Overnight,Credit Card,719.1,57.53,13.08,139.15,650.56,"Address 1050, City, Country",Medium
+1051,1432,2024-09-25,Completed,Express,Credit Card,290.38,23.23,5.84,4.22,315.24,"Address 1051, City, Country",Low
+1052,1537,2024-09-06,Processing,Overnight,Bank Transfer,976.42,78.11,9.74,122.61,941.66,"Address 1052, City, Country",Medium
+1053,1674,2025-03-20,Cancelled,Overnight,Credit Card,844.81,67.58,8.26,3.76,916.89,"Address 1053, City, Country",Low
+1054,346,2024-09-01,Cancelled,Overnight,Bank Transfer,234.76,18.78,9.0,22.05,240.49,"Address 1054, City, Country",Medium
+1055,1379,2024-08-15,Completed,Express,Digital Wallet,248.86,19.91,19.78,20.31,268.24,"Address 1055, City, Country",Medium
+1056,1720,2025-04-12,Completed,Economy,PayPal,112.74,9.02,7.7,14.96,114.5,"Address 1056, City, Country",Medium
+1057,1013,2024-10-06,Returned,Economy,Credit Card,740.31,59.22,9.27,1.97,806.83,"Address 1057, City, Country",Low
+1058,1129,2024-07-29,Completed,Overnight,Credit Card,812.23,64.98,10.64,101.64,786.2,"Address 1058, City, Country",Medium
+1059,1782,2025-06-27,Completed,Overnight,Digital Wallet,105.57,8.45,14.73,5.83,122.91,"Address 1059, City, Country",Low
+1060,1781,2024-09-08,Completed,Economy,Bank Transfer,950.97,76.08,5.27,83.75,948.56,"Address 1060, City, Country",Low
+1061,1730,2024-12-13,Shipped,Express,Digital Wallet,432.02,34.56,21.12,9.94,477.76,"Address 1061, City, Country",Low
+1062,1361,2024-08-15,Completed,Economy,Bank Transfer,596.09,47.69,17.07,81.89,578.96,"Address 1062, City, Country",Urgent
+1063,922,2025-03-15,Completed,Economy,Credit Card,365.85,29.27,17.61,3.2,409.53,"Address 1063, City, Country",High
+1064,88,2025-06-15,Completed,Express,Digital Wallet,584.4,46.75,19.0,116.51,533.64,"Address 1064, City, Country",Low
+1065,978,2024-10-06,Completed,Standard,PayPal,604.75,48.38,12.67,17.32,648.48,"Address 1065, City, Country",High
+1066,1020,2025-02-09,Completed,Express,Digital Wallet,947.34,75.79,16.49,23.48,1016.14,"Address 1066, City, Country",Medium
+1067,1453,2025-05-13,Processing,Economy,Bank Transfer,874.21,69.94,15.11,154.84,804.4,"Address 1067, City, Country",Medium
+1068,652,2025-03-05,Completed,Overnight,Credit Card,325.34,26.03,11.13,10.47,352.03,"Address 1068, City, Country",Low
+1069,811,2024-11-27,Processing,Standard,Digital Wallet,783.42,62.67,10.48,152.57,704.0,"Address 1069, City, Country",High
+1070,1573,2024-10-07,Completed,Express,Credit Card,878.16,70.25,20.15,126.92,841.64,"Address 1070, City, Country",Medium
+1071,1987,2024-11-16,Completed,Standard,Bank Transfer,439.02,35.12,14.32,14.97,473.49,"Address 1071, City, Country",Medium
+1072,1600,2025-03-03,Processing,Economy,Bank Transfer,76.78,6.14,13.17,8.95,87.14,"Address 1072, City, Country",Medium
+1073,1804,2025-05-24,Completed,Overnight,Digital Wallet,248.93,19.91,24.2,22.73,270.31,"Address 1073, City, Country",Low
+1074,185,2024-08-06,Completed,Express,Credit Card,77.05,6.16,18.8,9.16,92.86,"Address 1074, City, Country",Medium
+1075,1149,2024-07-23,Shipped,Express,PayPal,302.45,24.2,6.18,46.36,286.47,"Address 1075, City, Country",Medium
+1076,307,2025-06-05,Shipped,Overnight,Credit Card,60.19,4.81,11.1,4.8,71.3,"Address 1076, City, Country",Low
+1077,1675,2024-08-01,Completed,Economy,PayPal,929.92,74.39,11.57,41.79,974.09,"Address 1077, City, Country",High
+1078,264,2024-09-29,Completed,Standard,Bank Transfer,597.36,47.79,16.89,61.53,600.52,"Address 1078, City, Country",Low
+1079,372,2024-08-09,Completed,Express,Credit Card,535.55,42.84,24.58,13.31,589.66,"Address 1079, City, Country",High
+1080,1178,2025-04-26,Completed,Economy,PayPal,529.71,42.38,7.84,79.64,500.28,"Address 1080, City, Country",Medium
+1081,1817,2024-10-19,Completed,Standard,Credit Card,227.95,18.24,17.68,26.92,236.95,"Address 1081, City, Country",Medium
+1082,806,2025-03-04,Completed,Express,Credit Card,52.14,4.17,10.33,8.34,58.3,"Address 1082, City, Country",Medium
+1083,82,2024-12-05,Completed,Overnight,Bank Transfer,330.88,26.47,23.24,49.21,331.37,"Address 1083, City, Country",Low
+1084,367,2024-10-06,Completed,Overnight,PayPal,370.33,29.63,8.31,24.9,383.36,"Address 1084, City, Country",Low
+1085,1791,2024-09-19,Completed,Standard,Digital Wallet,316.66,25.33,11.46,18.21,335.25,"Address 1085, City, Country",Low
+1086,328,2025-06-23,Completed,Standard,Digital Wallet,150.04,12.0,21.51,1.32,182.23,"Address 1086, City, Country",Medium
+1087,1826,2024-08-11,Processing,Economy,PayPal,989.9,79.19,17.21,121.34,964.96,"Address 1087, City, Country",Low
+1088,391,2025-04-22,Returned,Economy,Credit Card,524.58,41.97,24.21,36.04,554.71,"Address 1088, City, Country",Medium
+1089,1413,2024-09-22,Completed,Standard,Credit Card,554.31,44.35,24.38,100.12,522.91,"Address 1089, City, Country",Medium
+1090,593,2024-08-06,Completed,Overnight,PayPal,228.99,18.32,9.96,41.67,215.61,"Address 1090, City, Country",Low
+1091,1393,2025-06-16,Completed,Overnight,Digital Wallet,101.34,8.11,15.65,3.87,121.23,"Address 1091, City, Country",Medium
+1092,637,2024-08-29,Completed,Express,Bank Transfer,907.18,72.57,18.76,11.2,987.31,"Address 1092, City, Country",High
+1093,1259,2025-01-13,Completed,Overnight,Digital Wallet,285.38,22.83,19.96,34.37,293.81,"Address 1093, City, Country",Low
+1094,1356,2025-03-04,Completed,Express,Digital Wallet,109.56,8.76,22.5,12.22,128.6,"Address 1094, City, Country",Low
+1095,1041,2024-09-09,Completed,Express,Digital Wallet,893.21,71.46,18.4,178.35,804.72,"Address 1095, City, Country",Low
+1096,46,2025-01-16,Completed,Standard,PayPal,848.12,67.85,6.36,13.28,909.05,"Address 1096, City, Country",Low
+1097,1483,2024-10-06,Completed,Express,Bank Transfer,301.19,24.09,8.12,52.37,281.03,"Address 1097, City, Country",Medium
+1098,1690,2025-02-23,Completed,Standard,Credit Card,574.3,45.94,12.77,97.01,536.0,"Address 1098, City, Country",Low
+1099,457,2024-11-04,Completed,Standard,Digital Wallet,457.5,36.6,7.19,87.43,413.86,"Address 1099, City, Country",Low
+1100,1498,2024-10-27,Completed,Economy,PayPal,63.65,5.09,21.96,9.2,81.5,"Address 1100, City, Country",Low
+1101,1343,2024-10-01,Returned,Overnight,Digital Wallet,704.29,56.34,24.03,79.21,705.45,"Address 1101, City, Country",Low
+1102,1474,2025-01-22,Processing,Express,Credit Card,280.91,22.47,16.44,45.1,274.72,"Address 1102, City, Country",Low
+1103,290,2025-06-03,Processing,Economy,Credit Card,997.24,79.78,7.44,108.26,976.2,"Address 1103, City, Country",Medium
+1104,170,2024-12-30,Completed,Standard,Bank Transfer,202.19,16.18,20.57,12.1,226.84,"Address 1104, City, Country",Medium
+1105,987,2025-06-03,Completed,Overnight,Digital Wallet,619.46,49.56,21.99,107.46,583.56,"Address 1105, City, Country",Medium
+1106,1033,2025-05-22,Completed,Standard,PayPal,814.73,65.18,11.22,30.98,860.15,"Address 1106, City, Country",Medium
+1107,542,2025-01-27,Completed,Express,Bank Transfer,803.41,64.27,24.25,37.17,854.77,"Address 1107, City, Country",Low
+1108,1824,2025-04-01,Shipped,Economy,Digital Wallet,886.59,70.93,19.58,18.47,958.62,"Address 1108, City, Country",Low
+1109,810,2024-11-27,Cancelled,Standard,Bank Transfer,259.25,20.74,15.15,3.54,291.6,"Address 1109, City, Country",High
+1110,396,2024-07-19,Completed,Overnight,PayPal,596.33,47.71,10.22,108.82,545.44,"Address 1110, City, Country",Medium
+1111,554,2024-09-01,Returned,Standard,PayPal,377.35,30.19,19.96,68.5,359.01,"Address 1111, City, Country",Low
+1112,1974,2025-06-29,Completed,Economy,Credit Card,352.41,28.19,10.13,1.48,389.26,"Address 1112, City, Country",Low
+1113,1890,2025-06-13,Shipped,Express,Credit Card,581.38,46.51,18.3,108.96,537.24,"Address 1113, City, Country",Medium
+1114,408,2025-04-04,Processing,Economy,PayPal,154.59,12.37,18.39,24.1,161.26,"Address 1114, City, Country",Medium
+1115,156,2025-05-29,Completed,Standard,Bank Transfer,456.7,36.54,22.8,1.73,514.3,"Address 1115, City, Country",Low
+1116,1574,2024-10-24,Completed,Overnight,Digital Wallet,835.35,66.83,5.05,139.02,768.21,"Address 1116, City, Country",Medium
+1117,906,2025-03-03,Completed,Economy,Credit Card,397.05,31.76,6.19,65.92,369.09,"Address 1117, City, Country",Medium
+1118,1401,2024-08-29,Completed,Standard,Credit Card,153.66,12.29,6.91,28.9,143.97,"Address 1118, City, Country",Urgent
+1119,1242,2025-01-03,Completed,Express,PayPal,238.6,19.09,7.21,27.53,237.36,"Address 1119, City, Country",High
+1120,1034,2024-08-01,Completed,Overnight,Digital Wallet,809.88,64.79,12.89,25.83,861.72,"Address 1120, City, Country",Low
+1121,85,2025-06-13,Returned,Overnight,Digital Wallet,388.36,31.07,15.09,45.45,389.08,"Address 1121, City, Country",Low
+1122,1150,2024-11-22,Shipped,Overnight,Digital Wallet,867.05,69.36,7.41,157.79,786.03,"Address 1122, City, Country",High
+1123,1644,2025-05-07,Shipped,Express,PayPal,790.61,63.25,10.29,58.76,805.39,"Address 1123, City, Country",Urgent
+1124,898,2024-07-29,Completed,Economy,PayPal,166.74,13.34,11.44,28.41,163.11,"Address 1124, City, Country",Low
+1125,518,2024-09-03,Completed,Overnight,Credit Card,159.11,12.73,7.77,19.65,159.97,"Address 1125, City, Country",Medium
+1126,979,2025-06-27,Completed,Standard,Bank Transfer,335.16,26.81,19.17,6.89,374.26,"Address 1126, City, Country",Low
+1127,809,2025-03-09,Completed,Standard,Credit Card,496.88,39.75,13.6,56.95,493.28,"Address 1127, City, Country",Medium
+1128,1797,2024-10-28,Shipped,Express,Credit Card,952.68,76.21,22.04,86.53,964.41,"Address 1128, City, Country",Medium
+1129,1496,2024-10-15,Completed,Standard,PayPal,224.31,17.94,17.07,2.54,256.79,"Address 1129, City, Country",Medium
+1130,1222,2024-10-18,Processing,Express,Bank Transfer,857.84,68.63,24.61,167.49,783.59,"Address 1130, City, Country",High
+1131,242,2025-04-05,Completed,Express,Digital Wallet,121.62,9.73,5.98,20.37,116.95,"Address 1131, City, Country",Low
+1132,1682,2024-09-30,Processing,Economy,Bank Transfer,919.56,73.56,6.76,158.44,841.44,"Address 1132, City, Country",Low
+1133,41,2025-05-18,Completed,Express,PayPal,916.64,73.33,6.23,95.66,900.53,"Address 1133, City, Country",Medium
+1134,905,2025-04-26,Completed,Express,PayPal,161.11,12.89,21.62,21.73,173.9,"Address 1134, City, Country",High
+1135,1339,2024-07-25,Completed,Economy,Credit Card,744.76,59.58,19.68,15.7,808.32,"Address 1135, City, Country",Low
+1136,1538,2024-09-16,Completed,Overnight,Bank Transfer,641.94,51.36,8.76,26.96,675.1,"Address 1136, City, Country",Low
+1137,1411,2025-05-09,Completed,Economy,Credit Card,258.14,20.65,24.68,43.74,259.73,"Address 1137, City, Country",Medium
+1138,1362,2025-07-02,Completed,Overnight,Bank Transfer,502.29,40.18,17.46,58.62,501.31,"Address 1138, City, Country",Medium
+1139,1772,2025-03-22,Completed,Express,Digital Wallet,59.43,4.75,24.37,8.93,79.62,"Address 1139, City, Country",Low
+1140,871,2024-12-02,Cancelled,Express,PayPal,316.53,25.32,24.73,57.35,309.24,"Address 1140, City, Country",High
+1141,1007,2024-12-07,Completed,Economy,Credit Card,503.38,40.27,17.09,67.32,493.42,"Address 1141, City, Country",High
+1142,1783,2025-05-29,Shipped,Economy,PayPal,149.19,11.94,10.34,15.99,155.48,"Address 1142, City, Country",Medium
+1143,1759,2024-11-24,Completed,Economy,Credit Card,62.29,4.98,8.6,4.26,71.61,"Address 1143, City, Country",Medium
+1144,756,2024-12-18,Completed,Standard,Digital Wallet,832.49,66.6,11.88,70.96,840.0,"Address 1144, City, Country",Low
+1145,721,2025-03-12,Returned,Overnight,PayPal,379.17,30.33,22.22,4.09,427.64,"Address 1145, City, Country",Low
+1146,293,2024-09-26,Completed,Economy,Credit Card,866.77,69.34,20.23,37.49,918.85,"Address 1146, City, Country",Medium
+1147,1244,2025-05-18,Returned,Economy,Bank Transfer,81.29,6.5,10.47,7.58,90.69,"Address 1147, City, Country",Low
+1148,465,2025-01-20,Completed,Standard,Digital Wallet,477.25,38.18,15.41,52.0,478.84,"Address 1148, City, Country",Medium
+1149,226,2025-05-26,Completed,Economy,PayPal,985.43,78.83,10.78,154.94,920.1,"Address 1149, City, Country",Urgent
+1150,784,2025-06-15,Completed,Economy,Bank Transfer,989.89,79.19,14.45,191.96,891.57,"Address 1150, City, Country",Low
+1151,793,2025-05-21,Completed,Standard,PayPal,496.19,39.7,18.82,39.54,515.16,"Address 1151, City, Country",High
+1152,1089,2024-10-06,Completed,Overnight,Bank Transfer,328.11,26.25,24.68,19.15,359.9,"Address 1152, City, Country",Low
+1153,1488,2024-12-24,Completed,Overnight,Credit Card,992.26,79.38,16.53,69.67,1018.5,"Address 1153, City, Country",Low
+1154,684,2025-02-11,Shipped,Standard,Credit Card,277.24,22.18,11.22,30.15,280.48,"Address 1154, City, Country",Low
+1155,448,2025-03-14,Processing,Overnight,Digital Wallet,616.32,49.31,24.56,122.96,567.24,"Address 1155, City, Country",Medium
+1156,841,2025-02-04,Completed,Standard,Credit Card,397.37,31.79,17.0,17.2,428.96,"Address 1156, City, Country",Low
+1157,747,2025-03-21,Completed,Standard,PayPal,546.91,43.75,8.65,2.42,596.89,"Address 1157, City, Country",Urgent
+1158,1789,2025-01-22,Completed,Overnight,Bank Transfer,718.07,57.45,10.05,130.84,654.72,"Address 1158, City, Country",Low
+1159,38,2024-07-18,Shipped,Overnight,Bank Transfer,685.74,54.86,7.43,36.44,711.6,"Address 1159, City, Country",Medium
+1160,517,2024-09-01,Completed,Overnight,Credit Card,930.62,74.45,19.04,77.06,947.06,"Address 1160, City, Country",Medium
+1161,893,2025-01-23,Shipped,Overnight,Bank Transfer,369.95,29.6,17.76,61.27,356.03,"Address 1161, City, Country",High
+1162,237,2024-12-12,Completed,Economy,Bank Transfer,732.46,58.6,12.43,88.81,714.67,"Address 1162, City, Country",Medium
+1163,534,2025-04-29,Completed,Express,Digital Wallet,615.26,49.22,24.97,116.22,573.23,"Address 1163, City, Country",Low
+1164,318,2024-12-14,Returned,Economy,Credit Card,344.88,27.59,14.42,16.15,370.74,"Address 1164, City, Country",Medium
+1165,1628,2025-04-22,Completed,Overnight,Bank Transfer,882.22,70.58,6.03,53.11,905.71,"Address 1165, City, Country",Low
+1166,1509,2025-03-12,Completed,Standard,Digital Wallet,435.96,34.88,12.79,42.6,441.03,"Address 1166, City, Country",Medium
+1167,1101,2024-10-26,Completed,Express,Credit Card,786.12,62.89,22.09,66.1,804.99,"Address 1167, City, Country",Medium
+1168,1378,2025-04-01,Shipped,Economy,PayPal,155.5,12.44,10.79,27.12,151.62,"Address 1168, City, Country",Low
+1169,1515,2025-05-13,Completed,Express,PayPal,314.27,25.14,8.62,1.38,346.65,"Address 1169, City, Country",High
+1170,952,2024-07-10,Completed,Standard,Credit Card,545.03,43.6,24.81,55.51,557.93,"Address 1170, City, Country",Low
+1171,382,2024-07-07,Completed,Overnight,PayPal,713.67,57.09,20.16,117.49,673.45,"Address 1171, City, Country",Medium
+1172,57,2024-10-04,Completed,Economy,Bank Transfer,800.85,64.07,24.25,23.83,865.33,"Address 1172, City, Country",High
+1173,1297,2024-09-08,Processing,Overnight,Credit Card,188.23,15.06,13.73,24.65,192.37,"Address 1173, City, Country",Low
+1174,115,2025-05-30,Completed,Overnight,Credit Card,82.08,6.57,15.32,9.76,94.21,"Address 1174, City, Country",Low
+1175,715,2024-12-12,Completed,Standard,Bank Transfer,89.41,7.15,7.04,1.56,102.03,"Address 1175, City, Country",High
+1176,1795,2024-11-15,Completed,Economy,Bank Transfer,474.96,38.0,24.01,20.02,516.94,"Address 1176, City, Country",Medium
+1177,478,2024-11-05,Completed,Economy,Credit Card,606.96,48.56,10.07,99.28,566.31,"Address 1177, City, Country",Medium
+1178,1230,2024-11-26,Shipped,Overnight,Credit Card,169.71,13.58,21.84,18.63,186.49,"Address 1178, City, Country",High
+1179,1037,2025-01-10,Completed,Express,Bank Transfer,121.55,9.72,19.38,7.09,143.56,"Address 1179, City, Country",Medium
+1180,1130,2025-04-06,Cancelled,Overnight,Bank Transfer,252.7,20.22,8.38,18.31,262.99,"Address 1180, City, Country",High
+1181,1937,2024-12-15,Completed,Express,Credit Card,265.2,21.22,14.9,32.65,268.68,"Address 1181, City, Country",Low
+1182,7,2025-01-28,Completed,Economy,Credit Card,401.38,32.11,6.6,11.09,428.99,"Address 1182, City, Country",Low
+1183,1708,2024-09-18,Completed,Standard,PayPal,863.93,69.11,17.19,156.85,793.39,"Address 1183, City, Country",High
+1184,1136,2024-10-07,Completed,Overnight,PayPal,714.28,57.14,24.71,10.74,785.39,"Address 1184, City, Country",Medium
+1185,1943,2024-12-02,Completed,Standard,Bank Transfer,481.87,38.55,20.72,88.38,452.76,"Address 1185, City, Country",Medium
+1186,15,2024-09-25,Completed,Standard,Credit Card,170.62,13.65,8.75,3.34,189.69,"Address 1186, City, Country",Low
+1187,52,2024-10-09,Completed,Standard,Bank Transfer,851.93,68.15,23.54,83.06,860.57,"Address 1187, City, Country",Medium
+1188,248,2025-05-22,Processing,Overnight,PayPal,919.34,73.55,12.84,79.85,925.88,"Address 1188, City, Country",Low
+1189,1539,2024-07-18,Completed,Express,PayPal,312.4,24.99,9.83,52.39,294.83,"Address 1189, City, Country",Medium
+1190,1546,2025-06-19,Completed,Economy,Bank Transfer,406.0,32.48,20.29,0.53,458.24,"Address 1190, City, Country",Medium
+1191,17,2024-08-22,Processing,Overnight,Bank Transfer,662.41,52.99,23.14,75.04,663.51,"Address 1191, City, Country",Medium
+1192,1942,2025-05-28,Completed,Economy,PayPal,461.4,36.91,18.1,63.67,452.75,"Address 1192, City, Country",Medium
+1193,172,2024-07-06,Completed,Overnight,Bank Transfer,308.2,24.66,19.89,25.83,326.92,"Address 1193, City, Country",Low
+1194,836,2024-12-10,Completed,Economy,Digital Wallet,315.25,25.22,15.92,23.64,332.75,"Address 1194, City, Country",Medium
+1195,1524,2024-09-03,Processing,Overnight,Credit Card,697.21,55.78,24.72,131.44,646.27,"Address 1195, City, Country",Low
+1196,975,2024-10-20,Returned,Economy,PayPal,420.88,33.67,6.42,48.47,412.51,"Address 1196, City, Country",Low
+1197,600,2025-05-21,Shipped,Standard,PayPal,186.55,14.92,8.25,6.08,203.65,"Address 1197, City, Country",High
+1198,753,2024-07-08,Processing,Standard,Credit Card,299.62,23.97,11.81,11.39,324.01,"Address 1198, City, Country",Medium
+1199,599,2024-12-19,Completed,Economy,Credit Card,607.64,48.61,14.2,45.99,624.46,"Address 1199, City, Country",Medium
+1200,1024,2025-01-30,Completed,Overnight,Credit Card,483.79,38.7,19.44,7.79,534.14,"Address 1200, City, Country",Low
+1201,889,2024-07-19,Completed,Overnight,Credit Card,238.61,19.09,5.07,41.56,221.21,"Address 1201, City, Country",Medium
+1202,1290,2025-05-14,Completed,Standard,PayPal,640.58,51.25,24.13,2.53,713.42,"Address 1202, City, Country",Low
+1203,512,2025-05-04,Completed,Standard,Digital Wallet,642.86,51.43,13.94,117.07,591.16,"Address 1203, City, Country",Medium
+1204,894,2025-05-17,Completed,Standard,Digital Wallet,453.6,36.29,10.39,78.2,422.07,"Address 1204, City, Country",Medium
+1205,1680,2024-08-24,Completed,Overnight,Bank Transfer,347.41,27.79,5.68,56.32,324.56,"Address 1205, City, Country",Low
+1206,667,2024-12-31,Completed,Express,Digital Wallet,864.76,69.18,22.95,105.53,851.37,"Address 1206, City, Country",Medium
+1207,510,2025-06-26,Returned,Standard,PayPal,470.27,37.62,21.05,87.21,441.74,"Address 1207, City, Country",Low
+1208,1251,2024-09-07,Completed,Standard,Credit Card,824.21,65.94,16.7,127.45,779.4,"Address 1208, City, Country",Low
+1209,1310,2025-06-07,Completed,Standard,Bank Transfer,202.99,16.24,8.74,17.71,210.26,"Address 1209, City, Country",Low
+1210,1551,2025-03-16,Completed,Express,PayPal,446.09,35.69,12.51,31.21,463.08,"Address 1210, City, Country",Low
+1211,1165,2024-07-07,Completed,Overnight,Bank Transfer,923.43,73.87,15.18,55.03,957.44,"Address 1211, City, Country",Urgent
+1212,1127,2024-11-23,Completed,Economy,Credit Card,326.4,26.11,17.03,50.61,318.93,"Address 1212, City, Country",Medium
+1213,840,2025-04-10,Completed,Standard,Bank Transfer,439.86,35.19,15.75,23.6,467.2,"Address 1213, City, Country",Low
+1214,1660,2024-09-16,Completed,Express,Credit Card,965.72,77.26,17.49,33.44,1027.02,"Address 1214, City, Country",Low
+1215,1369,2025-06-21,Completed,Express,Credit Card,494.79,39.58,23.26,56.21,501.41,"Address 1215, City, Country",Low
+1216,1722,2025-06-24,Completed,Standard,Bank Transfer,101.09,8.09,20.58,12.96,116.8,"Address 1216, City, Country",High
+1217,1829,2025-01-05,Processing,Standard,Credit Card,934.21,74.74,14.57,63.6,959.92,"Address 1217, City, Country",Low
+1218,1620,2025-06-18,Completed,Standard,Digital Wallet,934.71,74.78,6.31,148.37,867.43,"Address 1218, City, Country",Low
+1219,225,2024-12-13,Completed,Economy,Digital Wallet,300.39,24.03,9.6,39.56,294.46,"Address 1219, City, Country",Medium
+1220,1778,2025-01-27,Completed,Express,PayPal,875.32,70.03,17.23,3.58,959.0,"Address 1220, City, Country",Low
+1221,130,2024-10-02,Processing,Economy,Digital Wallet,478.65,38.29,24.08,45.54,495.48,"Address 1221, City, Country",Medium
+1222,162,2025-05-13,Completed,Economy,Bank Transfer,755.26,60.42,22.6,142.62,695.66,"Address 1222, City, Country",Medium
+1223,990,2025-01-31,Completed,Standard,Bank Transfer,598.7,47.9,10.03,34.63,622.0,"Address 1223, City, Country",High
+1224,1975,2024-08-21,Completed,Overnight,Digital Wallet,870.14,69.61,12.3,91.47,860.58,"Address 1224, City, Country",Low
+1225,64,2024-09-12,Shipped,Standard,Credit Card,899.75,71.98,7.96,114.4,865.29,"Address 1225, City, Country",Medium
+1226,1834,2024-07-31,Completed,Standard,PayPal,563.5,45.08,20.34,62.4,566.52,"Address 1226, City, Country",Medium
+1227,1749,2024-11-23,Completed,Standard,Credit Card,655.56,52.44,17.32,46.95,678.37,"Address 1227, City, Country",Urgent
+1228,140,2025-01-12,Completed,Economy,Credit Card,151.98,12.16,5.96,23.86,146.24,"Address 1228, City, Country",Medium
+1229,1176,2025-05-02,Completed,Standard,Bank Transfer,977.37,78.19,24.64,19.17,1061.04,"Address 1229, City, Country",Low
+1230,1455,2024-08-18,Cancelled,Overnight,Credit Card,822.53,65.8,13.68,20.48,881.53,"Address 1230, City, Country",Medium
+1231,849,2024-09-06,Completed,Economy,Digital Wallet,395.48,31.64,20.84,25.0,422.96,"Address 1231, City, Country",Urgent
+1232,559,2024-10-24,Completed,Economy,Credit Card,581.84,46.55,13.32,103.37,538.34,"Address 1232, City, Country",High
+1233,847,2024-07-29,Completed,Economy,Bank Transfer,736.08,58.89,22.1,57.01,760.06,"Address 1233, City, Country",Medium
+1234,578,2024-08-25,Processing,Economy,PayPal,703.17,56.25,19.74,45.75,733.42,"Address 1234, City, Country",Low
+1235,1745,2025-03-14,Processing,Economy,PayPal,317.23,25.38,20.86,31.01,332.46,"Address 1235, City, Country",Low
+1236,938,2024-08-17,Completed,Economy,Credit Card,976.0,78.08,17.96,84.42,987.62,"Address 1236, City, Country",Medium
+1237,839,2025-03-23,Shipped,Overnight,Bank Transfer,55.36,4.43,13.31,4.84,68.26,"Address 1237, City, Country",Low
+1238,680,2025-01-27,Completed,Express,Credit Card,981.09,78.49,8.91,124.88,943.6,"Address 1238, City, Country",Medium
+1239,612,2024-11-02,Completed,Standard,Credit Card,756.57,60.53,21.66,2.21,836.54,"Address 1239, City, Country",High
+1240,1869,2025-06-21,Completed,Express,Digital Wallet,981.06,78.48,24.02,176.46,907.1,"Address 1240, City, Country",High
+1241,1615,2025-06-02,Completed,Overnight,PayPal,664.23,53.14,10.67,78.61,649.42,"Address 1241, City, Country",Low
+1242,138,2025-03-19,Completed,Standard,PayPal,468.11,37.45,10.64,71.58,444.62,"Address 1242, City, Country",High
+1243,238,2024-07-28,Completed,Overnight,PayPal,752.63,60.21,7.14,65.95,754.03,"Address 1243, City, Country",Low
+1244,643,2024-11-21,Completed,Express,Digital Wallet,488.42,39.07,24.19,18.07,533.61,"Address 1244, City, Country",Low
+1245,506,2025-04-20,Completed,Economy,Credit Card,139.46,11.16,22.68,15.17,158.12,"Address 1245, City, Country",Medium
+1246,349,2024-08-04,Completed,Standard,Credit Card,864.04,69.12,21.32,10.61,943.87,"Address 1246, City, Country",High
+1247,1995,2025-05-18,Shipped,Standard,Digital Wallet,975.95,78.08,5.29,187.52,871.8,"Address 1247, City, Country",Low
+1248,833,2025-02-08,Completed,Overnight,Credit Card,280.7,22.46,23.78,0.61,326.32,"Address 1248, City, Country",Medium
+1249,1857,2024-07-05,Completed,Express,Bank Transfer,863.66,69.09,8.87,41.78,899.84,"Address 1249, City, Country",Low
+1250,1993,2024-09-08,Completed,Standard,Bank Transfer,194.25,15.54,5.94,20.91,194.82,"Address 1250, City, Country",Low
+1251,199,2024-07-30,Completed,Standard,Credit Card,749.4,59.95,18.55,144.96,682.93,"Address 1251, City, Country",Medium
+1252,819,2024-10-15,Returned,Standard,Bank Transfer,599.39,47.95,24.01,17.76,653.6,"Address 1252, City, Country",Medium
+1253,35,2025-01-25,Completed,Express,Credit Card,72.47,5.8,23.79,9.33,92.73,"Address 1253, City, Country",Low
+1254,614,2025-04-13,Completed,Express,Digital Wallet,829.67,66.37,23.88,109.32,810.6,"Address 1254, City, Country",Low
+1255,1802,2024-07-18,Completed,Express,Digital Wallet,358.24,28.66,18.89,42.11,363.69,"Address 1255, City, Country",Medium
+1256,544,2025-06-01,Cancelled,Economy,PayPal,480.47,38.44,9.45,70.95,457.4,"Address 1256, City, Country",Low
+1257,1645,2024-07-12,Completed,Economy,PayPal,634.97,50.8,9.36,98.07,597.07,"Address 1257, City, Country",High
+1258,1548,2024-09-04,Cancelled,Overnight,Bank Transfer,782.8,62.62,16.78,43.05,819.16,"Address 1258, City, Country",Urgent
+1259,1870,2024-12-12,Completed,Standard,Digital Wallet,191.55,15.32,10.55,24.78,192.65,"Address 1259, City, Country",High
+1260,580,2024-09-30,Completed,Economy,Bank Transfer,967.28,77.38,11.78,125.38,931.06,"Address 1260, City, Country",High
+1261,963,2024-11-13,Completed,Overnight,Bank Transfer,975.42,78.03,21.98,94.23,981.2,"Address 1261, City, Country",Medium
+1262,1833,2024-09-22,Completed,Express,Bank Transfer,696.33,55.71,12.88,110.8,654.13,"Address 1262, City, Country",Medium
+1263,368,2024-09-23,Completed,Express,Credit Card,727.7,58.22,20.93,131.65,675.19,"Address 1263, City, Country",High
+1264,168,2024-12-12,Returned,Economy,PayPal,453.22,36.26,19.21,78.65,430.03,"Address 1264, City, Country",Low
+1265,941,2025-02-08,Processing,Standard,Bank Transfer,208.78,16.7,10.06,32.69,202.85,"Address 1265, City, Country",High
+1266,1340,2025-01-02,Completed,Express,PayPal,792.74,63.42,8.66,48.33,816.49,"Address 1266, City, Country",Urgent
+1267,824,2025-05-14,Processing,Overnight,Bank Transfer,640.75,51.26,12.14,37.81,666.34,"Address 1267, City, Country",Medium
+1268,1213,2025-01-18,Completed,Overnight,Credit Card,483.63,38.69,7.15,26.43,503.04,"Address 1268, City, Country",Low
+1269,1197,2025-03-13,Completed,Overnight,PayPal,231.03,18.48,7.06,25.97,230.6,"Address 1269, City, Country",Medium
+1270,1353,2024-07-22,Completed,Standard,Bank Transfer,630.25,50.42,17.23,92.83,605.06,"Address 1270, City, Country",High
+1271,956,2025-06-04,Shipped,Standard,Credit Card,876.61,70.13,9.37,79.93,876.18,"Address 1271, City, Country",High
+1272,1475,2024-11-02,Completed,Overnight,PayPal,474.8,37.98,18.13,37.08,493.83,"Address 1272, City, Country",Medium
+1273,1427,2025-03-05,Completed,Economy,Digital Wallet,823.36,65.87,19.9,3.37,905.76,"Address 1273, City, Country",Medium
+1274,334,2024-07-12,Completed,Express,Credit Card,949.5,75.96,19.54,2.26,1042.74,"Address 1274, City, Country",High
+1275,1556,2025-04-25,Completed,Economy,Digital Wallet,75.73,6.06,6.67,6.63,81.83,"Address 1275, City, Country",Medium
+1276,1954,2025-06-03,Cancelled,Overnight,Bank Transfer,458.92,36.71,9.15,87.02,417.77,"Address 1276, City, Country",High
+1277,902,2025-03-15,Processing,Overnight,Credit Card,612.4,48.99,20.38,11.07,670.7,"Address 1277, City, Country",Medium
+1278,822,2025-01-15,Completed,Economy,Bank Transfer,695.35,55.63,7.21,14.63,743.56,"Address 1278, City, Country",Medium
+1279,892,2025-02-13,Cancelled,Overnight,PayPal,258.76,20.7,15.15,2.05,292.56,"Address 1279, City, Country",Medium
+1280,605,2025-01-28,Returned,Overnight,Credit Card,259.37,20.75,14.2,16.98,277.34,"Address 1280, City, Country",Low
+1281,1433,2025-04-18,Completed,Express,Digital Wallet,836.41,66.91,24.97,98.42,829.88,"Address 1281, City, Country",Medium
+1282,1441,2024-07-07,Shipped,Overnight,PayPal,702.17,56.17,16.34,55.79,718.9,"Address 1282, City, Country",Low
+1283,1860,2024-09-03,Completed,Economy,Digital Wallet,302.76,24.22,12.13,56.95,282.16,"Address 1283, City, Country",Low
+1284,125,2025-01-22,Completed,Economy,Bank Transfer,612.42,48.99,8.67,28.04,642.05,"Address 1284, City, Country",Low
+1285,1200,2025-01-17,Completed,Express,Bank Transfer,986.22,78.9,23.73,70.26,1018.59,"Address 1285, City, Country",Low
+1286,1737,2025-02-13,Completed,Standard,Credit Card,969.26,77.54,9.72,134.25,922.27,"Address 1286, City, Country",Medium
+1287,1278,2025-01-10,Completed,Standard,Bank Transfer,69.0,5.52,24.47,3.06,95.93,"Address 1287, City, Country",Low
+1288,348,2025-04-21,Completed,Overnight,PayPal,887.26,70.98,10.1,62.1,906.24,"Address 1288, City, Country",Low
+1289,147,2024-11-06,Completed,Economy,Bank Transfer,160.59,12.85,14.14,31.61,155.96,"Address 1289, City, Country",Medium
+1290,1397,2025-05-01,Completed,Overnight,Bank Transfer,254.94,20.39,20.08,44.94,250.47,"Address 1290, City, Country",Urgent
+1291,716,2025-04-28,Completed,Overnight,Digital Wallet,750.55,60.04,14.94,6.9,818.63,"Address 1291, City, Country",Low
+1292,606,2024-07-22,Completed,Standard,Bank Transfer,386.23,30.9,16.48,29.71,403.9,"Address 1292, City, Country",Medium
+1293,1688,2025-01-18,Completed,Standard,PayPal,906.37,72.51,14.09,35.72,957.25,"Address 1293, City, Country",Medium
+1294,362,2025-07-03,Completed,Express,Bank Transfer,785.44,62.83,7.31,87.68,767.91,"Address 1294, City, Country",Low
+1295,1643,2025-06-07,Processing,Overnight,Credit Card,426.59,34.13,23.43,6.46,477.68,"Address 1295, City, Country",Urgent
+1296,1407,2024-11-14,Completed,Economy,Credit Card,613.17,49.05,16.74,64.94,614.03,"Address 1296, City, Country",High
+1297,509,2025-04-15,Completed,Overnight,Credit Card,571.37,45.71,23.12,104.3,535.91,"Address 1297, City, Country",Low
+1298,1792,2024-09-15,Completed,Economy,Digital Wallet,140.14,11.21,12.77,16.47,147.65,"Address 1298, City, Country",Low
+1299,1754,2025-01-25,Completed,Economy,PayPal,835.16,66.81,11.93,14.29,899.61,"Address 1299, City, Country",Medium
+1300,444,2025-05-22,Completed,Standard,Digital Wallet,489.7,39.18,9.42,72.35,465.95,"Address 1300, City, Country",Low
+1301,856,2025-01-12,Processing,Standard,Digital Wallet,805.82,64.47,24.95,156.21,739.02,"Address 1301, City, Country",Low
+1302,1468,2024-08-19,Completed,Overnight,Bank Transfer,892.72,71.42,9.9,71.12,902.92,"Address 1302, City, Country",High
+1303,888,2024-10-16,Completed,Standard,Credit Card,905.85,72.47,7.83,91.97,894.17,"Address 1303, City, Country",Urgent
+1304,1913,2025-01-25,Completed,Standard,PayPal,551.01,44.08,6.51,93.92,507.68,"Address 1304, City, Country",Medium
+1305,1743,2024-12-24,Completed,Economy,Digital Wallet,56.57,4.53,5.22,6.16,60.16,"Address 1305, City, Country",Medium
+1306,1959,2025-05-28,Completed,Standard,Digital Wallet,72.03,5.76,14.98,11.18,81.59,"Address 1306, City, Country",High
+1307,1603,2025-05-06,Completed,Economy,Bank Transfer,722.57,57.81,11.57,14.82,777.13,"Address 1307, City, Country",Low
+1308,1575,2024-11-14,Processing,Express,Bank Transfer,689.97,55.2,13.67,44.74,714.11,"Address 1308, City, Country",Low
+1309,171,2025-01-29,Completed,Standard,Digital Wallet,873.37,69.87,9.82,33.38,919.68,"Address 1309, City, Country",Medium
+1310,1158,2024-12-29,Completed,Standard,Credit Card,320.82,25.67,5.2,51.65,300.03,"Address 1310, City, Country",High
+1311,271,2025-05-04,Completed,Overnight,Credit Card,937.48,75.0,8.29,101.82,918.96,"Address 1311, City, Country",Low
+1312,658,2025-01-30,Completed,Standard,Credit Card,139.8,11.18,14.46,13.0,152.44,"Address 1312, City, Country",Low
+1313,474,2025-01-08,Processing,Economy,Bank Transfer,496.03,39.68,16.28,1.66,550.33,"Address 1313, City, Country",Medium
+1314,233,2024-11-21,Completed,Overnight,Credit Card,944.53,75.56,17.42,160.02,877.49,"Address 1314, City, Country",Medium
+1315,664,2024-12-09,Processing,Overnight,Credit Card,414.76,33.18,18.16,7.75,458.34,"Address 1315, City, Country",Low
+1316,461,2024-08-08,Completed,Express,Credit Card,204.2,16.34,9.11,20.13,209.53,"Address 1316, City, Country",High
+1317,191,2025-04-16,Completed,Express,PayPal,296.5,23.72,21.99,11.55,330.66,"Address 1317, City, Country",Medium
+1318,816,2024-07-15,Completed,Express,Credit Card,224.46,17.96,11.91,36.2,218.13,"Address 1318, City, Country",Medium
+1319,789,2025-06-10,Completed,Overnight,Credit Card,135.73,10.86,10.69,7.13,150.14,"Address 1319, City, Country",Low
+1320,1742,2025-01-21,Completed,Standard,Credit Card,989.06,79.13,17.68,71.43,1014.44,"Address 1320, City, Country",High
+1321,551,2025-05-21,Completed,Standard,Credit Card,652.37,52.19,9.43,54.23,659.77,"Address 1321, City, Country",Low
+1322,1522,2024-08-27,Completed,Overnight,Credit Card,993.81,79.5,18.87,136.52,955.66,"Address 1322, City, Country",Urgent
+1323,364,2025-06-04,Completed,Standard,Digital Wallet,513.56,41.08,7.3,49.85,512.09,"Address 1323, City, Country",Medium
+1324,1107,2024-08-08,Returned,Overnight,Digital Wallet,892.36,71.39,17.76,170.13,811.37,"Address 1324, City, Country",Low
+1325,1610,2025-07-02,Cancelled,Economy,Bank Transfer,651.69,52.14,7.27,85.93,625.16,"Address 1325, City, Country",Low
+1326,406,2025-05-08,Processing,Standard,PayPal,612.34,48.99,15.98,57.04,620.26,"Address 1326, City, Country",Low
+1327,950,2024-09-23,Completed,Economy,Credit Card,795.92,63.67,13.21,108.98,763.83,"Address 1327, City, Country",High
+1328,1458,2024-09-13,Completed,Express,Digital Wallet,178.19,14.25,16.94,10.01,199.37,"Address 1328, City, Country",Low
+1329,891,2024-11-07,Completed,Express,PayPal,462.72,37.02,8.39,45.92,462.21,"Address 1329, City, Country",Medium
+1330,1672,2025-01-04,Completed,Express,Digital Wallet,447.62,35.81,12.97,51.88,444.52,"Address 1330, City, Country",Low
+1331,511,2024-09-27,Completed,Economy,Credit Card,437.61,35.01,11.48,51.25,432.84,"Address 1331, City, Country",Low
+1332,573,2025-05-24,Completed,Express,Credit Card,264.86,21.19,22.0,16.35,291.69,"Address 1332, City, Country",Urgent
+1333,1050,2024-10-12,Completed,Overnight,Credit Card,285.07,22.81,23.88,51.36,280.39,"Address 1333, City, Country",Low
+1334,1500,2024-11-03,Completed,Economy,PayPal,829.34,66.35,20.43,48.88,867.25,"Address 1334, City, Country",Medium
+1335,1985,2025-03-28,Completed,Economy,Credit Card,823.81,65.9,17.47,31.47,875.72,"Address 1335, City, Country",High
+1336,1194,2024-10-15,Completed,Standard,Credit Card,305.73,24.46,23.52,17.72,335.99,"Address 1336, City, Country",Medium
+1337,1357,2024-07-26,Completed,Overnight,Bank Transfer,743.25,59.46,21.4,134.34,689.77,"Address 1337, City, Country",Medium
+1338,1989,2024-11-19,Completed,Standard,Bank Transfer,105.61,8.45,13.02,17.32,109.77,"Address 1338, City, Country",Low
+1339,1113,2024-12-14,Cancelled,Express,Credit Card,849.31,67.94,10.54,36.47,891.32,"Address 1339, City, Country",Low
+1340,1421,2024-09-03,Completed,Economy,PayPal,547.08,43.77,8.68,30.78,568.76,"Address 1340, City, Country",Low
+1341,1153,2025-02-13,Completed,Standard,PayPal,677.71,54.22,7.43,100.91,638.44,"Address 1341, City, Country",Low
+1342,1936,2025-03-10,Processing,Overnight,Credit Card,801.24,64.1,8.19,40.39,833.13,"Address 1342, City, Country",Low
+1343,588,2024-08-03,Completed,Economy,PayPal,173.32,13.87,8.99,20.7,175.48,"Address 1343, City, Country",Low
+1344,1493,2024-11-13,Completed,Express,Credit Card,945.33,75.63,24.95,129.65,916.26,"Address 1344, City, Country",Medium
+1345,232,2025-03-27,Processing,Standard,Bank Transfer,439.8,35.18,6.5,65.97,415.52,"Address 1345, City, Country",Low
+1346,1390,2024-11-14,Shipped,Overnight,Digital Wallet,967.35,77.39,9.05,136.33,917.46,"Address 1346, City, Country",Low
+1347,265,2024-10-24,Shipped,Express,PayPal,480.05,38.4,22.11,79.07,461.5,"Address 1347, City, Country",Low
+1348,843,2025-01-17,Returned,Economy,Digital Wallet,179.42,14.35,14.71,28.67,179.81,"Address 1348, City, Country",Medium
+1349,87,2024-12-26,Completed,Express,Credit Card,542.32,43.39,15.95,36.27,565.38,"Address 1349, City, Country",Low
+1350,260,2025-06-04,Completed,Express,PayPal,108.72,8.7,22.62,3.09,136.95,"Address 1350, City, Country",Low
+1351,1057,2024-12-15,Cancelled,Express,Digital Wallet,716.12,57.29,22.41,91.82,704.01,"Address 1351, City, Country",Low
+1352,146,2025-06-03,Completed,Economy,Bank Transfer,634.83,50.79,20.78,120.5,585.9,"Address 1352, City, Country",Low
+1353,1832,2025-05-11,Processing,Standard,Digital Wallet,665.16,53.21,23.46,0.66,741.18,"Address 1353, City, Country",Low
+1354,863,2024-12-31,Completed,Express,Bank Transfer,906.25,72.5,9.49,5.71,982.52,"Address 1354, City, Country",Medium
+1355,1161,2024-10-06,Completed,Economy,PayPal,686.31,54.91,10.09,103.21,648.1,"Address 1355, City, Country",Medium
+1356,231,2024-08-22,Completed,Standard,PayPal,801.95,64.16,19.43,57.6,827.95,"Address 1356, City, Country",High
+1357,934,2024-09-20,Completed,Standard,PayPal,953.98,76.32,6.52,102.42,934.4,"Address 1357, City, Country",Medium
+1358,256,2025-04-05,Completed,Overnight,Digital Wallet,287.63,23.01,5.1,22.82,292.92,"Address 1358, City, Country",Low
+1359,1771,2025-05-10,Completed,Standard,Credit Card,300.76,24.06,12.33,2.91,334.25,"Address 1359, City, Country",High
+1360,885,2024-11-20,Completed,Overnight,PayPal,572.0,45.76,8.65,96.18,530.23,"Address 1360, City, Country",Low
+1361,586,2025-03-20,Completed,Standard,Credit Card,113.53,9.08,14.61,2.71,134.5,"Address 1361, City, Country",Low
+1362,567,2024-08-26,Completed,Express,Credit Card,976.85,78.15,17.16,152.6,919.55,"Address 1362, City, Country",Medium
+1363,1088,2025-05-23,Completed,Standard,PayPal,858.9,68.71,15.15,82.6,860.15,"Address 1363, City, Country",High
+1364,1106,2024-09-13,Cancelled,Overnight,Credit Card,810.66,64.85,19.31,128.23,766.58,"Address 1364, City, Country",High
+1365,1981,2025-05-19,Completed,Standard,Credit Card,689.32,55.15,6.08,21.4,729.15,"Address 1365, City, Country",Low
+1366,651,2024-12-25,Processing,Economy,Digital Wallet,347.24,27.78,18.63,21.13,372.52,"Address 1366, City, Country",Medium
+1367,276,2024-09-15,Completed,Overnight,Credit Card,543.21,43.46,13.55,106.53,493.69,"Address 1367, City, Country",Medium
+1368,622,2025-03-05,Processing,Express,Credit Card,500.44,40.04,11.84,10.71,541.61,"Address 1368, City, Country",Low
+1369,1624,2025-05-16,Completed,Express,Bank Transfer,263.75,21.1,12.05,38.43,258.47,"Address 1369, City, Country",Medium
+1370,1354,2024-12-21,Completed,Standard,PayPal,94.98,7.6,7.08,2.7,106.96,"Address 1370, City, Country",Medium
+1371,1843,2025-03-06,Completed,Economy,Digital Wallet,516.62,41.33,18.58,15.07,561.46,"Address 1371, City, Country",Low
+1372,1456,2025-06-26,Processing,Standard,Credit Card,266.87,21.35,7.4,13.2,282.42,"Address 1372, City, Country",Urgent
+1373,192,2025-06-25,Completed,Standard,Credit Card,374.61,29.97,6.88,16.51,394.95,"Address 1373, City, Country",Medium
+1374,1399,2025-06-08,Completed,Standard,Bank Transfer,181.88,14.55,6.58,21.42,181.59,"Address 1374, City, Country",Low
+1375,1087,2025-03-18,Completed,Economy,Digital Wallet,354.47,28.36,14.17,51.13,345.85,"Address 1375, City, Country",Medium
+1376,86,2024-09-18,Cancelled,Express,Bank Transfer,528.78,42.3,24.34,69.97,525.46,"Address 1376, City, Country",Medium
+1377,743,2024-09-25,Completed,Economy,Digital Wallet,854.92,68.39,23.24,24.31,922.25,"Address 1377, City, Country",Medium
+1378,275,2025-04-26,Completed,Express,Credit Card,289.34,23.15,5.45,7.86,310.08,"Address 1378, City, Country",Low
+1379,633,2025-05-05,Completed,Express,Credit Card,499.67,39.97,14.24,88.35,465.53,"Address 1379, City, Country",Medium
+1380,1673,2024-09-04,Completed,Express,Digital Wallet,879.52,70.36,15.22,10.25,954.86,"Address 1380, City, Country",Low
+1381,1992,2025-02-11,Completed,Standard,Bank Transfer,758.78,60.7,16.83,82.04,754.28,"Address 1381, City, Country",Urgent
+1382,1260,2024-08-04,Completed,Overnight,Credit Card,906.56,72.53,16.61,22.36,973.34,"Address 1382, City, Country",Medium
+1383,269,2024-10-30,Completed,Economy,Bank Transfer,156.17,12.49,20.8,2.48,186.98,"Address 1383, City, Country",Medium
+1384,1431,2024-08-24,Completed,Overnight,PayPal,52.83,4.23,10.06,2.94,64.18,"Address 1384, City, Country",Low
+1385,579,2024-10-18,Shipped,Economy,PayPal,804.68,64.37,14.09,140.94,742.21,"Address 1385, City, Country",Medium
+1386,181,2024-11-19,Completed,Economy,Credit Card,102.8,8.22,19.34,2.05,128.31,"Address 1386, City, Country",High
+1387,1916,2025-04-20,Shipped,Standard,Bank Transfer,579.42,46.35,6.34,1.66,630.45,"Address 1387, City, Country",Medium
+1388,143,2025-03-20,Shipped,Economy,Bank Transfer,705.12,56.41,7.59,26.89,742.23,"Address 1388, City, Country",Medium
+1389,969,2025-03-18,Completed,Express,Digital Wallet,579.87,46.39,21.18,14.87,632.56,"Address 1389, City, Country",Medium
+1390,1930,2024-12-25,Completed,Standard,Bank Transfer,154.23,12.34,15.32,12.18,169.71,"Address 1390, City, Country",Medium
+1391,688,2025-04-03,Completed,Economy,Credit Card,791.13,63.29,20.73,25.3,849.84,"Address 1391, City, Country",Low
+1392,746,2025-01-02,Completed,Overnight,PayPal,971.82,77.75,17.83,30.05,1037.35,"Address 1392, City, Country",Low
+1393,112,2024-12-24,Returned,Standard,Bank Transfer,60.8,4.86,5.03,10.05,60.65,"Address 1393, City, Country",Low
+1394,278,2024-11-21,Completed,Standard,Bank Transfer,224.09,17.93,21.96,25.9,238.08,"Address 1394, City, Country",Low
+1395,1663,2024-08-28,Completed,Overnight,Credit Card,128.38,10.27,21.84,3.12,157.37,"Address 1395, City, Country",Medium
+1396,446,2024-11-05,Shipped,Economy,Bank Transfer,989.63,79.17,5.41,77.83,996.38,"Address 1396, City, Country",Medium
+1397,250,2024-10-31,Completed,Express,Credit Card,920.79,73.66,23.41,14.32,1003.54,"Address 1397, City, Country",Medium
+1398,1226,2025-02-16,Completed,Express,PayPal,950.98,76.08,24.37,177.86,873.57,"Address 1398, City, Country",Medium
+1399,1454,2024-09-08,Completed,Express,Credit Card,442.59,35.41,14.83,14.82,478.01,"Address 1399, City, Country",Medium
+1400,1140,2025-01-28,Completed,Economy,Bank Transfer,903.8,72.3,5.04,133.53,847.61,"Address 1400, City, Country",Medium
+1401,754,2025-03-20,Completed,Overnight,Bank Transfer,974.11,77.93,19.88,13.13,1058.79,"Address 1401, City, Country",Low
+1402,359,2025-02-19,Completed,Standard,Digital Wallet,960.63,76.85,14.8,107.89,944.38,"Address 1402, City, Country",Medium
+1403,137,2025-02-16,Completed,Standard,Credit Card,814.64,65.17,22.85,8.39,894.27,"Address 1403, City, Country",Low
+1404,589,2025-01-17,Completed,Overnight,Digital Wallet,674.75,53.98,24.93,117.23,636.44,"Address 1404, City, Country",Medium
+1405,1434,2024-07-09,Returned,Express,Credit Card,359.53,28.76,6.29,46.83,347.75,"Address 1405, City, Country",Urgent
+1406,1563,2025-04-07,Processing,Express,Digital Wallet,414.81,33.18,7.06,67.71,387.34,"Address 1406, City, Country",Low
+1407,1901,2024-09-10,Processing,Express,Bank Transfer,950.5,76.04,5.08,185.7,845.92,"Address 1407, City, Country",Medium
+1408,1837,2025-05-25,Completed,Economy,Bank Transfer,415.78,33.26,18.84,11.21,456.67,"Address 1408, City, Country",Low
+1409,33,2025-05-17,Completed,Overnight,Digital Wallet,175.87,14.07,15.66,23.91,181.7,"Address 1409, City, Country",High
+1410,99,2025-06-16,Completed,Express,PayPal,657.07,52.57,22.55,68.94,663.24,"Address 1410, City, Country",Low
+1411,1038,2025-02-04,Completed,Express,PayPal,538.34,43.07,15.69,93.26,503.83,"Address 1411, City, Country",Urgent
+1412,246,2025-06-21,Completed,Standard,Digital Wallet,913.68,73.09,19.17,165.19,840.76,"Address 1412, City, Country",Medium
+1413,1616,2025-04-27,Completed,Overnight,PayPal,125.75,10.06,17.45,1.3,151.96,"Address 1413, City, Country",Urgent
+1414,14,2024-11-17,Processing,Economy,PayPal,502.93,40.23,20.68,93.56,470.28,"Address 1414, City, Country",Low
+1415,1796,2024-10-23,Completed,Express,Bank Transfer,772.96,61.84,13.65,112.46,735.98,"Address 1415, City, Country",High
+1416,1004,2025-06-09,Completed,Economy,Digital Wallet,523.97,41.92,9.23,18.14,556.97,"Address 1416, City, Country",Low
+1417,180,2025-06-16,Completed,Overnight,Credit Card,727.0,58.16,12.58,93.34,704.39,"Address 1417, City, Country",Medium
+1418,79,2024-11-18,Completed,Standard,Bank Transfer,502.24,40.18,16.76,42.78,516.4,"Address 1418, City, Country",Low
+1419,1982,2025-02-11,Completed,Overnight,Bank Transfer,330.29,26.42,23.66,4.68,375.69,"Address 1419, City, Country",Medium
+1420,1218,2025-04-06,Completed,Overnight,Digital Wallet,805.14,64.41,8.89,158.14,720.31,"Address 1420, City, Country",Low
+1421,1911,2024-10-26,Returned,Standard,PayPal,462.26,36.98,16.47,89.45,426.26,"Address 1421, City, Country",High
+1422,1406,2024-11-28,Completed,Overnight,Credit Card,403.22,32.26,8.3,16.87,426.91,"Address 1422, City, Country",Low
+1423,488,2025-06-04,Completed,Express,Bank Transfer,404.52,32.36,24.75,69.06,392.58,"Address 1423, City, Country",Low
+1424,1706,2025-01-04,Completed,Economy,Bank Transfer,420.76,33.66,18.6,24.9,448.12,"Address 1424, City, Country",Urgent
+1425,1758,2025-03-04,Completed,Standard,Digital Wallet,672.36,53.79,21.89,34.07,713.98,"Address 1425, City, Country",Low
+1426,1707,2024-08-10,Completed,Economy,PayPal,141.16,11.29,24.87,21.25,156.08,"Address 1426, City, Country",Low
+1427,1044,2024-12-09,Completed,Economy,Digital Wallet,651.22,52.1,25.0,66.78,661.53,"Address 1427, City, Country",Low
+1428,723,2024-10-18,Completed,Standard,Digital Wallet,111.64,8.93,15.11,13.43,122.24,"Address 1428, City, Country",Low
+1429,930,2025-03-21,Completed,Standard,Digital Wallet,225.87,18.07,22.2,42.68,223.46,"Address 1429, City, Country",Medium
+1430,799,2024-08-23,Completed,Overnight,Digital Wallet,955.18,76.41,17.5,137.01,912.09,"Address 1430, City, Country",Medium
+1431,798,2025-05-14,Completed,Overnight,Credit Card,355.25,28.42,14.49,52.28,345.88,"Address 1431, City, Country",Low
+1432,1137,2025-04-01,Completed,Overnight,Digital Wallet,820.22,65.62,21.49,124.55,782.78,"Address 1432, City, Country",Low
+1433,131,2024-10-09,Completed,Standard,Bank Transfer,608.32,48.67,17.71,50.06,624.63,"Address 1433, City, Country",High
+1434,1284,2024-10-10,Shipped,Standard,Bank Transfer,617.04,49.36,5.4,13.09,658.72,"Address 1434, City, Country",High
+1435,761,2024-07-21,Completed,Economy,Credit Card,184.61,14.77,14.06,0.81,212.63,"Address 1435, City, Country",Medium
+1436,1847,2024-12-31,Shipped,Express,Bank Transfer,163.06,13.04,14.46,9.33,181.23,"Address 1436, City, Country",Medium
+1437,1622,2025-04-28,Completed,Standard,Credit Card,538.34,43.07,21.6,24.92,578.09,"Address 1437, City, Country",Medium
+1438,1961,2025-05-29,Processing,Express,Credit Card,896.42,71.71,13.71,164.89,816.96,"Address 1438, City, Country",Medium
+1439,173,2024-11-25,Completed,Express,PayPal,270.1,21.61,5.29,35.3,261.7,"Address 1439, City, Country",Medium
+1440,1892,2025-04-29,Completed,Economy,Digital Wallet,271.26,21.7,15.31,39.54,268.73,"Address 1440, City, Country",Medium
+1441,398,2025-05-19,Completed,Standard,Bank Transfer,979.01,78.32,24.87,117.05,965.14,"Address 1441, City, Country",Low
+1442,477,2024-08-22,Completed,Economy,Credit Card,425.76,34.06,12.89,62.49,410.23,"Address 1442, City, Country",Medium
+1443,873,2025-01-24,Processing,Express,Credit Card,710.37,56.83,14.83,110.38,671.66,"Address 1443, City, Country",Low
+1444,1281,2025-02-06,Processing,Standard,Credit Card,919.81,73.59,14.43,26.33,981.5,"Address 1444, City, Country",Urgent
+1445,177,2024-12-31,Completed,Overnight,Credit Card,975.77,78.06,6.71,42.65,1017.9,"Address 1445, City, Country",Medium
+1446,1021,2025-06-23,Completed,Overnight,PayPal,936.5,74.92,24.83,80.25,956.01,"Address 1446, City, Country",Low
+1447,942,2025-05-13,Shipped,Standard,Bank Transfer,662.23,52.98,8.61,34.09,689.73,"Address 1447, City, Country",Medium
+1448,1889,2024-11-26,Completed,Overnight,Digital Wallet,458.23,36.66,8.93,75.34,428.47,"Address 1448, City, Country",Medium
+1449,1215,2025-05-19,Processing,Standard,Digital Wallet,572.26,45.78,12.52,14.61,615.95,"Address 1449, City, Country",Urgent
+1450,1750,2025-05-17,Shipped,Economy,Bank Transfer,439.83,35.19,14.57,57.79,431.79,"Address 1450, City, Country",High
+1451,1499,2025-06-29,Completed,Overnight,Bank Transfer,554.32,44.35,24.23,104.01,518.88,"Address 1451, City, Country",Low
+1452,1026,2025-03-09,Completed,Economy,Bank Transfer,113.81,9.1,7.83,7.03,123.7,"Address 1452, City, Country",Low
+1453,814,2025-06-22,Completed,Express,Bank Transfer,918.55,73.48,5.59,147.27,850.35,"Address 1453, City, Country",High
+1454,404,2024-10-07,Completed,Express,PayPal,417.7,33.42,22.51,28.42,445.22,"Address 1454, City, Country",Medium
+1455,1976,2025-06-03,Completed,Overnight,Credit Card,708.93,56.71,16.13,59.23,722.54,"Address 1455, City, Country",Low
+1456,1689,2024-10-05,Shipped,Standard,Credit Card,833.2,66.66,12.25,127.15,784.95,"Address 1456, City, Country",Medium
+1457,1948,2024-12-25,Completed,Overnight,Credit Card,199.65,15.97,15.66,6.58,224.71,"Address 1457, City, Country",Medium
+1458,1385,2025-05-15,Processing,Overnight,Bank Transfer,514.86,41.19,24.18,98.8,481.44,"Address 1458, City, Country",Urgent
+1459,1703,2024-12-16,Processing,Standard,Credit Card,340.5,27.24,16.9,22.65,361.98,"Address 1459, City, Country",Low
+1460,1968,2025-02-12,Completed,Overnight,Digital Wallet,260.38,20.83,12.81,26.87,267.14,"Address 1460, City, Country",Low
+1461,407,2024-10-02,Completed,Overnight,Credit Card,773.93,61.91,11.03,10.48,836.4,"Address 1461, City, Country",Low
+1462,1322,2024-10-22,Shipped,Express,Bank Transfer,889.55,71.16,20.34,6.08,974.97,"Address 1462, City, Country",Medium
+1463,689,2025-04-27,Shipped,Overnight,Bank Transfer,353.09,28.25,12.48,22.21,371.61,"Address 1463, City, Country",Medium
+1464,1464,2024-09-13,Shipped,Standard,Bank Transfer,607.54,48.6,11.19,83.28,584.05,"Address 1464, City, Country",High
+1465,1114,2024-10-23,Completed,Economy,Bank Transfer,973.21,77.86,8.24,12.2,1047.1,"Address 1465, City, Country",Low
+1466,135,2025-03-18,Completed,Overnight,Digital Wallet,840.07,67.21,11.59,99.56,819.31,"Address 1466, City, Country",Urgent
+1467,1629,2025-01-07,Completed,Standard,Bank Transfer,546.46,43.72,18.46,8.24,600.4,"Address 1467, City, Country",Medium
+1468,1265,2025-07-01,Processing,Economy,Bank Transfer,738.47,59.08,17.88,26.3,789.13,"Address 1468, City, Country",Low
+1469,876,2024-10-17,Completed,Economy,Bank Transfer,844.7,67.58,12.45,76.94,847.78,"Address 1469, City, Country",Low
+1470,108,2024-07-13,Processing,Express,PayPal,738.35,59.07,16.37,50.33,763.46,"Address 1470, City, Country",Medium
+1471,533,2024-08-05,Completed,Standard,Bank Transfer,87.51,7.0,10.5,0.34,104.67,"Address 1471, City, Country",Medium
+1472,1254,2025-03-22,Shipped,Standard,PayPal,168.78,13.5,17.0,12.69,186.59,"Address 1472, City, Country",Medium
+1473,1094,2024-12-22,Shipped,Economy,Credit Card,989.73,79.18,23.0,56.72,1035.18,"Address 1473, City, Country",High
+1474,740,2025-04-18,Completed,Overnight,Digital Wallet,706.54,56.52,23.63,16.66,770.02,"Address 1474, City, Country",Low
+1475,205,2024-11-30,Returned,Overnight,Bank Transfer,543.03,43.44,16.5,80.94,522.04,"Address 1475, City, Country",Low
+1476,1555,2024-07-23,Completed,Express,Credit Card,243.51,19.48,8.84,1.57,270.27,"Address 1476, City, Country",Medium
+1477,1005,2024-10-31,Shipped,Express,PayPal,746.27,59.7,5.42,59.07,752.32,"Address 1477, City, Country",Low
+1478,1583,2024-12-22,Completed,Overnight,Credit Card,281.19,22.49,7.0,45.96,264.72,"Address 1478, City, Country",Low
+1479,309,2024-08-11,Completed,Overnight,PayPal,124.13,9.93,16.52,17.4,133.17,"Address 1479, City, Country",Low
+1480,1735,2025-01-13,Completed,Standard,Bank Transfer,807.9,64.63,24.48,56.24,840.78,"Address 1480, City, Country",Medium
+1481,748,2024-07-18,Processing,Overnight,Bank Transfer,198.23,15.86,5.15,13.64,205.61,"Address 1481, City, Country",Medium
+1482,1039,2025-05-11,Completed,Standard,PayPal,526.97,42.16,17.21,19.61,566.72,"Address 1482, City, Country",Medium
+1483,1126,2024-11-17,Shipped,Economy,PayPal,725.47,58.04,13.53,64.8,732.24,"Address 1483, City, Country",Medium
+1484,921,2025-01-01,Shipped,Standard,Bank Transfer,846.97,67.76,15.45,93.6,836.58,"Address 1484, City, Country",High
+1485,460,2024-12-18,Cancelled,Economy,Bank Transfer,471.33,37.71,11.87,20.13,500.78,"Address 1485, City, Country",Medium
+1486,1209,2025-03-16,Completed,Standard,Bank Transfer,672.31,53.78,8.88,47.9,687.08,"Address 1486, City, Country",Low
+1487,486,2024-08-06,Returned,Overnight,Credit Card,247.01,19.76,13.18,9.66,270.29,"Address 1487, City, Country",High
+1488,1405,2025-03-24,Completed,Express,Digital Wallet,408.97,32.72,9.63,52.0,399.32,"Address 1488, City, Country",Low
+1489,968,2024-09-06,Completed,Standard,Credit Card,591.84,47.35,23.14,101.69,560.63,"Address 1489, City, Country",Medium
+1490,426,2024-12-13,Completed,Overnight,Digital Wallet,608.64,48.69,20.7,1.43,676.6,"Address 1490, City, Country",Low
+1491,1962,2025-06-01,Completed,Economy,Credit Card,267.04,21.36,9.07,22.42,275.05,"Address 1491, City, Country",Medium
+1492,438,2025-04-03,Completed,Economy,Credit Card,465.13,37.21,9.16,62.41,449.1,"Address 1492, City, Country",Low
+1493,1793,2025-04-27,Returned,Overnight,Digital Wallet,74.23,5.94,10.16,2.41,87.91,"Address 1493, City, Country",Low
+1494,1083,2024-09-25,Completed,Overnight,PayPal,455.46,36.44,12.13,90.91,413.12,"Address 1494, City, Country",Low
+1495,1366,2024-12-13,Completed,Standard,Bank Transfer,536.61,42.93,13.78,29.06,564.26,"Address 1495, City, Country",Medium
+1496,1019,2024-07-29,Completed,Economy,Bank Transfer,196.06,15.68,23.95,21.29,214.41,"Address 1496, City, Country",Low
+1497,178,2025-02-01,Completed,Overnight,PayPal,80.32,6.43,16.88,14.03,89.59,"Address 1497, City, Country",Medium
+1498,1971,2024-10-01,Completed,Economy,Credit Card,945.61,75.65,15.06,182.96,853.35,"Address 1498, City, Country",Low
+1499,1143,2024-12-21,Processing,Express,PayPal,124.77,9.98,8.51,6.46,136.8,"Address 1499, City, Country",High
+1500,1198,2024-12-13,Shipped,Economy,Credit Card,984.92,78.79,22.58,116.4,969.88,"Address 1500, City, Country",Medium
